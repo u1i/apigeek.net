@@ -1,6 +1,7 @@
 ## About me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
+* [GitHub](https://github.com/u1i)
 
 ## API Toolbox
 
