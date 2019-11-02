@@ -16,7 +16,6 @@
 * [keiju](https://github.com/u1i/keiju) - Minimalist API Gateway in a ~25 MB Container.
 * [samsa](https://github.com/u1i/samsa) converts between OpenAPI v2 and v3 formats (YAML/JSON)
 * [majime](https://github.com/u1i/majime) – Dead Simple API Unit Testing
-* 
 
 ## Hacks
 
