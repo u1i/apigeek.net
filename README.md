@@ -5,10 +5,6 @@
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
 * [GitHub](https://github.com/u1i)
 
-## API Toolbox
-
-* [Toolbox](https://github.com/u1i/api-toolbox) 
-
 ## Projects
 
 * [Yoisho Open Banking Project](https://github.com/u1i/yoisho)
