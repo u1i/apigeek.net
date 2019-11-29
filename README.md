@@ -17,6 +17,16 @@
 * [samsa](https://github.com/u1i/samsa) converts between OpenAPI v2 and v3 formats (YAML/JSON)
 * [majime](https://github.com/u1i/majime) – Dead Simple API Unit Testing
 
+## Speaking at Events
+
+* [PyCon Bangkok (June 2018)](https://github.com/u1i/slides/blob/master/20180617%20PyCon%20Thailand.pdf)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
 ## Hacks
 
 ### Instagram Analysis
