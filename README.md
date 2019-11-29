@@ -17,15 +17,20 @@
 * [samsa](https://github.com/u1i/samsa) converts between OpenAPI v2 and v3 formats (YAML/JSON)
 * [majime](https://github.com/u1i/majime) – Dead Simple API Unit Testing
 
-## Speaking at Events
+## Slides from Recent Speaking Engagements
 
 * [PyCon Bangkok (June 2018)](https://github.com/u1i/slides/blob/master/20180617%20PyCon%20Thailand.pdf)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Stripe - API for Humans (March 2019)](https://github.com/u1i/slides/blob/master/20190307%20-%20APIs%20for%20Humans%20-%20Stripe.pdf)
+* [RedisConf San Francisco (April 2019)](https://github.com/u1i/slides/blob/master/20190402%20RedisConf19.pdf)
+* [DevOpsDays Jakarta (April 2019)](https://github.com/u1i/slides/blob/master/20190411%20DevOpsDays%20Jakarta.pdf)
+* [Open Banking @ API Days Singapore (April 2019)](https://github.com/u1i/slides/blob/master/20190424%20Open%20Banking%20API%20Days%20Singapore.pdf)
+* [Kafka Meetup Helsinki (June 2019)](https://github.com/u1i/slides/blob/master/20190606%20Kafka%20Meetup%20Helsinki.pdf)
+* [Microsoft Data Engineering Meetup Singapore (June 2019)](https://github.com/u1i/slides/blob/master/20190619%20Singapore%20Data%20Engineering%20Meetup.pdf)
+* [API Meetup Sydney (September 2019)](https://github.com/u1i/slides/blob/master/20190917%20API%20Meetup%20Sydney%20-%20Event-driven%20APIs.pdf)
+* [API Days Melbourne (September 2019)](https://github.com/u1i/slides/blob/master/20190920%20API%20Days%20Melbourne_%20Well%20Crafted%20API%20Models_%20Key%20to%20Streamlining%20Workflows.pdf)
+* [API Asia, Sri Lanka (October 2019)](https://github.com/u1i/slides/blob/master/20191002%20API%20Asia%20-%20APIs%20for%20Humans.pdf)
+* [API Craft Meetup Singapore (November 2019)](https://github.com/u1i/slides/blob/master/20191114%20API%20Craft%20Meetup%20Singapore%20-%20Event-driven%20APIs.pdf)
+* [Python User Group (November 2019)](https://github.com/u1i/slides/blob/master/20191126%20Python%20User%20Group%20Singapore.pdf)
 
 ## Hacks
 
