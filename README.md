@@ -27,6 +27,8 @@
 * [API Asia, Sri Lanka (October 2019)](https://github.com/u1i/slides/blob/master/20191002%20API%20Asia%20-%20APIs%20for%20Humans.pdf)
 * [API Craft Meetup Singapore (November 2019)](https://github.com/u1i/slides/blob/master/20191114%20API%20Craft%20Meetup%20Singapore%20-%20Event-driven%20APIs.pdf)
 * [Python User Group (November 2019)](https://github.com/u1i/slides/blob/master/20191126%20Python%20User%20Group%20Singapore.pdf)
+* [Guest Lecturing @ National University of Singapore (February 2020)](https://github.com/u1i/slides/blob/master/20200211%20NUS%20Singapore.pdf)
+* ['Working from Mars' – Online Meetup on The Future of Work (February 2020)](https://github.com/u1i/slides/blob/master/20200220%20Working%20From%20Mars.pdf) | [Event Landing Page](https://martians.sg/working-from-mars) | [YouTube Playlist](https://www.youtube.com/playlist?list=PLVzAr5FlnqB5-B0KlCdEFLXS9YVNitWkR)
 
 ## Hacks
 
