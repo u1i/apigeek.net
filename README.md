@@ -29,6 +29,7 @@
 * [Python User Group (November 2019)](https://github.com/u1i/slides/blob/master/20191126%20Python%20User%20Group%20Singapore.pdf)
 * [Guest Lecturing @ National University of Singapore (February 2020)](https://github.com/u1i/slides/blob/master/20200211%20NUS%20Singapore.pdf)
 * ['Working from Mars' – Online Meetup on The Future of Work (February 2020)](https://github.com/u1i/slides/blob/master/20200220%20Working%20From%20Mars.pdf) - [Event Landing Page](https://martians.sg/working-from-mars) - [YouTube Playlist](https://www.youtube.com/playlist?list=PLVzAr5FlnqB5-B0KlCdEFLXS9YVNitWkR)
+* [API Craft Jakarta (February 2020)](https://github.com/u1i/slides/blob/master/20200224%20API%20Craft%20Jakarta.pdf)
 
 ## Hacks
 
