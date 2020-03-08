@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/u1i
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://apigeek.net
+  * I am u1i (https://keybase.io/u1i) on keybase.
+  * I have a public key ASAvDY9D8WzseUZIW03LQdMIMM0cpOjXfEBZc31wwIRHQwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202605f0853cba1d792f27385dfc678a8935ccad5c01f6c5d1c0ea85b93160990f0a",
+      "host": "keybase.io",
+      "kid": "01202f0d8f43f16cec7946485b4dcb41d30830cd1ca4e8d77c4059737d70c08447430a",
+      "uid": "d767c065604127671aca5586ecc3d919",
+      "username": "u1i"
+    },
+    "merkle_root": {
+      "ctime": 1583646869,
+      "hash": "dca7603437067525b7c805559d1b192ac2791ab612b4f7acbccc5a55e8a2bc96e19f89fa5984d924da507d7aa4e92f691d22fa7b937406dddd1dde85fe28a8b0",
+      "hash_meta": "2f655d95f317286e34ffd0fd1d14012826c5ac9099b1a5448773a9c2d969a890",
+      "seqno": 15166493
+    },
+    "service": {
+      "entropy": "ntpJ/Ey+wnPK63/oC3O2APcq",
+      "hostname": "apigeek.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.1"
+  },
+  "ctime": 1583646888,
+  "expire_in": 504576000,
+  "prev": "f13f7da1d668480a0cee9082673025e1acae8dc9bf6c11c227634d43423de736",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLw2PQ/Fs7HlGSFtNy0HTCDDNHKTo13xAWXN9cMCER0MKp3BheWxvYWTESpcCJsQg8T99odZoSAoM7pCCZzAl4ayujcm/bBHCJ2NNQ0I95zbEIDSXutsbsQy2E7jvzgrSTvb4/B+OuB3DQyKcZBWcZY+OAgHCo3NpZ8RAUPvIveNpQ/zf9dsG5fDqMMWALBPi7MVSIKBs+s/4ibBCodvrRjPYjx/kvwtapAuXzQnzAjsCavjttLN7oWZoA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIFgF6NZRRJGu039rVGj0QYcH049xhME28YVsPRcEo0Yo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/u1i
+
+==================================================================
