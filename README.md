@@ -43,7 +43,7 @@ Using cognitive services & computer vision to go through a feed of Instagram pho
 
 ### ISS Tracker
 
-Tracking the International Space station over the course of one day and visualizing the flight path on a Google Earth like globe.
+Tracking the International Space station over the course of one day and visualizing the flight path on a Google Earth like globe
 
 #### [ISS Map](http://iss.sotong.io/)
 #### [Code on Github](https://github.com/u1i/iss-tracker)
@@ -63,25 +63,25 @@ A refreshingly depressed robot from the Hitchhiker's Guide to the Galaxy - on Tw
 
 ### Face Recognition Photobooth
 
-Look into the camera and it will render dots onto your eyes, a square around your face and take a guess on your gender and age.
+Look into the camera and it will render dots onto your eyes, a square around your face and take a guess on your gender and age
 
 #### [Docu and Code](https://github.com/u1i/realtime-face-recognition-webcam-osx)
 
 ### Big Bang Theory Opening Sequence
 
-Computer Vision AI looking at every single frame and tells us what it sees.
+Computer Vision AI looking at every single frame and tells us what it sees
 
 #### [All Frames & Results](https://github.com/u1i/bbt)
 
 ### UBER Waiting Time
 
-Using APIs to find out how much time I usually spend waiting for my UBER to arrive.
+Using APIs to find out how much time I usually spend waiting for my UBER to arrive
 
 #### [Code & Output](https://github.com/u1i/uber-api-calculate-waiting-times)
 
 ### Short Jokes via DNS
 
-Not the most visual hack, built just to make a point. You could have an API that you query over DNS/UDP with short TTL using TXT records. Try this: `dig sj.sotong.io TXT +short` and you'll get a short joke (base64 encoded).
+Not the most visual hack, built just to make a point. You could have an API that you query over DNS/UDP with short TTL using TXT records. Try this: `dig sj.sotong.io TXT +short` and you'll get a short joke (base64 encoded)
 
 ### Spotify: Analyze Playlist
 
