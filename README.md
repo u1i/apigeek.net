@@ -3,6 +3,7 @@
 ## About me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
+* [Timeline of Posts on LinkedIn](https://www.linkedin.com/in/uhitzel/detail/recent-activity/shares/)
 * [GitHub](https://github.com/u1i)
 
 ## Projects
@@ -30,6 +31,16 @@
 * [Guest Lecturing @ National University of Singapore (February 2020)](https://github.com/u1i/slides/blob/master/20200211%20NUS%20Singapore.pdf)
 * ['Working from Mars' – Online Meetup on The Future of Work (February 2020)](https://github.com/u1i/slides/blob/master/20200220%20Working%20From%20Mars.pdf) - [Event Landing Page](https://martians.sg/working-from-mars)
 * [API Craft Jakarta (February 2020)](https://github.com/u1i/slides/blob/master/20200224%20API%20Craft%20Jakarta.pdf)
+
+## Articles
+
+* [Get Out Of Your Kitchen!](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Get%20out%20of%20your%20Kitchen.pdf) (March 2020)
+* [Collaborate – Or Die](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Collaborate%20%E2%80%93%20or%20Die.pdf) (November 2019)
+* [Bambleweeny – It's like WhatsApp, just for Machines](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Bambleweeny.pdf) (June 2019)
+* [50 Lines of Python: Spotify, APIs & OAuth](https://github.com/u1i/articles/blob/master/LinkedIn%20-%2050%20Lines%20of%20Python%20-%20Spotify%20APIs%20OAuth.pdf) (January 2019)
+* [Thinking Distributed](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Thinking%20Distributed.pdf) (May 2018)
+* [The Intergalactic Guide to Blockchain](https://github.com/u1i/articles/blob/master/LinkedIn%20-%20Blockchain.pdf) (January 2018)
+* [Making Sense of Open APIs](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Singapore%20Buses.pdf) (January 2018)
 
 ## Hacks
 
