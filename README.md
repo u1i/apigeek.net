@@ -95,7 +95,7 @@ Using APIs to find out how much time I usually spend waiting for my UBER to arri
 
 ### Short Jokes via DNS
 
-Not the most visual hack, built just to make a point. You could have an API that you query over DNS/UDP with short TTL using TXT records. Try this: `dig sj.sotong.io TXT +short` and you'll get a short joke (base64 encoded)
+Not the most visual hack, built just to make a point. You could have an API that you query over DNS/UDP with short TTL using TXT records. Try this: `dig sj.sotong.io TXT +short` and you'll get a short joke (base64 encoded)!
 
 ### Spotify: Analyze Playlist
 
