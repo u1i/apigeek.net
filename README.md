@@ -35,6 +35,7 @@
 
 ## Articles
 
+* [The Digital Mindset](https://blog.axway.com/digital-transformation/the-digital-mindset) (August 2020)
 * [The Fallacy of the One-Stop Shop](https://blog.axway.com/digital-transformation/fallacy-of-one-stop-shop) (June 2020)
 * [Microservices: Build for Speed, Design for Change](https://github.com/u1i/articles/raw/master/Axway%20-%20Microservices.pdf) (May 2020)
 * [Get Out Of Your Kitchen!](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Get%20out%20of%20your%20Kitchen.pdf) (March 2020)
