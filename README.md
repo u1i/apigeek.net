@@ -16,6 +16,7 @@
 
 ## Slides from Recent Speaking Engagements
 
+* [Redis Meetup Singapore (April 2018)](https://github.com/u1i/slides/blob/master/20180418-RedisSG-Meetup1.pdf)
 * [PyCon Bangkok (June 2018)](https://github.com/u1i/slides/blob/master/20180617%20PyCon%20Thailand.pdf)
 * [Stripe - API for Humans (March 2019)](https://github.com/u1i/slides/blob/master/20190307%20-%20APIs%20for%20Humans%20-%20Stripe.pdf)
 * [RedisConf San Francisco (April 2019)](https://github.com/u1i/slides/blob/master/20190402%20RedisConf19.pdf)
