@@ -14,7 +14,7 @@
 * [samsa](https://github.com/u1i/samsa) converts between OpenAPI v2 and v3 formats (YAML/JSON)
 * [majime](https://github.com/u1i/majime) – Dead Simple API Unit Testing
 
-## Slides from Recent Speaking Engagements
+## Speaking Engagements – Slides
 
 * [Redis Meetup Singapore (April 2018)](https://github.com/u1i/slides/blob/master/20180418-RedisSG-Meetup1.pdf)
 * [PyCon Bangkok (June 2018)](https://github.com/u1i/slides/blob/master/20180617%20PyCon%20Thailand.pdf)
@@ -23,6 +23,7 @@
 * [DevOpsDays Jakarta (April 2019)](https://github.com/u1i/slides/blob/master/20190411%20DevOpsDays%20Jakarta.pdf)
 * [Open Banking @ API Days Singapore (April 2019)](https://github.com/u1i/slides/blob/master/20190424%20Open%20Banking%20API%20Days%20Singapore.pdf)
 * [Kafka Meetup Helsinki (June 2019)](https://github.com/u1i/slides/blob/master/20190606%20Kafka%20Meetup%20Helsinki.pdf)
+* [API Days Helsinki, London, Melbourne, Paris, San Francisco, Zurich – Hands-on Session (throughout 2019)](https://github.com/u1i/axway-wcam-lab)
 * [Microsoft Data Engineering Meetup Singapore (June 2019)](https://github.com/u1i/slides/blob/master/20190619%20Singapore%20Data%20Engineering%20Meetup.pdf)
 * [API Meetup Sydney (September 2019)](https://github.com/u1i/slides/blob/master/20190917%20API%20Meetup%20Sydney%20-%20Event-driven%20APIs.pdf)
 * [API Days Melbourne (September 2019)](https://github.com/u1i/slides/blob/master/20190920%20API%20Days%20Melbourne_%20Well%20Crafted%20API%20Models_%20Key%20to%20Streamlining%20Workflows.pdf)
@@ -30,9 +31,12 @@
 * [API Craft Meetup Singapore (November 2019)](https://github.com/u1i/slides/blob/master/20191114%20API%20Craft%20Meetup%20Singapore%20-%20Event-driven%20APIs.pdf)
 * [Python User Group (November 2019)](https://github.com/u1i/slides/blob/master/20191126%20Python%20User%20Group%20Singapore.pdf)
 * [Guest Lecturing @ National University of Singapore (February 2020)](https://github.com/u1i/slides/blob/master/20200211%20NUS%20Singapore.pdf)
-* ['Working from Mars' – Online Meetup on The Future of Work (February 2020)](https://github.com/u1i/slides/blob/master/20200220%20Working%20From%20Mars.pdf) - [Event Landing Page](https://martians.sg/working-from-mars)
+* ['Working from Mars' – Online Meetup on The Future of Work (February 2020)](https://github.com/u1i/slides/blob/master/20200220%20Working%20From%20Mars.pdf) - [Event Landing Page](https://raw.githubusercontent.com/u1i/slides/master/202002020-wfm01-landing-page-event.png)
+* ['Working from Mars - Running Digital Events (March 2020)'](https://raw.githubusercontent.com/u1i/slides/master/20200318-wfm02-landing-page.png)
 * [API Craft Jakarta (February 2020)](https://github.com/u1i/slides/blob/master/20200224%20API%20Craft%20Jakarta.pdf)
 * [SCALE Jakarta (April 2020)](https://github.com/u1i/slides/raw/master/20200430%20Scale%20Jakarta.pdf)
+* [FinTech Programme at National University of Singapore (since June 2020)](https://stmi.nus.edu.sg/nus-fintechsg-program/)
+* API Days Melbourne (September 2020)
 
 ## Articles
 
@@ -46,6 +50,13 @@
 * [Thinking Distributed](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Thinking%20Distributed.pdf) (May 2018)
 * [The Intergalactic Guide to Blockchain](https://github.com/u1i/articles/blob/master/LinkedIn%20-%20Blockchain.pdf) (January 2018)
 * [Making Sense of Open APIs](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Singapore%20Buses.pdf) (January 2018)
+
+## Learning Material, Exercises, Labs & Co
+
+* [API Challenge - an interactice scavenger hunt around the world. Used at API Days 2019](https://apichallenge.xwaay.net/) (you'll need an API Key to play)
+* [API Builder Learning Lab](https://github.com/u1i/axway-wcam-lab)
+* [Docker Getting Started](https://github.com/u1i/docker-hello)
+* [Ansible Hands-On Exercise](https://github.com/u1i/ansible-exercise)
 
 ## Hacks
 
