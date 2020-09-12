@@ -57,6 +57,8 @@
 * [API Builder Learning Lab](https://github.com/u1i/axway-wcam-lab)
 * [Docker Getting Started](https://github.com/u1i/docker-hello)
 * [Ansible Hands-On Exercise](https://github.com/u1i/ansible-exercise)
+* [Redis Getting Started](https://github.com/u1i/redis-getting-started)
+* [MongoDB Getting Started](https://github.com/u1i/mongodb-getting-started)
 
 ## Hacks
 
