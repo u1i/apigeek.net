@@ -1,5 +1,7 @@
 # API Geek
 
+![](./uli-round-small.png)
+
 ## About me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
