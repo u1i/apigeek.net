@@ -40,16 +40,18 @@
 
 ## Articles
 
-* [The Digital Mindset](https://blog.axway.com/digital-transformation/the-digital-mindset) (August 2020)
-* [The Fallacy of the One-Stop Shop](https://blog.axway.com/digital-transformation/fallacy-of-one-stop-shop) (June 2020)
-* [Microservices: Build for Speed, Design for Change](https://github.com/u1i/articles/raw/master/Axway%20-%20Microservices.pdf) (May 2020)
-* [Get Out Of Your Kitchen!](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Get%20out%20of%20your%20Kitchen.pdf) (March 2020)
-* [Collaborate – Or Die](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Collaborate%20%E2%80%93%20or%20Die.pdf) (November 2019)
-* [Bambleweeny – It's like WhatsApp, just for Machines](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Bambleweeny.pdf) (June 2019)
-* [50 Lines of Python: Spotify, APIs & OAuth](https://github.com/u1i/articles/blob/master/LinkedIn%20-%2050%20Lines%20of%20Python%20-%20Spotify%20APIs%20OAuth.pdf) (January 2019)
-* [Thinking Distributed](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Thinking%20Distributed.pdf) (May 2018)
-* [The Intergalactic Guide to Blockchain](https://github.com/u1i/articles/blob/master/LinkedIn%20-%20Blockchain.pdf) (January 2018)
 * [Making Sense of Open APIs](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Singapore%20Buses.pdf) (January 2018)
+* [The Intergalactic Guide to Blockchain](https://github.com/u1i/articles/blob/master/LinkedIn%20-%20Blockchain.pdf) (January 2018)
+* [Thinking Distributed](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Thinking%20Distributed.pdf) (May 2018)
+* [50 Lines of Python: Spotify, APIs & OAuth](https://github.com/u1i/articles/blob/master/LinkedIn%20-%2050%20Lines%20of%20Python%20-%20Spotify%20APIs%20OAuth.pdf) (January 2019)
+* [Bambleweeny – It's like WhatsApp, just for Machines](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Bambleweeny.pdf) (June 2019)
+* [Collaborate – Or Die](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Collaborate%20%E2%80%93%20or%20Die.pdf) (November 2019)
+* [Get Out Of Your Kitchen!](https://github.com/u1i/articles/raw/master/LinkedIn%20-%20Get%20out%20of%20your%20Kitchen.pdf) (March 2020)
+* [Microservices: Build for Speed, Design for Change](https://github.com/u1i/articles/raw/master/Axway%20-%20Microservices.pdf) (May 2020)
+* [The Fallacy of the One-Stop Shop](https://blog.axway.com/digital-transformation/fallacy-of-one-stop-shop) (June 2020)
+* [The Digital Mindset](https://blog.axway.com/digital-transformation/the-digital-mindset) (August 2020)
+
+
 
 ## Learning Material, Exercises, Labs & Co
 
