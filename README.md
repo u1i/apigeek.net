@@ -38,7 +38,7 @@
 * [API Craft Jakarta](https://github.com/u1i/slides/blob/master/20200224%20API%20Craft%20Jakarta.pdf) (February 2020)
 * [SCALE Jakarta](https://github.com/u1i/slides/blob/master/20200430%20Scale%20Jakarta.pdf) (April 2020)
 * [FinTech Programme at National University of Singapore](https://stmi.nus.edu.sg/nus-fintechsg-program/) (since June 2020)
-* API Days Melbourne (September 2020)
+* [API Days Australia](https://github.com/u1i/slides/blob/master/20200916%20API%20Days%20Australia.pdf) (September 2020)
 
 ## Articles
 
