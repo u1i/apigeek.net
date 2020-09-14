@@ -66,6 +66,7 @@
 * [Ansible Hands-On Exercise](https://github.com/u1i/ansible-exercise)
 * [Redis Getting Started](https://github.com/u1i/redis-getting-started)
 * [MongoDB Getting Started](https://github.com/u1i/mongodb-getting-started)
+* [majime Hands-On Exercise](https://github.com/u1i/majime-exercise)
 
 ## Hacks
 
