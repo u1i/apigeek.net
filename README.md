@@ -60,13 +60,14 @@
 
 ## Learning Material, Exercises, Labs & Co
 
-* [API Challenge - an interactice scavenger hunt around the world. Used at API Days 2019](https://apichallenge.xwaay.net/) (you'll need an API Key to play)
+* [API Challenge - an interactice scavenger hunt around the world. Used at API Days 2019](https://apichallenge.xwaay.net/) (you'll need an API Key to play) | [Visuals](./resources/apichallenge1.jpg)
 * [API Builder Learning Lab](https://github.com/u1i/axway-wcam-lab)
 * [Docker Getting Started](https://github.com/u1i/docker-hello)
 * [Ansible Hands-On Exercise](https://github.com/u1i/ansible-exercise)
 * [Redis Getting Started](https://github.com/u1i/redis-getting-started)
 * [MongoDB Getting Started](https://github.com/u1i/mongodb-getting-started)
 * [majime Hands-On Exercise](https://github.com/u1i/majime-exercise)
+* [API Stickers](./resources/stickers.md)
 
 ## Hacks
 
