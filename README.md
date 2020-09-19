@@ -7,6 +7,7 @@
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
 * [Timeline of Posts on LinkedIn](https://www.linkedin.com/in/uhitzel/detail/recent-activity/shares/)
 * [GitHub](https://github.com/u1i)
+* [Speaker Photos & Bio](https://github.com/u1i/u1i)
 
 ## Projects
 
