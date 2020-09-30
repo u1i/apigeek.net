@@ -35,11 +35,12 @@
 * [Python User Group](https://github.com/u1i/slides/blob/master/20191126%20Python%20User%20Group%20Singapore.pdf) (November 2019)
 * [Guest Lecturing @ National University of Singapore](https://github.com/u1i/slides/blob/master/20200211%20NUS%20Singapore.pdf) (February 2020)
 * ['Working from Mars' – Online Meetup on The Future of Work](https://github.com/u1i/slides/blob/master/20200220%20Working%20From%20Mars.pdf) - [Event Landing Page](https://raw.githubusercontent.com/u1i/slides/master/202002020-wfm01-landing-page-event.png) (February 2020)
-* ['Working from Mars - Running Digital Events'](https://raw.githubusercontent.com/u1i/slides/master/20200318-wfm02-landing-page.png) (March 2020)
 * [API Craft Jakarta](https://github.com/u1i/slides/blob/master/20200224%20API%20Craft%20Jakarta.pdf) (February 2020)
+* ['Working from Mars - Running Digital Events'](https://raw.githubusercontent.com/u1i/slides/master/20200318-wfm02-landing-page.png) (March 2020)
 * [SCALE Jakarta](https://github.com/u1i/slides/blob/master/20200430%20Scale%20Jakarta.pdf) (April 2020)
 * [FinTech Programme at National University of Singapore](https://stmi.nus.edu.sg/nus-fintechsg-program/) (since June 2020)
 * [API Days Australia](https://github.com/u1i/slides/blob/master/20200916%20API%20Days%20Australia.pdf) (September 2020)
+* [API Days Jakarta](https://github.com/u1i/slides/blob/master/20200930%20API%20Days%20Jakarta.pdf)
 
 ## Articles
 
