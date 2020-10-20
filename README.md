@@ -58,6 +58,7 @@
 * [Microservices: Build for Speed, Design for Change](https://blog.axway.com/amplify/api-management/microservices-design-for-change) (May 2020)
 * [The Fallacy of the One-Stop Shop](https://blog.axway.com/digital-transformation/fallacy-of-one-stop-shop) (June 2020)
 * [The Digital Mindset](https://blog.axway.com/digital-transformation/the-digital-mindset) (August 2020)
+* [The role of organizational culture in Digital Transformation](https://apifriends.com/digital-transformation/organizational-culture) (October 2020)
 
 
 
