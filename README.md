@@ -42,6 +42,7 @@
 * [API Days Australia](https://github.com/u1i/slides/blob/master/20200916%20API%20Days%20Australia.pdf) (September 2020)
 * [API Days Jakarta](https://github.com/u1i/slides/blob/master/20200930%20API%20Days%20Jakarta.pdf) (September 2020)
 * [FinTech SG](https://github.com/u1i/slides/blob/master/20201006%20FinTechSG%20Programme%20Intro.pdf) (October 2020)
+* API Days Paris (November 2020)
 
 ## Articles
 
