@@ -73,6 +73,7 @@
 * [Redis Getting Started](https://github.com/u1i/redis-getting-started)
 * [MongoDB Getting Started](https://github.com/u1i/mongodb-getting-started)
 * [majime Hands-On Exercise](https://github.com/u1i/majime-exercise)
+* [k3s Getting Started](https://github.com/u1i/k3s-quickstart)
 * [API Stickers](./resources/stickers.md)
 
 ## Hacks
