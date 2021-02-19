@@ -75,6 +75,7 @@
 * [majime Hands-On Exercise](https://github.com/u1i/majime-exercise)
 * [k3s Getting Started](https://github.com/u1i/k3s-quickstart)
 * [API Stickers](./resources/stickers.md)
+* [k3s Exercise](https://github.com/u1i/apigeek.net)
 
 ## Hacks
 
