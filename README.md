@@ -62,6 +62,7 @@
 * [The Fallacy of the One-Stop Shop](https://blog.axway.com/digital-transformation/fallacy-of-one-stop-shop) (June 2020)
 * [The Digital Mindset](https://blog.axway.com/digital-transformation/the-digital-mindset) (August 2020)
 * [The role of organizational culture in Digital Transformation](https://apifriends.com/digital-transformation/organizational-culture) (October 2020)
+* [Microservices & Agility](https://github.com/u1i/articles/blob/master/itzoom-microserves-german.pdf) (german, February 2021)
 
 
 
