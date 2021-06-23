@@ -59,6 +59,12 @@
 * [Python Web Conf 2021](https://github.com/u1i/slides/blob/master/20210325%20Python%20Web%20Conf%202021.pdf) (March 2021)
 * [Singapore Ministry of Health – Webinar](https://www.linkedin.com/posts/assurity-trusted-solutions-pte-ltd_telemedicine-healthcareinnovation-digitalhealth-activity-6782111801195790336-B0e_) (April 2021)
 
+## Meetup Groups (Organizer)
+
+* [Mostly Harmless](https://github.com/u1i/mostly-harmless)
+* [Redis User Group Singapore](https://github.com/u1i/slides/blob/master/20180418-RedisSG-Meetup1.pdf)
+* [The Martians](https://martians.sg/)
+
 ## Articles
 
 * [Did this AI bot feel hungry after looking at all my Instagram photos?](https://www.linkedin.com/pulse/did-ai-bot-feel-hungry-after-looking-all-my-instagram-uli-hitzel/) (March 2017)
