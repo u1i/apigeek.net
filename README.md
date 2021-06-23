@@ -19,6 +19,19 @@
 
 ## Speaking Engagements – Slides
 
+* [Provisioning Cloud Environments with HP OO](https://github.com/u1i/slides/blob/master/20081211%20HP%20Operations%20Orchestration.ppt) (December 2008)
+* [Architecting Clouds with IBM](https://github.com/u1i/slides/blob/master/20120801%20IBM%20Architecting%20Clouds.pdf) (August 2012)
+* [Cloud Computing for Developers – Spring User Group](https://github.com/u1i/slides/blob/master/20140317%20Cloud%20-%20Spring%20User%20Group%20Singapore.pdf) (March 2014)
+* [Red Hat OpenStack @ Dell Summit](https://github.com/u1i/slides/blob/master/20141016%20Dell%20Summit%20RH%20OpenStack.pdf) (October 2014)
+* [Nuage Networks - Integration with Red Hat Cloud Management Platforms](https://github.com/u1i/slides/blob/master/20141028%20SReXperts%20Macau.pdf) (October 2014)
+* [OpenStack Deployments Around the World – Beijing](https://github.com/u1i/slides/blob/master/20150513%20%20OpenStack%20Deployments%20Beijing.pdf) (May 2015)
+* [Red Hat Open Innovation Symposium - OpenStack and OpenShift](https://github.com/u1i/slides/blob/master/20150513%20Red%20Hat%20Open%20Innovation%20Symposium%20-%20OpenStack%20and%20OpenShift.pdf) (May 2015)
+* [Ingram Micro SWDDC Kuala Lumpur](https://github.com/u1i/slides/blob/master/20150921%20%20Ingram%20Micro%20SWDDC%20Event%20KL%20-%20Red%20Hat%20Session.pdf) (September 2015)
+* [IPOP Japan - Coexistence of IPv4 and IPv6 for delivering IOT Capabilities using Open Source Technologies](https://github.com/u1i/slides/blob/master/20160617%20IPOP%20Japan%20-%20Coexistence%20of%20IPv4%20and%20IPv6%20for%20delivering%20IOT%20Capabilities%20using%20Open%20Source%20Technologies.pdf) (June 2016)
+* [SuSE Expert Days Jakarta](https://github.com/u1i/slides/blob/master/20170222%20SuSE%20Expert%20Days%20Jakarta%20-%20Uli.pdf) (February 2017)
+* [Azure Bootcamp Singapore - Containers on Azure](https://github.com/u1i/slides/blob/master/20170422%20Azure%20Bootcamp%20Singapore%20-%20Containers%20on%20Azure.pdf) (April 2017)
+* [Cloud Application Development Bootcamp](https://github.com/u1i/slides/blob/master/20170512%20CAD%20Bootcamp%20Singapore.pdf) (May 2017)
+* [AI at your Fingertips - Bash Event](https://github.com/u1i/slides/blob/master/201706-AI%20at%20your%20Fingertips%20-%20Bash%20Event%20June%202017%20v1.pdf) (June 2017)
 * [Redis Meetup Singapore](https://github.com/u1i/slides/blob/master/20180418-RedisSG-Meetup1.pdf) (April 2018)
 * [PyCon Bangkok](https://github.com/u1i/slides/blob/master/20180617%20PyCon%20Thailand.pdf) (June 2018)
 * [Stripe - API for Humans](https://github.com/u1i/slides/blob/master/20190307%20-%20APIs%20for%20Humans%20-%20Stripe.pdf) (March 2019)
