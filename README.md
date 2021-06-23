@@ -9,7 +9,7 @@
 * [GitHub](https://github.com/u1i)
 * [Speaker Photos & Bio](https://github.com/u1i/u1i)
 
-## Projects
+## Open Source Projects
 
 * [Yoisho Open Banking Project](https://github.com/u1i/yoisho)
 * [Bambleweeny](https://github.com/u1i/bambleweeny): A lightweight key-value store and message broker based on HTTP/REST
