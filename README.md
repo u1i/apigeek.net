@@ -57,7 +57,7 @@
 * [FinTech SG Intro](https://github.com/u1i/slides/blob/master/20201006%20FinTechSG%20Programme%20Intro.pdf) (October 2020)
 * [API Days Paris](https://github.com/u1i/slides/blob/master/20201208%20API%20Days%20Paris%202020%20-%20IpaaS%20and%20API%20Management.pdf) (November 2020)
 * [Python Web Conf 2021](https://github.com/u1i/slides/blob/master/20210325%20Python%20Web%20Conf%202021.pdf) (March 2021)
-* [Singapore Ministry of Health – Webinar](https://www.linkedin.com/posts/assurity-trusted-solutions-pte-ltd_telemedicine-healthcareinnovation-digitalhealth-activity-6782111801195790336-B0e_) (April 2021)
+* [Singapore Ministry of Health – Webinar](./resources/assurity01.jpg) (April 2021)
 * [Introducing the NUS Fintech Lab at Singapore NTUC LIT DISCOvery](./resources/nusfintechlitdisco01.jpg)
 
 ## Meetup Groups (Organizer)
