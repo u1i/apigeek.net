@@ -43,7 +43,7 @@
 * [Microsoft Data Engineering Meetup Singapore](https://github.com/u1i/slides/blob/master/20190619%20Singapore%20Data%20Engineering%20Meetup.pdf) (June 2019)
 * [API Meetup Sydney](https://github.com/u1i/slides/blob/master/20190917%20API%20Meetup%20Sydney%20-%20Event-driven%20APIs.pdf) (September 2019)
 * [API Days Melbourne](https://github.com/u1i/slides/blob/master/20190920%20API%20Days%20Melbourne_%20Well%20Crafted%20API%20Models_%20Key%20to%20Streamlining%20Workflows.pdf) (September 2019)
-* [API Asia, Sri Lanka](https://github.com/u1i/slides/blob/master/20191002%20API%20Asia%20-%20APIs%20for%20Humans.pdf)
+* [API Asia, Sri Lanka](https://github.com/u1i/slides/blob/master/20191002%20API%20Asia%20-%20APIs%20for%20Humans.pdf) (October 2019)
 * [API Craft Meetup Singapore (November 2019)](https://github.com/u1i/slides/blob/master/20191114%20API%20Craft%20Meetup%20Singapore%20-%20Event-driven%20APIs.pdf) (October 2019)
 * [Python User Group](https://github.com/u1i/slides/blob/master/20191126%20Python%20User%20Group%20Singapore.pdf) (November 2019)
 * [Guest Lecturing @ National University of Singapore](https://github.com/u1i/slides/blob/master/20200211%20NUS%20Singapore.pdf) (February 2020)
