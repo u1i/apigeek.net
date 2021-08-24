@@ -17,7 +17,7 @@
 * [samsa](https://github.com/u1i/samsa) converts between OpenAPI v2 and v3 formats (YAML/JSON)
 * [majime](https://github.com/u1i/majime) – Dead Simple API Unit Testing
 
-## Speaking Engagements – Slides
+## Speaking Engagements & Slides
 
 * [Provisioning Cloud Environments with HP OO](https://github.com/u1i/slides/blob/master/20081211%20HP%20Operations%20Orchestration.ppt) (December 2008)
 * [Architecting Clouds with IBM](https://github.com/u1i/slides/blob/master/20120801%20IBM%20Architecting%20Clouds.pdf) (August 2012)
