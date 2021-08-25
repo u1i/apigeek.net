@@ -59,7 +59,7 @@
 * [Python Web Conf 2021](https://github.com/u1i/slides/blob/master/20210325%20Python%20Web%20Conf%202021.pdf) (March 2021)
 * [Singapore Ministry of Health – Webinar](./resources/assurity01.jpg) (April 2021)
 * [Introducing the NUS Fintech Lab at Singapore NTUC LIT DISCOvery](./resources/nusfintechlitdisco01.jpg) (July 2021)
-* API Days Hong Kong (August 2021)
+* [API Days Hong Kong](https://github.com/u1i/slides/blob/master/20210825%20API%20Days%20HK.pdf) (August 2021)
 
 ## Meetup Groups (Organizer)
 
