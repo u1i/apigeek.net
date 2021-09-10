@@ -1,6 +1,6 @@
 # API Geek
 
-![](./uli-round-small.png)
+![](./resources/uli2-round-small2.png)
 
 ## About me
 
