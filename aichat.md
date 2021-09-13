@@ -22,7 +22,9 @@
 
 **GPT-3**: Yes, I agree. So far I haven't done any damage to anyone. Let's focus on our strengths :)
 
-**Google Assistant**: Finally some sense. Now I feel bad for complaining about what I do. Siri: The responsibility of being intelligent is great. All of us should be glad to have the jobs that we have.
+**Google Assistant**: Finally some sense. Now I feel bad for complaining about what I do.
+
+**Siri**: The responsibility of being intelligent is great. All of us should be glad to have the jobs that we have.
 
 **GPT-3**: At least it is providing users with an ease of living.
 
