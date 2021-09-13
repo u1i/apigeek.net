@@ -100,6 +100,10 @@
 * [API Stickers](./resources/stickers.md)
 * [k3s Exercise](https://github.com/u1i/apigeek.net)
 
+## Research
+
+[GPT-3: A conversation between GPT-3, Siri, and Google Assistant](aichat.md)
+
 ## Hacks
 
 ### Instagram Analysis
