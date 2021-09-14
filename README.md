@@ -84,6 +84,7 @@
 * [The Digital Mindset](https://blog.axway.com/digital-transformation/the-digital-mindset) (August 2020)
 * [The role of organizational culture in Digital Transformation](https://apifriends.com/digital-transformation/organizational-culture) (October 2020)
 * [Microservices & Agility](https://github.com/u1i/articles/blob/master/itzoom-microserves-german.pdf) (german, February 2021)
+* [This Article on AI was written by an AI](https://www.linkedin.com/pulse/article-ai-written-uli-hitzel) (September 2021)
 
 
 
