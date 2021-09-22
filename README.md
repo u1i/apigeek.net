@@ -103,7 +103,11 @@
 
 ## Research
 
-[GPT-3: A conversation between GPT-3, Siri, and Google Assistant](aichat.md)
+### OpenAI & GPT-3
+* [Conversation between GPT-3, Siri, and Google Assistant](aichat.md)
+* [Various Chats with an AI](./openai/chats.md)
+* [Huxley - a friendly and helpful telegram bot](openai/huxley.md)
+* [Marvin – a Telegram bot with quite some attitude](./openai/marvin.md)
 
 ## Hacks
 
