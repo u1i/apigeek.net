@@ -93,7 +93,7 @@
 * [Various Chats with an AI](./openai/chats.md)
 * [Huxley - a friendly and helpful telegram bot](openai/huxley.md)
 * [Marvin – a Telegram bot with quite some attitude](./openai/marvin.md)
-
+* [AI creating Python Code (Video)](https://youtu.be/8mm3COjX36M)
 
 ## Learning Material, Exercises, Labs & Co
 
