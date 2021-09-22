@@ -86,6 +86,13 @@
 * [Microservices & Agility](https://github.com/u1i/articles/blob/master/itzoom-microserves-german.pdf) (german, February 2021)
 * [This Article on AI was written by an AI](https://www.linkedin.com/pulse/article-ai-written-uli-hitzel) (September 2021)
 
+## Research
+
+### OpenAI & GPT-3
+* [Conversation between GPT-3, Siri, and Google Assistant](aichat.md)
+* [Various Chats with an AI](./openai/chats.md)
+* [Huxley - a friendly and helpful telegram bot](openai/huxley.md)
+* [Marvin – a Telegram bot with quite some attitude](./openai/marvin.md)
 
 
 ## Learning Material, Exercises, Labs & Co
@@ -100,14 +107,6 @@
 * [k3s Getting Started](https://github.com/u1i/k3s-quickstart)
 * [API Stickers](./resources/stickers.md)
 * [k3s Exercise](https://github.com/u1i/apigeek.net)
-
-## Research
-
-### OpenAI & GPT-3
-* [Conversation between GPT-3, Siri, and Google Assistant](aichat.md)
-* [Various Chats with an AI](./openai/chats.md)
-* [Huxley - a friendly and helpful telegram bot](openai/huxley.md)
-* [Marvin – a Telegram bot with quite some attitude](./openai/marvin.md)
 
 ## Hacks
 
