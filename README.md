@@ -94,6 +94,8 @@
 * [Huxley - a friendly and helpful telegram bot](openai/huxley.md)
 * [Marvin – a Telegram bot with quite some attitude](./openai/marvin.md)
 * [AI creating Python Code (Video)](https://youtu.be/8mm3COjX36M)
+* [AI generated article: Arthur Conan Doyle writing for the New York Times](openai/acd.md)
+
 
 ## Learning Material, Exercises, Labs & Co
 
