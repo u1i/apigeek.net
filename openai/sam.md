@@ -4,6 +4,6 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 
 Samantha is your friend. Talk to her about just anything.
 
-![](./sam1.jpg)
+![](./sam1.png)
 
-![](sam2.jpg)
+![](sam2.png)
