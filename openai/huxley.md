@@ -14,7 +14,8 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 ![](hxq1.jpeg)
 ![](hxq2.jpeg)
 
-# Discussing DevOps
+# Discussing DevOps & APIs
 
 ![](hxd1.png)
 ![](hxd2.png)
+![](hxd3.png)
