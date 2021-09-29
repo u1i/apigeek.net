@@ -2,7 +2,7 @@
 
 A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 research project.
 
-![](huxley.jpg)
+![](huxley.png)
 
 # Discussing Typeface Design
 
@@ -13,3 +13,8 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 
 ![](hxq1.jpeg)
 ![](hxq2.jpeg)
+
+# Discussing DevOps
+
+![](hxd1.png)
+![](hxd2.png)
