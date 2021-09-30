@@ -168,5 +168,3 @@ Not the most visual hack, built just to make a point. You could have an API that
 Get details and an analysis of a Spotify Playlist
 
 [Output](https://github.com/u1i/spotify-analysis/blob/master/playlist-analyse.png)
-
-> this is an easter egg - hello to my students of DevOps batch #13!
