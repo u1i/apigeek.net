@@ -6,7 +6,7 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 * [Quantum Physics](https://apigeek.net/openai/huxley.html#quantum-physics)
 * [DevOps & APIs](https://apigeek.net/openai/huxley.html#devops--apis)
 * [Greek Mythology](https://apigeek.net/openai/huxley.html#greek-mythology)
-* [Bach's Music](https://apigeek.net/openai/huxley.html#bach-music)
+* [Bach's Music](https://apigeek.net/openai/huxley.html#bachs-music)
 
 ![](huxley.png)
 
