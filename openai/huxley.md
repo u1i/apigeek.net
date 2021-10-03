@@ -4,18 +4,23 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 
 ![](huxley.png)
 
-## Discussing Typeface Design
+## Typeface Design
 
 ![](hxf1.jpeg)
 ![](hxf2.jpeg)
 
-## Discussing Quantum Physics
+## Quantum Physics
 
 ![](hxq1.jpeg)
 ![](hxq2.jpeg)
 
-## Discussing DevOps & APIs
+## DevOps & APIs
 
 ![](hxd1.png)
 ![](hxd2.png)
 ![](hxd3.png)
+
+## Greek Mythology
+
+![](hxgrk1.png)
+![](hxgrk2.png)
