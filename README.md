@@ -104,6 +104,7 @@
 
 ## Learning Material, Exercises, Labs & Co
 
+* [DevOps Course – Fintech Labs, National University of Singapore](https://github.com/u1i/devops-course)
 * [API Challenge - an interactice scavenger hunt around the world. Used at API Days 2019](./resources/apichallenge1.jpg)
 * [API Builder Learning Lab](https://github.com/u1i/axway-wcam-lab)
 * [Docker Getting Started](https://github.com/u1i/docker-hello)
