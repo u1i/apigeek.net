@@ -43,3 +43,9 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 ![](bnw2.png)
 ![](bnw3.png)
 ![](bnw4.png)
+
+# Discussing Books: The Name of the Rose
+
+![](notr1.png)
+![](notr2.png)
+![](notr3.png)
