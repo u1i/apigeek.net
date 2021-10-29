@@ -7,6 +7,7 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 * [DevOps & APIs](https://apigeek.net/openai/huxley.html#devops--apis)
 * [Greek Mythology](https://apigeek.net/openai/huxley.html#greek-mythology)
 * [Bach's Music](https://apigeek.net/openai/huxley.html#bachs-music)
+* Brave New World and The Matrix
 
 ![](huxley.png)
 
@@ -36,3 +37,9 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 ![](hxbach1.png)
 ![](hxbach2.png)
 
+## Brave New World and The Matrix
+
+![](bnw1.png)
+![](bnw2.png)
+![](bnw3.png)
+![](bnw4.png)
