@@ -88,6 +88,7 @@
 * [The role of organizational culture in Digital Transformation](https://apifriends.com/digital-transformation/organizational-culture) (October 2020)
 * [Microservices & Agility](https://github.com/u1i/articles/blob/master/itzoom-microserves-german.pdf) (german, February 2021)
 * [This Article on AI was written by an AI](https://www.linkedin.com/pulse/article-ai-written-uli-hitzel) (September 2021)
+* [Asking your friendly AI about Digital Transformation](https://www.linkedin.com/pulse/asking-your-friendly-ai-digital-transformation-uli-hitzel/) (October 2021)
 
 ## Research
 
