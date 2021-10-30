@@ -1,6 +1,6 @@
 # Huxley – OpenAI Telegram Bot
 
-A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 research project. "Joe Chip" is Uli's alias and from a book 'Ubik' from Philip K Dick.
+A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 research project. "Joe Chip" is Uli's alias and from a book 'Ubik' by Philip K Dick.
 
 * [Typeface Design](https://apigeek.net/openai/huxley.html#typeface-design)
 * [Quantum Physics](https://apigeek.net/openai/huxley.html#quantum-physics)
