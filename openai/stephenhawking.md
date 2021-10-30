@@ -9,7 +9,7 @@ Uli Thank you. This cafe is lovely, do you come here a lot?
 
 **Uli:** I didn't expect to see apple strudel on the menu. The German in me appreciates it very much!
 
-**Stephen:** Oh yes, I always managed to get my hands on it.
+**Stephen:** Oh yes, I hear it's quite good.
 
 **Uli:** When you look at that piece of pastry, do you immediately see the underlying complexity of atoms, particles, and the entire nothingness in between? I work in software engineering and sometimes when I look at applications, or even systems in the real world like ATMs... I immediately imagine what's going on behind the scenes.
 
