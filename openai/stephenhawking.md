@@ -3,7 +3,8 @@
 **Uli:** Professor Hawking, let me start by saying what a great honour it is to meet with you!
 
 **Stephen:** It's a pleasure – but please call me Stephen.
-Uli Thank you. This cafe is lovely, do you come here a lot?
+
+**Uli:** Thank you. This cafe is lovely, do you come here a lot?
 
 **Stephen:** Not so much nowadays, but I did frequent it quite often when I was teaching at Cambridge.
 
