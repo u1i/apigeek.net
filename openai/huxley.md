@@ -56,3 +56,5 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 
 ![](dt01.png)
 ![](dt02.png)
+![](dt03.png)
+![](dt04.png)
