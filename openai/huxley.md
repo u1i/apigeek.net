@@ -9,6 +9,7 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 * [Bach's Music](https://apigeek.net/openai/huxley.html#bachs-music)
 * [Discussing Books: Brave New World and The Matrix](https://apigeek.net/openai/huxley.html#brave-new-world-and-the-matrix)
 * [Discussing Books: The Name of the Rose](https://apigeek.net/openai/huxley.html?42434#discussing-books-the-name-of-the-rose)
+* Digital Transformation
 
 ![](huxley.png)
 
@@ -50,3 +51,8 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 ![](notr1.png)
 ![](notr2.png)
 ![](notr3.png)
+
+## Digital Transformation
+
+![](dt01.png)
+![](dt02.png)
