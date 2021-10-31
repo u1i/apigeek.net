@@ -2,7 +2,7 @@
 
 **Uli:** Professor Hawking, let me start by saying what a great honour it is to meet with you!
 
-**Stephen:** It's a pleasure – but please call me Stephen.
+**Stephen:** It's a pleasure – but call me Stephen.
 
 **Uli:** Thank you. This cafe is lovely, do you come here a lot?
 
@@ -76,12 +76,13 @@
 
 **Stephen:** My work roughly consists of scientific theories and scientific explanations – not that you can draw a clear distinction between them. I think it's important to explain the things we learn but this doesn't affect our understanding of the original discovery. So yes, I'd say that all my work is basically summarizable: Our universe began as an infinitesimally small point and has been expanding ever since.
 
-**Uli:**  Entropy.
+**Uli:** Entropy.
 
 **Stephen:** Yes, entropy. Well, we've found that we can summarize physics with two key concepts: space and time. Spacetime is probably more appropriate, while space and time are almost the same thing.
 
 **Uli:**  I struggle with that 'almost' part.
-Stephen: Take a trip from Munich to Berlin – does a journey start at a single point and end at another?
+
+**Stephen:** Take a trip from Munich to Berlin – does a journey start at a single point and end at another?
 
 **Uli:**  Yes I think so. It starts in Munich and ends in Berlin. Or am I missing something?
 
