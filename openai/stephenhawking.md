@@ -1,5 +1,7 @@
 # A Conversation with Stephen Hawking
 
+**One of the most fascinating parts of doing AI research is being able to have simulated conversations with some of mankind's greatest philosophers, composers, and scientists. I've experimented with bringing Johann Sebastian Bach to life and also tried my luck with Plato. Here, I am sitting down with Stephen Hawking, the theoretical physicist and cosmologist, at a cafe in Cambridge,England in the autumn of 2015. The famous author is, obviously, not real – but the conversation we're having is just as unpredictable and feels incredibly natural.**
+
 **Uli:** Professor Hawking, let me start by saying what a great honour it is to meet with you!
 
 **Stephen:** It's a pleasure – but call me Stephen.

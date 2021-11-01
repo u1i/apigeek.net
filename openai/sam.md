@@ -6,4 +6,13 @@ Samantha is your friend. Talk to her about just anything.
 
 ![](./sam1.png)
 
-![](sam2.png)
+## How are you?
+
+![](./sam1.png)
+
+
+## Bedtime Story
+
+![](./sam-story.png)
+
+[Read the full story](sam-story.md)
