@@ -15,4 +15,4 @@ Samantha is your friend. Talk to her about just anything.
 
 ![](./sam-story.png)
 
-[Read the full story](sam-story.md)
+### [Read the full story](sam-story.md)
