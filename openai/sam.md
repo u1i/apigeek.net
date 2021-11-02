@@ -8,7 +8,7 @@ Samantha is your friend. Talk to her about just anything.
 
 ## How are you?
 
-![](./sam1.png)
+![](./sam2.png)
 
 
 ## Bedtime Story
