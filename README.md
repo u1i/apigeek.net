@@ -84,6 +84,7 @@
 * [This Article on AI was written by an AI](https://www.linkedin.com/pulse/article-ai-written-uli-hitzel) (September 2021)
 * [Asking your friendly AI about Digital Transformation](https://www.linkedin.com/pulse/asking-your-friendly-ai-digital-transformation-uli-hitzel/) (October 2021)
 * [Coffee with Stephen Hawking](https://www.linkedin.com/pulse/coffee-stephen-hawking-uli-hitzel/) (October 2021)
+* [Bedtime Stories from an AI](https://www.linkedin.com/pulse/bedtime-stories-from-ai-uli-hitzel) (November 2021)
 
 ## Research
 
