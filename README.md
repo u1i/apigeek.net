@@ -107,7 +107,9 @@
 
 * [DevOps Course – Fintech Labs, National University of Singapore](https://github.com/u1i/devops-course)
 * [API Challenge - an interactice scavenger hunt around the world. Used at API Days 2019](./resources/apichallenge1.jpg)
-* [API Builder Learning Lab](https://github.com/u1i/axway-wcam-lab)
+* [API Builder Learning Lab (Cloud)](https://github.com/u1i/axway-wcam-lab)
+* [API Builder Learning Lab (Local Install)](https://github.com/u1i/apibuilder/blob/master/apibuilder-openshift-central.md)
+* [API Builder Learning Lab: MySQL](https://github.com/u1i/apibuilder/blob/master/apibuilder-msql.md)
 * [Axway API Management SOAP to REST transformation (Video)](https://www.youtube.com/watch?v=SAWeENfup7o)
 * [Docker Getting Started](https://github.com/u1i/docker-hello)
 * [Ansible Hands-On Exercise](https://github.com/u1i/ansible-exercise)
