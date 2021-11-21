@@ -101,6 +101,7 @@
 * [AI Video Avatar](https://www.youtube.com/watch?v=AV-5Icu9MUU)
 * [Hacker Rank: AI generated Python code](openai/hackerrank-python.md)
 * [AI generated video based on voice track](https://www.youtube.com/watch?v=2S3vn0___JA) | [Source Video](https://www.youtube.com/watch?v=bS1Q9N9CyRI)
+* [The Importance of Contemplation in our Lives](openai/aristotle.md) | [Video](https://www.youtube.com/watch?v=FvO0NNGytwY)
 
 
 ## Learning Material, Exercises, Labs & Co
