@@ -1,4 +1,6 @@
-# Aristotle giving a Commencement Address: The Importance of Contemplation in our Lives
+# Aristotle: The Importance of Contemplation in our Lives
+
+### The great philosopher giving a commencement address at the university
 
 ### [Video](https://www.youtube.com/watch?v=FvO0NNGytwY)
 
