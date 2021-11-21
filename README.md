@@ -103,6 +103,7 @@
 * [AI generated video based on voice track](https://www.youtube.com/watch?v=2S3vn0___JA) – [Source Video](https://www.youtube.com/watch?v=bS1Q9N9CyRI)
 * [Aristotle giving a commencement address](openai/aristotle.md) – [Video](https://www.youtube.com/watch?v=FvO0NNGytwY)
 * [A Shakespeare Sonnet](openai/sonnet.md)
+* [The Sea-bird – a poem by Henry David Thoreau](openai/hdt.md)
 
 
 ## Learning Material, Exercises, Labs & Co
