@@ -11,7 +11,8 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 * [Discussing Books: The Name of the Rose](https://apigeek.net/openai/huxley.html?42434#discussing-books-the-name-of-the-rose)
 * [Digital Transformation](https://apigeek.net/openai/huxley.html#digital-transformation)
 * [Automation vs AI](https://apigeek.net/openai/huxley.html#automation-vs-ai)
-* What is Intelligence?
+* [What is Intelligence?](https://apigeek.net/openai/huxley.html#what-is-intelligence)
+* Catch 22
 
 ![](huxley.png)
 
@@ -70,3 +71,7 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 ![](hxintell.png)
 
 [Full conversation](./hxintell.md)
+
+## Catch-22
+
+![](c22.png)
