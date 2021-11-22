@@ -104,7 +104,7 @@
 
 * [A Shakespeare Sonnet](openai/sonnet.md)
 * [The Sea-bird – poem in the style of Henry David Thoreau](openai/hdt.md)
-* [Poems, Haiku style]()
+* [Poems, Haiku style](openai/haikus.md)
 * [Books that don't exist](openai/books.md)
 * [Arthur Conan Doyle writing for the New York Times](openai/acd.md)
 * [Conversation between GPT-3, Siri, and Google Assistant](aichat.md)
