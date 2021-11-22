@@ -1,4 +1,4 @@
-# Haikus
+# Haiku
 
 ### Coffee
 
