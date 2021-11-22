@@ -12,7 +12,7 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 * [Digital Transformation](https://apigeek.net/openai/huxley.html#digital-transformation)
 * [Automation vs AI](https://apigeek.net/openai/huxley.html#automation-vs-ai)
 * [What is Intelligence?](https://apigeek.net/openai/huxley.html#what-is-intelligence)
-* Catch 22
+* [Catch 22](https://apigeek.net/openai/huxley.html#catch-22)
 
 ![](huxley.png)
 
