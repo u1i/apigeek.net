@@ -53,7 +53,6 @@
 * [API Craft Jakarta](https://github.com/u1i/slides/blob/master/20200224%20API%20Craft%20Jakarta.pdf) (February 2020)
 * ['Working from Mars - Running Digital Events'](https://raw.githubusercontent.com/u1i/slides/master/20200318-wfm02-landing-page.png) (March 2020)
 * [SCALE Jakarta](https://github.com/u1i/slides/blob/master/20200430%20Scale%20Jakarta.pdf) (April 2020)
-* [FinTech](https://fintechlab.nus.edu.sg/nus-fintechsg-programme/) and [SGUS FinTech](https://scale.nus.edu.sg/nus-sgunited-skills/overview/professional-services) programmes at National University of Singapore (since June 2020)
 * [API Days Australia](https://github.com/u1i/slides/blob/master/20200916%20API%20Days%20Australia.pdf) (September 2020)
 * [API Days Jakarta](https://github.com/u1i/slides/blob/master/20200930%20API%20Days%20Jakarta.pdf) (September 2020)
 * [FinTech SG Intro](https://github.com/u1i/slides/blob/master/20201006%20FinTechSG%20Programme%20Intro.pdf) (October 2020)
@@ -85,6 +84,14 @@
 * [Asking your friendly AI about Digital Transformation](https://www.linkedin.com/pulse/asking-your-friendly-ai-digital-transformation-uli-hitzel/) (October 2021)
 * [Coffee with Stephen Hawking](https://www.linkedin.com/pulse/coffee-stephen-hawking-uli-hitzel/) (October 2021)
 * [Bedtime Stories from an AI](https://www.linkedin.com/pulse/bedtime-stories-from-ai-uli-hitzel) (November 2021)
+
+
+## Teaching at National University of Singapore
+
+* [FinTech SG Programme](https://fintechlab.nus.edu.sg/nus-fintechsg-programme/)
+* [SGUS FinTech](https://scale.nus.edu.sg/nus-sgunited-skills/overview/professional-services)
+* [DevOps Course – Resources](https://github.com/u1i/devops-course)
+* [Profile page at Advanced Computing for Executives (ACE), School of Computing](https://ace.nus.edu.sg/about-us/executive-education-fellow/uli-hitzel/)
 
 ## Research
 
