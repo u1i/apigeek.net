@@ -123,15 +123,14 @@
 * [Avatar based on existing voice track](https://www.youtube.com/watch?v=2S3vn0___JA) --> [Original Video](https://www.youtube.com/watch?v=bS1Q9N9CyRI)
 * [Aristotle giving a commencement address](https://www.youtube.com/watch?v=FvO0NNGytwY) --> [rendered from this AI generated text](openai/aristotle.md)
 
-##### Creating Video Avatars for Voice-Only Explainer Videos
+#### Creating Video Avatars for Voice-Only Explainer Videos
+
 * [Chinese](https://www.youtube.com/watch?v=1Ip-_wzLAT0) --> [Original Video](https://www.youtube.com/watch?v=QB0_5PE--Dc)
 * [Vietnamese](https://www.youtube.com/watch?v=XF56B28KVqQ) --> [Original Video](https://www.youtube.com/watch?v=thaYee4rOrg)
 * [Korean](https://www.youtube.com/watch?v=sdWGr95ATyA) --> [Original Video](https://www.youtube.com/watch?v=KyP46Yv2Szw)
 * [Thai](https://www.youtube.com/watch?v=jMxcwdfeAEo) --> [Original Video](https://www.youtube.com/watch?v=txZ5ih5RFPc)
 * [Bahasa indonesia](https://www.youtube.com/watch?v=Qy2oNBId9bM) --> [Original Video](https://www.youtube.com/watch?v=SELCVgWDTKw&t)
 * [Hindi]() --> [Original Video](https://www.youtube.com/watch?v=RaQKTgGyyyo)
-
-
 
 #### AI generated source code
 
