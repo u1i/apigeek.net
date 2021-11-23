@@ -106,7 +106,6 @@
 * [Various Bot Experiments](./openai/misc.md)
 * [Various Chats with an AI](./openai/chats.md)
 
-
 #### Generated texts and articles
 
 * [A Shakespeare Sonnet](openai/sonnet.md)
@@ -115,7 +114,6 @@
 * [Books that don't exist](openai/books.md)
 * [Arthur Conan Doyle writing for the New York Times](openai/acd.md)
 * [Conversation between GPT-3, Siri, and Google Assistant](aichat.md)
-
 
 #### Video Generation
 
@@ -130,7 +128,7 @@
 * [Korean](https://www.youtube.com/watch?v=sdWGr95ATyA) --> [Original Video](https://www.youtube.com/watch?v=KyP46Yv2Szw)
 * [Thai](https://www.youtube.com/watch?v=jMxcwdfeAEo) --> [Original Video](https://www.youtube.com/watch?v=txZ5ih5RFPc)
 * [Bahasa indonesia](https://www.youtube.com/watch?v=Qy2oNBId9bM) --> [Original Video](https://www.youtube.com/watch?v=SELCVgWDTKw&t)
-* [Hindi]() --> [Original Video](https://www.youtube.com/watch?v=RaQKTgGyyyo)
+* [Hindi](https://www.youtube.com/watch?v=Gojt5a20rKE) --> [Original Video](https://www.youtube.com/watch?v=RaQKTgGyyyo)
 
 #### AI generated source code
 
