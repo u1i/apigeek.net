@@ -122,6 +122,7 @@
 * [Video Avatar (script written by a human)](https://www.youtube.com/watch?v=AV-5Icu9MUU)
 * [Avatar based on existing voice track](https://www.youtube.com/watch?v=2S3vn0___JA) --> [Original Video](https://www.youtube.com/watch?v=bS1Q9N9CyRI)
 * [Aristotle giving a commencement address](https://www.youtube.com/watch?v=FvO0NNGytwY) --> [rendered from this AI generated text](openai/aristotle.md)
+* [Creating an avatar based on a voice-only explainer video (mandarin)](https://www.youtube.com/watch?v=1Ip-_wzLAT0) --> [Original Video](https://www.youtube.com/watch?v=QB0_5PE--Dc)
 
 #### AI generated source code
 
