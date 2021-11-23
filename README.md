@@ -129,6 +129,7 @@
 * [Thai](https://www.youtube.com/watch?v=jMxcwdfeAEo) --> [Original Video](https://www.youtube.com/watch?v=txZ5ih5RFPc)
 * [Bahasa indonesia](https://www.youtube.com/watch?v=Qy2oNBId9bM) --> [Original Video](https://www.youtube.com/watch?v=SELCVgWDTKw&t)
 * [Hindi](https://www.youtube.com/watch?v=Gojt5a20rKE) --> [Original Video](https://www.youtube.com/watch?v=RaQKTgGyyyo)
+* [English](https://www.youtube.com/watch?v=l3mRx8vBYPQ) --> [Original Video](https://www.youtube.com/watch?v=scEDHsr3APg&t=8s)
 
 #### AI generated source code
 
