@@ -92,6 +92,7 @@
 * [SGUS FinTech](https://scale.nus.edu.sg/nus-sgunited-skills/overview/professional-services)
 * [DevOps Course – Resources](https://github.com/u1i/devops-course)
 * [Profile page at Advanced Computing for Executives (ACE), School of Computing](https://ace.nus.edu.sg/about-us/executive-education-fellow/uli-hitzel/)
+* [Stellar Foundation – NUS Collaboration](./resources/nus_stellar_collab01.png)
 
 ## Research
 
