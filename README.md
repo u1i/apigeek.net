@@ -114,6 +114,7 @@
 * [Poems, Haiku style](openai/haikus.md)
 * [Books that don't exist](openai/books.md)
 * [TV show episodes that don't exist]()
+* [Movie sequels]()
 * [Arthur Conan Doyle writing for the New York Times](openai/acd.md)
 * [Conversation between GPT-3, Siri, and Google Assistant](aichat.md)
 
