@@ -13,7 +13,7 @@ The vehicle is a garbage truck, but not like any other garbage truck. It's big a
 Minato can read minds and use her powers to manipulate the thoughts of the people around her. She entices people into believing what she wants them to believe and can even help them to change their personalities if she wants to. However, Minato is not a nice person. In fact, she uses her power as a weapon, manipulating people to suit her own agenda. In this novel, Murakami, one of Japan's most famous authors, illustrates the power of suggestion and the effects it can have on those who are manipulated.
 
 ## Aristotle Is To Blame! (Jerry Baker)
-Synopsis: A satirical tale of the famous philosopher of Ancient Greece, Aristotle, who is credited with laying the foundation of Western Philosophy. He is said to have invented many of the sciences, but in this story, he is portrayed as a bumbling,  imbecile person who teaches people of his time about the sciences, but does not understand the concepts himself.
+A satirical tale of the famous philosopher of Ancient Greece, Aristotle, who is credited with laying the foundation of Western Philosophy. He is said to have invented many of the sciences, but in this story, he is portrayed as a bumbling,  imbecile person who teaches people of his time about the sciences, but does not understand the concepts himself.
 
 ## Kenya (Herman Melville)
 
