@@ -136,7 +136,7 @@
 
 #### AI generated source code
 
-* [Eliza Chatbot – AI generated]()
+* [Eliza Chatbot – AI generated](openai/eliza.md)
 * [AI creating Python Code (Video)](https://youtu.be/8mm3COjX36M)
 * [Hacker Rank: AI generated Python code](openai/hackerrank-python.md)
 
