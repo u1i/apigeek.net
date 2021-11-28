@@ -1,5 +1,9 @@
 # Bach: The Well-Tempered Clavier (The New Yorker)
 
+![](bny01.png)
+
+* [PDF Version](bach.pdf)
+
 When Bach composed his two volumes of preludes and fugues, he was already a mature man, widely celebrated as a virtuoso on the organ and harpsichord. He was surrounded by a circle of devoted students, some of whom had already attained a high degree of mastery in a form that was a demanding blend of improvisation and composition. The preludes and fugues were written, not to instruct beginners, but to display the full range of his own keyboard facility. The pieces are so well balanced that any one of them, however complex, can be performed with ease if the performer is familiar with the notes.
 
 Its ageless appeal is not based on virtuosity, but on the imaginative use of abstract forms, and on the realization of Bach's ideal of "well temperament," which allows for the production of an unending web of harmonic relationships. The music itself remained virtually unknown for more than a century after Bach's death in 1750. The manuscript was discovered in 1829 by the German composer Felix Mendelssohn, who had the pages copied and published in 1833. Mendelssohn was only one of the pianists who rapidly brought the work to public attention. The first recording was made in 1901, but until recently, it was played on instruments much inferior to the instruments Bach knew. Now, for the first time, the music can be heard as Bach intended it to be heard.
