@@ -1,8 +1,8 @@
 # Bach: The Well-Tempered Clavier (The New Yorker)
 
-![](bny01.png)
+![](bny01.jpg)
 
-* [PDF Version](bach.pdf)
+* [PDF Version](bach2.pdf)
 
 When Bach composed his two volumes of preludes and fugues, he was already a mature man, widely celebrated as a virtuoso on the organ and harpsichord. He was surrounded by a circle of devoted students, some of whom had already attained a high degree of mastery in a form that was a demanding blend of improvisation and composition. The preludes and fugues were written, not to instruct beginners, but to display the full range of his own keyboard facility. The pieces are so well balanced that any one of them, however complex, can be performed with ease if the performer is familiar with the notes.
 
