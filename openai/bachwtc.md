@@ -1,6 +1,6 @@
 # Bach: The Well-Tempered Clavier (The New Yorker)
 
-![](bny01.jpg)
+![](bny02.jpg)
 
 * [PDF Version](bach2.pdf)
 
