@@ -5,6 +5,7 @@
 [Generated Code](eliza1.py)
 
     # Eliza's 'intelligence'
+    
     def elizaResponse(message):
         # default response
         response = "I don't understand"
@@ -30,6 +31,7 @@
         return response
     
     # main loop
+    
     while True:
         message = input("You: ")
         response = elizaResponse(message)
