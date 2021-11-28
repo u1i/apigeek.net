@@ -112,6 +112,7 @@
 * [A Shakespeare Sonnet](openai/sonnet.md)
 * [The Sea-bird – poem in the style of Henry David Thoreau](openai/hdt.md)
 * [Poems, Haiku style](openai/haikus.md)
+* [New Yorker: Bach's Well-Tempered Clavier](openai/bachwtc.md)
 * [Books that don't exist](openai/books.md)
 * [TV show episodes that don't exist](openai/tv.md)
 * [Movie sequels](openai/movies.md)
