@@ -1,4 +1,7 @@
-# The Sea-bird – Henry David Thoreau
+# The Seabird – Henry David Thoreau
+
+![](hdt02.jpg)
+
 
 Have I not seen the sea-bird soar   
 Above the stormy wave,   
