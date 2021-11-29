@@ -1,6 +1,6 @@
 # Haiku
 
-![](haiku02.jpg)
+![](haiku03.jpg)
 
 ### Coffee
 
