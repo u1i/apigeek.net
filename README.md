@@ -110,12 +110,13 @@
 #### Generated texts and articles
 
 * [A Shakespeare Sonnet](openai/sonnet.md)
-* [The Sea-bird – poem in the style of Henry David Thoreau](openai/hdt.md)
+* [The Seabird – poem in the style of Henry David Thoreau](openai/hdt.md)
 * [Poems, Haiku style](openai/haikus.md)
 * [New Yorker: Bach's Well-Tempered Clavier](openai/bachwtc.md)
 * [Books that don't exist](openai/books.md)
 * [TV show episodes that don't exist](openai/tv.md)
 * [Movie sequels](openai/movies.md)
+* [Star Wars Episode X](openai/starwars.md)
 * [Arthur Conan Doyle writing for the New York Times](openai/acd.md)
 * [Conversation between GPT-3, Siri, and Google Assistant](aichat.md)
 
