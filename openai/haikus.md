@@ -1,5 +1,7 @@
 # Haiku
 
+![](haiku.jpg)
+
 ### Coffee
 
 Dark, rich   
