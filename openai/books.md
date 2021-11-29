@@ -1,5 +1,7 @@
 # Books that don't exist
 
+![](books.jpg)
+
 ## 2021 (Philip K. Dick)
 
 Set in the year 2021, this novel describes a society in which individuals are embedded in a virtual reality machine called "the world." In this world, all past, present and future events are stored as a 3-D hologram from which the individual can access any time and place in history. The novel begins with the main character, Douglas Spaulding, waking up in a hospital, after an accident that left him in a coma for two years. This accident also left him with retrograde amnesia, and he has no recollection of his previous life. The doctors explain that, due to the accident, he has lost the ability to keep track of time and has begun to live backwards, beginning with the present and moving backwards towards the past. Spaulding is also surprised to discover that he is now married to his former girlfriend, who is now an old woman who looks to be in her 80s. The novel describes what happens as Spaulding and his wife try to adjust to this new reality.
