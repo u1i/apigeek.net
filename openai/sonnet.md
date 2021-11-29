@@ -1,5 +1,7 @@
 # A Shakespeare Sonnet
 
+![](spsn01.jpg)
+
 Oh, how much more doth beauty beauteous seem   
 By that sweet ornament which truth doth give?   
 The rose looks fair, but fairer we it deem   
