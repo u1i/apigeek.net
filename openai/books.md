@@ -1,6 +1,6 @@
 # Books that don't exist
 
-![](books.jpg)
+![](books/books2.jpg)
 
 ## 2021 (Philip K. Dick)
 
@@ -40,3 +40,6 @@ The story is about a murder that happens during a Christmas market in a town cal
 ## And Another Thing... (Douglas Adams)
 
 This book is the fifth in the Hitchhiker's Guide series. Arthur Dent, who in the previous book in the series was once again saved by the space ship Heart of Gold. In this book, he is trying to enjoy his golden years, but is soon dragged into an adventure when he is mistaken for the son of the man who the Vogons are looking for in connection with the destruction of the Earth.
+
+![](books.jpg)
+
