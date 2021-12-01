@@ -105,6 +105,7 @@
 * [Marvin – a robot with quite some attitude (Telegram)](./openai/marvin.md)
 * [Samantha – an AI who may as well be your best friend! (Telegram)](./openai/sam.md)
 * [Coffee with Stephen Hawking](openai/stephenhawking.md)
+* [Legal Advice – Bot (Prototype)](openai/legalbot.md)
 * [Various Bot Experiments](./openai/misc.md)
 * [Various Chats with an AI](./openai/chats.md)
 
