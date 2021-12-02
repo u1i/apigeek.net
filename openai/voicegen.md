@@ -2,7 +2,7 @@
 
 ## Intro
 
-"Dear friends and colleagues. Most of you should be quite familiar with my voice, and maybe you realize that I sound somewhat different today. Well  – in fact, it's not the real me who is speaking right now. It's a computer generated recording that uses my voie samples to produce it. I must say it's quite fascinating!"
+"Dear friends and colleagues. Most of you should be quite familiar with my voice, and maybe you realize that I sound somewhat different today. Well  – in fact, it's not the real me who is speaking right now. It's a computer generated recording that uses my voice samples to produce it. I must say it's quite fascinating!"
 
 [Generated voice](ulivoice.wav)
 
