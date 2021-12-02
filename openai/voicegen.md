@@ -22,6 +22,17 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
+## A Tongue Twister
+
+"Peter Piper picked a peck of pickled peppers. A peck of pickled peppers Peter Piper picked. If Peter Piper picked a peck of pickled peppers. Where’s the peck of pickled peppers Peter Piper picked?"
+
+[Generated voice](twister.wav)
+
+<audio controls>
+  <source src="twister.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
 ## An AI generated story
 
 "Once upon a time, there was an elephant and a flea, who were great friends. The elephant was a little baby and was very small, but he had a big heart. He was very playful and would always play with his flea friend. The flea would jump and jump and jump, and the elephant would laugh and laugh and laugh.
