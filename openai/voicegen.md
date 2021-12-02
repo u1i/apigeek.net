@@ -29,9 +29,9 @@ So the elephant laid down and the flea jumped on his tummy.
 
 And they snoozed happily ever after."
 
-[Generated voice](aistory.wav)
+[Generated voice](aistory02.wav)
 
 <audio controls>
-  <source src="aistory.ogg" type="audio/ogg">
+  <source src="aistory02.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
