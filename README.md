@@ -145,6 +145,10 @@
 * [AI creating Python Code (Video)](https://youtu.be/8mm3COjX36M)
 * [Hacker Rank: AI generated Python code](openai/hackerrank-python.md)
 
+#### AI generated artwork
+
+* [Japanese Ukiyoe Artwork](./art/ukiyoe)
+
 ## Learning Material, Exercises, Labs & Co
 
 * [DevOps Course – Fintech Labs, National University of Singapore](https://github.com/u1i/devops-course)
