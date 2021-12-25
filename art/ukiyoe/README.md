@@ -1,4 +1,4 @@
-# Ukiyoe Art – AI Generated
+# Pictures Of The Floating World – AI Generated
 
 | | |
 | --- | --- |
