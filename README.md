@@ -229,5 +229,3 @@ Get details and an analysis of a Spotify Playlist
 * [Mostly Harmless](https://github.com/u1i/mostly-harmless)
 * [Redis User Group Singapore](https://github.com/u1i/slides/blob/master/20180418-RedisSG-Meetup1.pdf)
 * [The Martians](https://martians.sg/)
-
-> this is an easter egg, hello students
