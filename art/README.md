@@ -4,7 +4,7 @@
 
 An art collaboration between human and AI.
 
-Enjoy the artworks from these two galleries:
+Enjoy the artworks from these galleries:
 
 ## Inspirations
 
@@ -17,3 +17,9 @@ Pieces inspired by great artists and painters
 Pieces inspired by Japanese art styles
 
 * [View Gallery](https://apigeek.net/art/ukiyoe/)
+
+## Originals
+
+Leaving aside inspirations, and creating authentic fresh art.
+
+* Coming soon!
