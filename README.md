@@ -147,7 +147,7 @@
 
 #### AI generated artwork
 
-* [Japanese Ukiyoe Artwork](./art/ukiyoe)
+* [Pictures Of The Floating World – An Art Collaboration Between Human And AI](./art/)
 
 ## Learning Material, Exercises, Labs & Co
 
