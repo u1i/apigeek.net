@@ -22,4 +22,3 @@
 | [![](polaroids/pablo-picasso_untitled.png)](pablo-picasso_untitled.jpg) | [![](polaroids/rembrandt_fruits.png)](rembrandt_fruits.jpg) |
 | [![](polaroids/salvador-dali_landscape.png)](salvador-dali_landscape.jpg) | [![](polaroids/salvador-dali_the-sea.png)](salvador-dali_the-sea.jpg) |
 | [![](polaroids/van-gogh_another-starry-night.png)](van-gogh_another-starry-night.jpg) | [![](polaroids/van-gogh_street-life.png)](van-gogh_street-life.jpg) |
-| [![](polaroids/vincent-van-gogh_paris.png)](vincent-van-gogh_paris.jpg) | [![](polaroids/)]() |
