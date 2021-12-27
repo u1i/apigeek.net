@@ -1,4 +1,4 @@
-# Pictures Of The Floating World – AI Generated
+# AI Generated Art, Japanese Style
 
 | | |
 | --- | --- |
