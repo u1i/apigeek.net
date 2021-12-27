@@ -3,7 +3,7 @@
 #| --- | --- |
 #EOF
 
-cp gallery.templ gallery.md
+cp gallery.templ README.md
 
 cat list.txt | xargs -n2 > /tmp/gen.txt
 
@@ -14,5 +14,5 @@ do
 	pic1=$1
 	pic2=$2
 
-	echo "| [![](polaroids/${pic1/jpg/png})]($pic1) | [![](polaroids/${pic2/jpg/png})]($pic2) |" >> gallery.md
+	echo "| [![](polaroids/${pic1/jpg/png})]($pic1) | [![](polaroids/${pic2/jpg/png})]($pic2) |" >> README.md
 done < /tmp/gen.txt
