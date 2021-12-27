@@ -12,14 +12,18 @@ Pieces inspired by great artists and painters
 
 * [View Gallery](https://apigeek.net/art/inspired/)
 
-## Inspirations
+[![](./inspired.jpg)](https://apigeek.net/art/inspired/)
+
+## Ukiyo-e 浮世
 
 Pieces inspired by Japanese art styles
 
 * [View Gallery](https://apigeek.net/art/ukiyoe/)
 
+[![](./ukiyoe.jpg)](https://apigeek.net/art/ukiyoe/)
+
 ## Originals
 
-Leaving aside inspirations, and creating authentic fresh art.
+Leaving aside inspirations for a while, and creating authentic fresh art.
 
 * Coming soon!
