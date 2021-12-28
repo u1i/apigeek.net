@@ -23,6 +23,6 @@
 | [![](polaroids/pablo-picasso_faces.png)](pablo-picasso_faces.jpg) | [![](polaroids/pablo-picasso_the-carousel.png)](pablo-picasso_the-carousel.jpg) |
 | [![](polaroids/pablo-picasso_the-circus.png)](pablo-picasso_the-circus.jpg) | [![](polaroids/pablo-picasso_untitled.png)](pablo-picasso_untitled.jpg) |
 | [![](polaroids/raphael_school-of-athens.png)](raphael_school-of-athens.jpg) | [![](polaroids/rembrandt_fruits.png)](rembrandt_fruits.jpg) |
-| [![](polaroids/rene-magritte-mountain.png)](rene-magritte-mountain.jpg) | [![](polaroids/rene-magritte_no_apple.png)](rene-magritte_no_apple.jpg) |
+| [![](polaroids/rene-magritte_mountain.png)](rene-magritte_mountain.jpg) | [![](polaroids/rene-magritte_no-apple.png)](rene-magritte_no-apple.jpg) |
 | [![](polaroids/salvador-dali_landscape.png)](salvador-dali_landscape.jpg) | [![](polaroids/salvador-dali_the-sea.png)](salvador-dali_the-sea.jpg) |
 | [![](polaroids/van-gogh_another-starry-night.png)](van-gogh_another-starry-night.jpg) | [![](polaroids/van-gogh_street-life.png)](van-gogh_street-life.jpg) |
