@@ -1,3 +1,6 @@
+mkdir -p mini
+rm mini/*jpg
+
 for x in *jpg
 do
 	echo $x

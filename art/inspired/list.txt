@@ -30,8 +30,8 @@ joan-miro_miracle.jpg
 kandinsky_art-workshop.jpg
 kandinsky_bicycle.jpg
 kandinsky_birds.jpg
-marc-chagall-field.jpg
 marc-chagall_church.jpg
+marc-chagall_field.jpg
 michelangelo.jpg
 pablo-picasso_dancers.jpg
 pablo-picasso_faces.jpg

@@ -18,7 +18,7 @@
 | [![](polaroids/gustav-klimt.png)](gustav-klimt.jpg) | [![](polaroids/joan-miro_colors.png)](joan-miro_colors.jpg) |
 | [![](polaroids/joan-miro_miracle.png)](joan-miro_miracle.jpg) | [![](polaroids/kandinsky_art-workshop.png)](kandinsky_art-workshop.jpg) |
 | [![](polaroids/kandinsky_bicycle.png)](kandinsky_bicycle.jpg) | [![](polaroids/kandinsky_birds.png)](kandinsky_birds.jpg) |
-| [![](polaroids/marc-chagall-field.png)](marc-chagall-field.jpg) | [![](polaroids/marc-chagall_church.png)](marc-chagall_church.jpg) |
+| [![](polaroids/marc-chagall_church.png)](marc-chagall_church.jpg) | [![](polaroids/marc-chagall_field.png)](marc-chagall_field.jpg) |
 | [![](polaroids/michelangelo.png)](michelangelo.jpg) | [![](polaroids/pablo-picasso_dancers.png)](pablo-picasso_dancers.jpg) |
 | [![](polaroids/pablo-picasso_faces.png)](pablo-picasso_faces.jpg) | [![](polaroids/pablo-picasso_the-carousel.png)](pablo-picasso_the-carousel.jpg) |
 | [![](polaroids/pablo-picasso_the-circus.png)](pablo-picasso_the-circus.jpg) | [![](polaroids/pablo-picasso_untitled.png)](pablo-picasso_untitled.jpg) |
