@@ -22,8 +22,10 @@ Pieces inspired by Japanese art styles
 
 [![](./ukiyoe.jpg)](https://apigeek.net/art/ukiyoe/)
 
-## Originals
+## Dark Visions
 
-Leaving aside inspirations for a while, and creating authentic fresh art.
+A trip to a world of surreal creatures and imagination
 
-* Coming soon!
+* [View Gallery](https://apigeek.net/art/darkvisions)
+
+[![](./darkvisions.jpg)](https://apigeek.net/art/darkvisions)
