@@ -40,8 +40,8 @@ pablo-picasso_the-circus.jpg
 pablo-picasso_untitled.jpg
 raphael_school-of-athens.jpg
 rembrandt_fruits.jpg
-rene-magritte-mountain.jpg
-rene-magritte_no_apple.jpg
+rene-magritte_mountain.jpg
+rene-magritte_no-apple.jpg
 salvador-dali_landscape.jpg
 salvador-dali_the-sea.jpg
 van-gogh_another-starry-night.jpg
