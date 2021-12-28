@@ -22,6 +22,15 @@ Pieces inspired by Japanese art styles
 
 [![](./ukiyoe.jpg)](https://apigeek.net/art/ukiyoe/)
 
+
+## The New World
+
+Fantastic pieces, steam punk style
+
+* [View Gallery](https://apigeek.net/art/thenewworld/)
+
+[![](./thenewworld.jpg)](https://apigeek.net/art/thenewworld/)
+
 ## Dark Visions
 
 A trip to a world of surreal creatures and imagination
