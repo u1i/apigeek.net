@@ -1,4 +1,4 @@
-# Inspired Art
+# The New World
 
 | | |
 | --- | --- |
