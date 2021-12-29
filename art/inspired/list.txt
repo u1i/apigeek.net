@@ -28,6 +28,8 @@ giger_unknown.jpg
 giger_woman.jpg
 giger_xenomorph.jpg
 gustav-klimt.jpg
+henri-matisse_farm.jpg
+henri-matisse_red-hotel.jpg
 hieronymus-bosch_eden.jpg
 joan-miro_colors.jpg
 joan-miro_miracle.jpg
@@ -42,6 +44,7 @@ pablo-picasso_faces.jpg
 pablo-picasso_the-carousel.jpg
 pablo-picasso_the-circus.jpg
 pablo-picasso_untitled.jpg
+paul-gauguin_the-two-sisters.jpg
 pierre-auguste-renoir_the-picnic.jpg
 raphael_school-of-athens.jpg
 rembrandt_fruits.jpg
