@@ -20,11 +20,15 @@ georges-seurat_at-the-park.jpg
 georges-seurat_village-market.jpg
 giger-conversation.jpg
 giger_astronauts.jpg
+giger_birth.jpg
 giger_heroine.jpg
+giger_hybrid.jpg
 giger_plant.jpg
+giger_unknown.jpg
 giger_woman.jpg
 giger_xenomorph.jpg
 gustav-klimt.jpg
+hieronymus-bosch_eden.jpg
 joan-miro_colors.jpg
 joan-miro_miracle.jpg
 kandinsky_art-workshop.jpg
@@ -38,6 +42,7 @@ pablo-picasso_faces.jpg
 pablo-picasso_the-carousel.jpg
 pablo-picasso_the-circus.jpg
 pablo-picasso_untitled.jpg
+pierre-auguste-renoir_the-picnic.jpg
 raphael_school-of-athens.jpg
 rembrandt_fruits.jpg
 rene-magritte_mountain.jpg
