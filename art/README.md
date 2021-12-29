@@ -22,6 +22,14 @@ Pieces inspired by Japanese art styles
 
 [![](./ukiyoe.jpg)](https://apigeek.net/art/ukiyoe/)
 
+## The Disturbing Universe
+
+Inspirations from the great H.R. Giger
+
+[* View Gallery](https://apigeek.net/art/giger)
+
+[![](./giger.jpg)](https://apigeek.net/art/giger)
+
 
 ## The New World
 
