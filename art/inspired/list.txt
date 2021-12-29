@@ -18,14 +18,6 @@ escher.jpg
 franz-marc_horses.jpg
 georges-seurat_at-the-park.jpg
 georges-seurat_village-market.jpg
-giger-conversation.jpg
-giger_astronauts.jpg
-giger_birth.jpg
-giger_heroine.jpg
-giger_hybrid.jpg
-giger_plant.jpg
-giger_unknown.jpg
-giger_woman.jpg
 giger_xenomorph.jpg
 gustav-klimt.jpg
 henri-matisse_farm.jpg

@@ -12,10 +12,6 @@
 | [![](polaroids/edward-hopper_nightshift.png)](edward-hopper_nightshift.jpg) | [![](polaroids/egyptian-tomb.png)](egyptian-tomb.jpg) |
 | [![](polaroids/escher.png)](escher.jpg) | [![](polaroids/franz-marc_horses.png)](franz-marc_horses.jpg) |
 | [![](polaroids/georges-seurat_at-the-park.png)](georges-seurat_at-the-park.jpg) | [![](polaroids/georges-seurat_village-market.png)](georges-seurat_village-market.jpg) |
-| [![](polaroids/giger-conversation.png)](giger-conversation.jpg) | [![](polaroids/giger_astronauts.png)](giger_astronauts.jpg) |
-| [![](polaroids/giger_birth.png)](giger_birth.jpg) | [![](polaroids/giger_heroine.png)](giger_heroine.jpg) |
-| [![](polaroids/giger_hybrid.png)](giger_hybrid.jpg) | [![](polaroids/giger_plant.png)](giger_plant.jpg) |
-| [![](polaroids/giger_unknown.png)](giger_unknown.jpg) | [![](polaroids/giger_woman.png)](giger_woman.jpg) |
 | [![](polaroids/giger_xenomorph.png)](giger_xenomorph.jpg) | [![](polaroids/gustav-klimt.png)](gustav-klimt.jpg) |
 | [![](polaroids/henri-matisse_farm.png)](henri-matisse_farm.jpg) | [![](polaroids/henri-matisse_red-hotel.png)](henri-matisse_red-hotel.jpg) |
 | [![](polaroids/hieronymus-bosch_eden.png)](hieronymus-bosch_eden.jpg) | [![](polaroids/joan-miro_colors.png)](joan-miro_colors.jpg) |
