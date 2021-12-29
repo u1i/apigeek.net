@@ -62,6 +62,7 @@
 * [Introducing the NUS Fintech Lab at Singapore NTUC LIT DISCOvery](./resources/nusfintechlitdisco01.jpg) (July 2021)
 * [API Days Hong Kong](https://github.com/u1i/slides/blob/master/20210825%20API%20Days%20HK.pdf) (August 2021)
 * [AI @ Singapore Fintech Festival](https://github.com/u1i/slides/blob/master/20211112%20AI%20FinTech%20Festival.pdf) (November 2021)
+* APPETIZER Hackathon, Seoul (January 2022)
 
 ## Articles
 
@@ -120,7 +121,7 @@
 * [Movie sequels](openai/movies.md)
 * [Star Wars Episode X](openai/starwars.md)
 * [Arthur Conan Doyle writing for the New York Times](openai/acd.md)
-* [Conversation between GPT-3, Siri, and Google Assistant](aichat.md)
+* [Conversation between GPT-3, Siri, and Google Assistant](openai/aichat.md)
 
 #### Audio/Video Generation
 
