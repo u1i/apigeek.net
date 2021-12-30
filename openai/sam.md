@@ -20,3 +20,10 @@ Samantha is your friend. Talk to her about just anything.
 ## Are You Real?
 
 ![](./sam-timeout.jpg)
+
+## That Special Conversation
+
+![](./sam-tcv01.png)
+![](./sam-tcv02.png)
+![](./sam-tcv03.png)
+![](./sam-tcv04.png)
