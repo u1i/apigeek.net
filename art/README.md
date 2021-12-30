@@ -10,17 +10,17 @@ Enjoy the artworks from these galleries:
 
 Pieces inspired by great artists and painters
 
-* [View Gallery](https://apigeek.net/art/inspired/)
+* [View Gallery](https://apigeek.net/art/inspired)
 
-[![](./inspired.jpg)](https://apigeek.net/art/inspired/)
+[![](./inspired.jpg)](https://apigeek.net/art/inspired)
 
 ## Ukiyo-e 浮世
 
 Pieces inspired by Japanese art styles
 
-* [View Gallery](https://apigeek.net/art/ukiyoe/)
+* [View Gallery](https://apigeek.net/art/ukiyoe)
 
-[![](./ukiyoe.jpg)](https://apigeek.net/art/ukiyoe/)
+[![](./ukiyoe.jpg)](https://apigeek.net/art/ukiyoe)
 
 ## The Disturbing Universe
 
@@ -35,13 +35,21 @@ Inspirations from the great H.R. Giger
 
 Fantastic pieces, steam punk style
 
-* [View Gallery](https://apigeek.net/art/thenewworld/)
+* [View Gallery](https://apigeek.net/art/thenewworld)
 
-[![](./thenewworld.jpg)](https://apigeek.net/art/thenewworld/)
+[![](./thenewworld.jpg)](https://apigeek.net/art/thenewworld)
+
+## Cyber Soul
+
+Scenes that could as well be concept art pieces for the Blade Runner movie and video games.
+
+* [View Gallery](https://apigeek.net/art/cybersoul)
+
+[![](./cybersoul.jpg)](https://apigeek.net/art/cybersoul)
 
 ## Dark Visions
 
-A trip to a world of surreal creatures and imagination
+Surreal creatures and imagination
 
 * [View Gallery](https://apigeek.net/art/darkvisions)
 
