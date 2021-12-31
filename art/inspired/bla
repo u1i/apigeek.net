@@ -1,0 +1,9 @@
+capt1=$(echo $x | sed "s/\.jpg//;" | tr "-" " " | tr "_" ":" | sed "s/:/: /;")
+
+capt=""
+
+for w in $capt1
+do
+	w2=`echo ${w:0:1} | tr  '[a-z]' '[A-Z]'`${w:1}
+	capt="$capt $w2"
+done
