@@ -90,7 +90,7 @@
 
 ## Teaching at National University of Singapore
 
-* [FinTech SG Programme](https://fintechlab.nus.edu.sg/nus-fintechsg-programme/)
+* [FinTech SG Programme](https://fintechlab.nus.edu.sg/nus-fintechsg-programme/) | [Programme info on ACE](https://ace.nus.edu.sg/nus-fintechsg-programme/)
 * [SGUS FinTech](https://scale.nus.edu.sg/nus-sgunited-skills/overview/professional-services)
 * [DevOps Course – Resources](https://github.com/u1i/devops-course)
 * [Profile page at Advanced Computing for Executives (ACE), School of Computing](https://ace.nus.edu.sg/about-us/executive-education-fellow/uli-hitzel/)
