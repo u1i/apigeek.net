@@ -12,7 +12,7 @@ gen_capt()
 
 	convert -background white  -fill black -gravity South -font EB-Garamond-Bold -pointsize 18 -size 320x caption:"$caption" -bordercolor white -border 4 -bordercolor white -border 4 captions/$file
 
-#bevelborder -s 8 -m inner -c 25 -b red -a 15 captions/$file captions/capt-$file 
+# convert -append framed/$file captions/$file captions/cap-$file
 
 }
 
