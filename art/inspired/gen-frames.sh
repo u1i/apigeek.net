@@ -12,5 +12,6 @@ do
 
 	convert $x -thumbnail 350x350 tmp/$x
 
-	picframe -f ${frame[$rand]} -m 40 -b 1 tmp/$x framed/$x
+	picframe -f ${frame[$rand]} -m 40 -b 1 tmp/$x tmp/tmp/$x
+	convert tmp/tmp/$x -geometry 350x482! framed/$x
 done
