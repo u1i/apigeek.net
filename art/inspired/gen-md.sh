@@ -17,5 +17,6 @@ do
 	capt1=$(./get-caption-from-file.sh $pic1)
 	capt2=$(./get-caption-from-file.sh $pic2)
 
-	echo "| [![](framed/${pic1})]($pic1) $capt1 | [![](framed/${pic2})]($pic2) $capt2 |" >> README.md
+	echo "| [![](framed/${pic1})]($pic1) | [![](framed/${pic2})]($pic2) |" >> README.md
+	echo "| $capt1 | $capt2 |" >> README.md
 done < /tmp/gen.txt
