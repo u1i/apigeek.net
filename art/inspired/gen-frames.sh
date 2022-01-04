@@ -1,8 +1,16 @@
+
+frame[0]="1"
+frame[1]="2"
+frame[2]="4"
+frame[3]="6"
+frame[4]="8"
+
 for x in *jpg
 do
 	echo $x
+	rand=$[ $RANDOM % 5 ]
 
-	convert $x -thumbnail 400x400 tmp/$x
+	convert $x -thumbnail 350x350 tmp/$x
 
-	picframe -f 1 -m 40 -b 1 tmp/$x framed/$x
+	picframe -f ${frame[$rand]} -m 40 -b 1 tmp/$x framed/$x
 done
