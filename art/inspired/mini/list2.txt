@@ -1,0 +1,8 @@
+framed/claude-monet_the-lake.jpg
+framed/edward-hopper_nightshift.jpg
+framed/franz-marc_horses.jpg
+framed/georges-seurat_at-the-park.jpg
+framed/gustav-klimt.jpg
+framed/marc-chagall_field.jpg
+framed/pablo-picasso_faces.jpg
+framed/van-gogh_street-life.jpg
