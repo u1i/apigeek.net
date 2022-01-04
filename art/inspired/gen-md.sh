@@ -14,5 +14,8 @@ do
 	pic1=$1
 	pic2=$2
 
-	echo "| [![](polaroids/${pic1/jpg/png})]($pic1) | [![](polaroids/${pic2/jpg/png})]($pic2) |" >> README.md
+	capt1=$(./get-caption-from-file.sh $pic1)
+	capt2=$(./get-caption-from-file.sh $pic2)
+
+	echo "| [![](framed/${pic1})]($pic1) $capt1 | [![](framed/${pic2})]($pic2) $capt2 |" >> README.md
 done < /tmp/gen.txt
