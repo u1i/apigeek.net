@@ -8,7 +8,7 @@ Enjoy the artworks from these galleries:
 
 ## Inspirations
 
-Pieces inspired by great artists and painters
+Artwork inspired by the great artists and painters
 
 * [View Gallery](https://apigeek.net/art/inspired)
 
@@ -16,7 +16,7 @@ Pieces inspired by great artists and painters
 
 ## Ukiyo-e 浮世
 
-Pieces inspired by Japanese art styles
+Pieces in the style of 19th century Japanese art
 
 * [View Gallery](https://apigeek.net/art/ukiyoe)
 
@@ -24,7 +24,7 @@ Pieces inspired by Japanese art styles
 
 ## The Disturbing Universe
 
-Inspirations from the great H.R. Giger
+A hommage to the great H.R. Giger and the beautifully strange artwork he created
 
 [* View Gallery](https://apigeek.net/art/giger)
 
