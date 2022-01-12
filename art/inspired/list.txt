@@ -43,8 +43,8 @@ rembrandt_fruits.jpg
 rene-magritte_mountain.jpg
 rene-magritte_no-apple.jpg
 salvador-dali_landscape.jpg
-salvador-dali_the-sea.jpg
-salvador-dali_village.jpg
+salvador-dali_seaside.jpg
+salvador-dali_village-on-the-hill.jpg
 van-gogh_another-starry-night.jpg
 van-gogh_market.jpg
 van-gogh_street-life.jpg
