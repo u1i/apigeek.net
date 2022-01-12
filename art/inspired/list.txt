@@ -44,6 +44,7 @@ rene-magritte_mountain.jpg
 rene-magritte_no-apple.jpg
 salvador-dali_landscape.jpg
 salvador-dali_the-sea.jpg
+salvador-dali_village.jpg
 van-gogh_another-starry-night.jpg
 van-gogh_market.jpg
 van-gogh_street-life.jpg
