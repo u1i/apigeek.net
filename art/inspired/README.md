@@ -48,7 +48,7 @@
 | [![](captions/rene-magritte_mountain.jpg)](rene-magritte_mountain.jpg) | [![](captions/rene-magritte_no-apple.jpg)](rene-magritte_no-apple.jpg) |
 | [![](framed/salvador-dali_landscape.jpg)](salvador-dali_landscape.jpg) | [![](framed/salvador-dali_the-sea.jpg)](salvador-dali_the-sea.jpg) |
 | [![](captions/salvador-dali_landscape.jpg)](salvador-dali_landscape.jpg) | [![](captions/salvador-dali_the-sea.jpg)](salvador-dali_the-sea.jpg) |
-| [![](framed/van-gogh_another-starry-night.jpg)](van-gogh_another-starry-night.jpg) | [![](framed/van-gogh_market.jpg)](van-gogh_market.jpg) |
-| [![](captions/van-gogh_another-starry-night.jpg)](van-gogh_another-starry-night.jpg) | [![](captions/van-gogh_market.jpg)](van-gogh_market.jpg) |
-| [![](framed/van-gogh_street-life.jpg)](van-gogh_street-life.jpg) | [![](framed/)]() |
-| [![](captions/van-gogh_street-life.jpg)](van-gogh_street-life.jpg) | [![](captions/)]() |
+| [![](framed/salvador-dali_village.jpg)](salvador-dali_village.jpg) | [![](framed/van-gogh_another-starry-night.jpg)](van-gogh_another-starry-night.jpg) |
+| [![](captions/salvador-dali_village.jpg)](salvador-dali_village.jpg) | [![](captions/van-gogh_another-starry-night.jpg)](van-gogh_another-starry-night.jpg) |
+| [![](framed/van-gogh_market.jpg)](van-gogh_market.jpg) | [![](framed/van-gogh_street-life.jpg)](van-gogh_street-life.jpg) |
+| [![](captions/van-gogh_market.jpg)](van-gogh_market.jpg) | [![](captions/van-gogh_street-life.jpg)](van-gogh_street-life.jpg) |
