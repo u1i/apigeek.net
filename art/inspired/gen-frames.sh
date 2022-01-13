@@ -7,6 +7,13 @@ frame[4]="8"
 
 for x in *jpg
 do
+
+	if [ -f framed/$x ]
+	then
+		echo framed/$x exists already, skipping
+		continue
+	fi
+
 	echo $x
 	rand=$[ $RANDOM % 5 ]
 

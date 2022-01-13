@@ -8,7 +8,7 @@ Enjoy the artworks from these galleries:
 
 ## Inspirations
 
-Artwork inspired by the great artists and painters
+Artwork inspired by the great artists and painters throughout human history
 
 * [View Gallery](https://apigeek.net/art/inspired)
 
