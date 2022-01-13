@@ -33,6 +33,7 @@ kandinsky_the-milkman.jpg
 kandinsky_birds.jpg
 marc-chagall_church.jpg
 marc-chagall_field.jpg
+max-slevogt_autumn-day.jpg
 pablo-picasso_dancers.jpg
 pablo-picasso_the-carousel.jpg
 pablo-picasso_untitled.jpg
