@@ -11,6 +11,7 @@ claude-monet_the-market.jpg
 claude-monet_water-lilies.jpg
 da-vinci_anatomy.jpg
 da-vinci_machines.jpg
+edvard-munch_winter.jpg
 edward-hopper_-the-storm.jpg
 edward-hopper_car-race.jpg
 edward-hopper_nightshift.jpg
@@ -21,6 +22,7 @@ georges-seurat_at-the-park.jpg
 georges-seurat_village-market.jpg
 giger_xenomorph.jpg
 gustav-klimt.jpg
+henri-de-toulouse-lautrec_riding.jpg
 henri-matisse_farm.jpg
 henri-matisse_red-hotel.jpg
 hieronymus-bosch_eden.jpg
