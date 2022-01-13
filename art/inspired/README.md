@@ -30,8 +30,8 @@
 | [![](captions/henri-matisse_red-hotel.jpg)](henri-matisse_red-hotel.jpg) | [![](captions/hieronymus-bosch_eden.jpg)](hieronymus-bosch_eden.jpg) |
 | [![](framed/joan-miro_colors.jpg)](joan-miro_colors.jpg) | [![](framed/joan-miro_miracle.jpg)](joan-miro_miracle.jpg) |
 | [![](captions/joan-miro_colors.jpg)](joan-miro_colors.jpg) | [![](captions/joan-miro_miracle.jpg)](joan-miro_miracle.jpg) |
-| [![](framed/kandinsky_art-workshop.jpg)](kandinsky_art-workshop.jpg) | [![](framed/kandinsky_bicycle.jpg)](kandinsky_bicycle.jpg) |
-| [![](captions/kandinsky_art-workshop.jpg)](kandinsky_art-workshop.jpg) | [![](captions/kandinsky_bicycle.jpg)](kandinsky_bicycle.jpg) |
+| [![](framed/kandinsky_art-workshop.jpg)](kandinsky_art-workshop.jpg) | [![](framed/kandinsky_the-milkman.jpg)](kandinsky_the-milkman.jpg) |
+| [![](captions/kandinsky_art-workshop.jpg)](kandinsky_art-workshop.jpg) | [![](captions/kandinsky_the-milkman.jpg)](kandinsky_the-milkman.jpg) |
 | [![](framed/kandinsky_birds.jpg)](kandinsky_birds.jpg) | [![](framed/marc-chagall_church.jpg)](marc-chagall_church.jpg) |
 | [![](captions/kandinsky_birds.jpg)](kandinsky_birds.jpg) | [![](captions/marc-chagall_church.jpg)](marc-chagall_church.jpg) |
 | [![](framed/marc-chagall_field.jpg)](marc-chagall_field.jpg) | [![](framed/pablo-picasso_dancers.jpg)](pablo-picasso_dancers.jpg) |
