@@ -6,8 +6,8 @@
 | [![](captions/antoni-gaudi_the-cathedral.jpg)](antoni-gaudi_the-cathedral.jpg) | [![](captions/august-macke_greek-cafe.jpg)](august-macke_greek-cafe.jpg) |
 | [![](framed/caspar-david-friedrich_seaside.jpg)](caspar-david-friedrich_seaside.jpg) | [![](framed/caspar-david-friedrich_valley.jpg)](caspar-david-friedrich_valley.jpg) |
 | [![](captions/caspar-david-friedrich_seaside.jpg)](caspar-david-friedrich_seaside.jpg) | [![](captions/caspar-david-friedrich_valley.jpg)](caspar-david-friedrich_valley.jpg) |
-| [![](framed/cavepainting.jpg)](cavepainting.jpg) | [![](framed/chinese-art.jpg)](chinese-art.jpg) |
-| [![](captions/cavepainting.jpg)](cavepainting.jpg) | [![](captions/chinese-art.jpg)](chinese-art.jpg) |
+| [![](framed/cave-painting.jpg)](cave-painting.jpg) | [![](framed/chinese-art.jpg)](chinese-art.jpg) |
+| [![](captions/cave-painting.jpg)](cave-painting.jpg) | [![](captions/chinese-art.jpg)](chinese-art.jpg) |
 | [![](framed/claude-monet_my-garden.jpg)](claude-monet_my-garden.jpg) | [![](framed/claude-monet_sailing.jpg)](claude-monet_sailing.jpg) |
 | [![](captions/claude-monet_my-garden.jpg)](claude-monet_my-garden.jpg) | [![](captions/claude-monet_sailing.jpg)](claude-monet_sailing.jpg) |
 | [![](framed/claude-monet_the-lake.jpg)](claude-monet_the-lake.jpg) | [![](framed/claude-monet_the-market.jpg)](claude-monet_the-market.jpg) |
