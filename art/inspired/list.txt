@@ -2,7 +2,7 @@ antoni-gaudi_the-cathedral.jpg
 august-macke_greek-cafe.jpg
 caspar-david-friedrich_seaside.jpg
 caspar-david-friedrich_valley.jpg
-cavepainting.jpg
+cave-painting.jpg
 chinese-art.jpg
 claude-monet_my-garden.jpg
 claude-monet_sailing.jpg
@@ -50,3 +50,4 @@ sonia-delaunay_electric-sheep.jpg
 van-gogh_another-starry-night.jpg
 van-gogh_market.jpg
 van-gogh_street-life.jpg
+van-gogh_town-at-night.jpg
