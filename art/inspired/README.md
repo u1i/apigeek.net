@@ -52,9 +52,9 @@
 | [![](captions/rene-magritte_no-apple.jpg)](rene-magritte_no-apple.jpg) | [![](captions/salvador-dali_landscape.jpg)](salvador-dali_landscape.jpg) |
 | [![](framed/salvador-dali_seaside.jpg)](salvador-dali_seaside.jpg) | [![](framed/salvador-dali_village-on-the-hill.jpg)](salvador-dali_village-on-the-hill.jpg) |
 | [![](captions/salvador-dali_seaside.jpg)](salvador-dali_seaside.jpg) | [![](captions/salvador-dali_village-on-the-hill.jpg)](salvador-dali_village-on-the-hill.jpg) |
-| [![](framed/sonia-delaunay_electric-sheep.jpg)](sonia-delaunay_electric-sheep.jpg) | [![](framed/van-gogh_another-starry-night.jpg)](van-gogh_another-starry-night.jpg) |
-| [![](captions/sonia-delaunay_electric-sheep.jpg)](sonia-delaunay_electric-sheep.jpg) | [![](captions/van-gogh_another-starry-night.jpg)](van-gogh_another-starry-night.jpg) |
-| [![](framed/van-gogh_market.jpg)](van-gogh_market.jpg) | [![](framed/van-gogh_street-life.jpg)](van-gogh_street-life.jpg) |
-| [![](captions/van-gogh_market.jpg)](van-gogh_market.jpg) | [![](captions/van-gogh_street-life.jpg)](van-gogh_street-life.jpg) |
-| [![](framed/van-gogh_town-at-night.jpg)](van-gogh_town-at-night.jpg) | [![](framed/)]() |
-| [![](captions/van-gogh_town-at-night.jpg)](van-gogh_town-at-night.jpg) | [![](captions/)]() |
+| [![](framed/sonia-delaunay_electric-sheep.jpg)](sonia-delaunay_electric-sheep.jpg) | [![](framed/unknown-artist_love-is-gone.jpg)](unknown-artist_love-is-gone.jpg) |
+| [![](captions/sonia-delaunay_electric-sheep.jpg)](sonia-delaunay_electric-sheep.jpg) | [![](captions/unknown-artist_love-is-gone.jpg)](unknown-artist_love-is-gone.jpg) |
+| [![](framed/van-gogh_another-starry-night.jpg)](van-gogh_another-starry-night.jpg) | [![](framed/van-gogh_market.jpg)](van-gogh_market.jpg) |
+| [![](captions/van-gogh_another-starry-night.jpg)](van-gogh_another-starry-night.jpg) | [![](captions/van-gogh_market.jpg)](van-gogh_market.jpg) |
+| [![](framed/van-gogh_street-life.jpg)](van-gogh_street-life.jpg) | [![](framed/van-gogh_town-at-night.jpg)](van-gogh_town-at-night.jpg) |
+| [![](captions/van-gogh_street-life.jpg)](van-gogh_street-life.jpg) | [![](captions/van-gogh_town-at-night.jpg)](van-gogh_town-at-night.jpg) |
