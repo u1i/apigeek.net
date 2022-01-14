@@ -20,6 +20,7 @@ escher.jpg
 franz-marc_horses.jpg
 georges-seurat_at-the-park.jpg
 georges-seurat_village-market.jpg
+georgia-o-keeffe_landscape.jpg
 giger_xenomorph.jpg
 gustav-klimt.jpg
 henri-de-toulouse-lautrec_riding.jpg
