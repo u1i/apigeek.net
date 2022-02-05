@@ -16,7 +16,7 @@ The Droid Maker
 The Father of the Empire   
 The Father of the Force   
 Leia's Night Out With The Droids   
-The Lost Skywalker
+The Lost Skywalker   
 A New Hero
 
 ## Opening Crawl for "A New Hero":
