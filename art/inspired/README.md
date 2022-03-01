@@ -52,8 +52,8 @@
 | [![](captions/rembrandt_fruits.jpg)](rembrandt_fruits.jpg) | [![](captions/rene-magritte_mountain.jpg)](rene-magritte_mountain.jpg) |
 | [![](framed/rene-magritte_no-apple.jpg)](rene-magritte_no-apple.jpg) | [![](framed/salvador-dali_landscape.jpg)](salvador-dali_landscape.jpg) |
 | [![](captions/rene-magritte_no-apple.jpg)](rene-magritte_no-apple.jpg) | [![](captions/salvador-dali_landscape.jpg)](salvador-dali_landscape.jpg) |
-| [![](framed/salvador-dali_seaside.jpg)](salvador-dali_seaside.jpg) | [![](framed/salvador-dali_village-on-the-hill.jpg)](salvador-dali_village-on-the-hill.jpg) |
-| [![](captions/salvador-dali_seaside.jpg)](salvador-dali_seaside.jpg) | [![](captions/salvador-dali_village-on-the-hill.jpg)](salvador-dali_village-on-the-hill.jpg) |
+| [![](framed/salvador-dali_seaside.jpg)](salvador-dali_seaside.jpg) | [![](framed/salvador-dali_time.jpg)](salvador-dali_time.jpg) |
+| [![](captions/salvador-dali_seaside.jpg)](salvador-dali_seaside.jpg) | [![](captions/salvador-dali_time.jpg)](salvador-dali_time.jpg) |
 | [![](framed/sonia-delaunay_electric-sheep.jpg)](sonia-delaunay_electric-sheep.jpg) | [![](framed/unknown-artist_love-is-gone.jpg)](unknown-artist_love-is-gone.jpg) |
 | [![](captions/sonia-delaunay_electric-sheep.jpg)](sonia-delaunay_electric-sheep.jpg) | [![](captions/unknown-artist_love-is-gone.jpg)](unknown-artist_love-is-gone.jpg) |
 | [![](framed/van-gogh_another-starry-night.jpg)](van-gogh_another-starry-night.jpg) | [![](framed/van-gogh_market.jpg)](van-gogh_market.jpg) |
