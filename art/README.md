@@ -54,3 +54,11 @@ Surreal creatures and imagination
 * [View Gallery](https://apigeek.net/art/darkvisions)
 
 [![](./darkvisions.jpg)](https://apigeek.net/art/darkvisions)
+
+### This looks awesome! How was this created?
+
+Short answer: a combination of AI, APIs, automation, and a good portion of human creativity
+
+Long answer: Art often comes with a good level of ambiguity and obscurity. Get in touch if you want to learn more!
+
+**Everything you see here was created for educational purpuses.** 
