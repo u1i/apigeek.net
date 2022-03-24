@@ -4,7 +4,7 @@ A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 re
 
 Huxley knows quite a bit about stuff and is happy to help you understand the world a bit better. Talk to him about science, history, film, physics etc
 
-[Check out Sam as well. She's your friend.](huxley.md)
+[Check out Sam as well. She's your friend.](sam.md)
 
 ## Dialogues
 
