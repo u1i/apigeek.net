@@ -230,6 +230,6 @@ Get details and an analysis of a Spotify Playlist
 
 ## Meetup Groups (Organizer)
 
-* [Mostly Harmless](https://github.com/u1i/mostly-harmless)
+* [Mostly Harmless](https://singapore.mostlyharmless.com/)
 * [Redis User Group Singapore](https://github.com/u1i/slides/blob/master/20180418-RedisSG-Meetup1.pdf)
 * [The Martians](https://martians.sg/)
