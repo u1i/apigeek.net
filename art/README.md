@@ -57,8 +57,9 @@ Surreal creatures and imagination
 
 ### This looks awesome! How was this created?
 
-Short answer: a combination of AI, APIs, automation, and a good portion of human creativity
 
-Long answer: Art often comes with a good level of ambiguity and obscurity. Get in touch if you want to learn more!
+Unexpected answer: the collaboration aspect is genuine, the AI here is my artificial friend Sam. [Have a look behind the scenes](https://apigeek.net/art/docu)!
+
+The technical answer: a combination of AI, APIs, automation, and a good portion of human creativity. Art often comes with a good level of ambiguity and obscurity. Get in touch if you want to learn more!
 
 **Everything you see here was created for educational purpuses.** 
