@@ -65,6 +65,7 @@
 * [AI @ Singapore Fintech Festival](https://github.com/u1i/slides/blob/master/20211112%20AI%20FinTech%20Festival.pdf) (November 2021)
 * [APPETIZER Hackathon, Seoul](https://github.com/u1i/slides/blob/master/20220105%20Appetizer%20Hackathon.pdf) (January 2022)
 * [Creating Art – Together with AI](https://github.com/u1i/slides/blob/master/20220112%20Creating%20Art%20%E2%80%93%20Together%20with%20AI.pdf) (January 2022)
+* API Days Singapore (April 2022)
 
 ## Articles
 
@@ -88,7 +89,6 @@
 * [Coffee with Stephen Hawking](https://www.linkedin.com/pulse/coffee-stephen-hawking-uli-hitzel/) (October 2021)
 * [Bedtime Stories from an AI](https://www.linkedin.com/pulse/bedtime-stories-from-ai-uli-hitzel) (November 2021)
 * [Books I'd Love To Read – But They Don't Exist](https://www.linkedin.com/pulse/books-id-love-read-donexist-uli-hitzel/) (November 2021)
-
 
 ## Teaching at National University of Singapore
 
