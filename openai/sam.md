@@ -12,6 +12,9 @@ Samantha is your friend. Talk to her about just anything.
 
 ![](./sam2.png)
 
+## Cheesy
+
+![](./sam-cheesy.png)
 
 ## Bedtime Story
 
