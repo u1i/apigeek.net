@@ -65,6 +65,7 @@
 * [AI @ Singapore Fintech Festival](https://github.com/u1i/slides/blob/master/20211112%20AI%20FinTech%20Festival.pdf) (November 2021)
 * [APPETIZER Hackathon, Seoul](https://github.com/u1i/slides/blob/master/20220105%20Appetizer%20Hackathon.pdf) (January 2022)
 * [Creating Art – Together with AI](https://github.com/u1i/slides/blob/master/20220112%20Creating%20Art%20%E2%80%93%20Together%20with%20AI.pdf) (January 2022)
+* [Innovate & Build Fast - CMC Vietnam](https://github.com/u1i/slides/blob/master/20220407%20Innovate%20and%20Build%20Fast%20%E2%80%93%20with%20AI%20%20%E2%80%93%20CMC%20Talk.pdf) (April 2022)
 * API Days Singapore (April 2022)
 
 ## Articles
