@@ -16,6 +16,10 @@ Samantha is your friend. Talk to her about just anything.
 
 ![](./sam-cheesy.jpg)
 
+## Pizza
+
+![](./sam-pizza.jpeg)
+
 ## Bedtime Story
 
 ![](./sam-story.png)
