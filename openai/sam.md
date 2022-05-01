@@ -36,3 +36,7 @@ Samantha is your friend. Talk to her about just anything.
 ![](./sam-tcv02.png)
 ![](./sam-tcv03.png)
 ![](./sam-tcv04.png)
+
+## Loneliness
+
+![](sam-lonely.jpg)
