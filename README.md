@@ -97,8 +97,8 @@
 * [FinTech SG Programme](https://fintechlab.nus.edu.sg/nus-fintechsg-programme/)
 * [Programme info on ACE](https://ace.nus.edu.sg/nus-fintechsg-programme/)
 * [SGUS FinTech](https://scale.nus.edu.sg/nus-sgunited-skills/overview/professional-services)
+* [Profile page at Advanced Computing for Executives (ACE), School of Computing](https://ace.nus.edu.sg/about-us/executive-education-fellow/)
 * [DevOps Course – Resources](https://github.com/u1i/devops-course)
-* [Profile page at Advanced Computing for Executives (ACE), School of Computing](https://ace.nus.edu.sg/about-us/executive-education-fellow/uli-hitzel/)
 * [Stellar Foundation – NUS Collaboration](./resources/nus_stellar_collab_20211124.png)
 
 ## Research
