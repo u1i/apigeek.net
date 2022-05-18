@@ -9,7 +9,6 @@
 * [GitHub](https://github.com/u1i)
 * [Keybase](https://keybase.io/u1i)
 * [Speaker Photos & Bio](https://github.com/u1i/u1i)
-* [Schedule a 30 min chat](https://calendly.com/uli-hitzel/30min)
 * [Send me an email](./resources/nospam.jpg)
 
 ## Open Source Projects
