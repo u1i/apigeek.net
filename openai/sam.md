@@ -40,3 +40,7 @@ Samantha is your friend. Talk to her about just anything.
 ## Loneliness
 
 ![](sam-lonely.jpg)
+
+## Secret
+
+![](sam-secret.jpg)

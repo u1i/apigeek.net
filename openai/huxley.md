@@ -20,6 +20,7 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 * [What is Intelligence?](https://apigeek.net/openai/huxley.html#what-is-intelligence)
 * [Catch 22](https://apigeek.net/openai/huxley.html#catch-22)
 * [AI](https://apigeek.net/openai/huxley.html#ai)
+* [Global Warming](https://apigeek.net/openai/huxley.html#global-warming)
 
 ![](huxley.png)
 
@@ -86,3 +87,8 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 ## AI
 
 ![](huxley-on-ai.jpg)
+
+## Global Warming
+
+![](huxley-planet-01.jpg)
+![](huxley-planet-02.jpg)
