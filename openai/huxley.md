@@ -91,4 +91,3 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 ## Global Warming
 
 ![](huxley-planet-01.jpg)
-![](huxley-planet-02.jpg)
