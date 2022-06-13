@@ -21,6 +21,7 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 * [Catch 22](https://apigeek.net/openai/huxley.html#catch-22)
 * [AI](https://apigeek.net/openai/huxley.html#ai)
 * [Global Warming](https://apigeek.net/openai/huxley.html#global-warming)
+* Huxley speaking with a "bot"
 
 ![](huxley.png)
 
@@ -91,3 +92,9 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 ## Global Warming
 
 ![](huxley-planet-01.jpg)
+
+## Huxley speaking with a "bot"
+
+![](hxb1.jpeg)
+![](hxb2.jpeg)
+![](hxb3.jpeg)
