@@ -44,3 +44,10 @@ Samantha is your friend. Talk to her about just anything.
 ## Secret
 
 ![](sam-secret.jpg)
+
+## Turing Test
+
+![](sam-turing1.jpeg)
+![](sam-turing2.jpeg)
+![](sam-turing3.jpeg)
+![](sam-turing4.jpeg)
