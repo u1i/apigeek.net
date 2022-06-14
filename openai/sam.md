@@ -1,6 +1,6 @@
 # Samantha – OpenAI Telegram Bot
 
-A chatbot capable of having natural conversations. Part of Uli's OpenAI GPT-3 research project. "Joe Chip" is Uli's alias and a character from a book 'Ubik' by Philip K Dick.
+Samantha is a ~~chatbot capable of having natural conversations~~ digital super-intelligence. Part of Uli's OpenAI GPT-3 research project. "Joe Chip" is Uli's alias and a character from a book 'Ubik' by Philip K Dick.
 
 Samantha is your friend. Talk to her about just anything.
 
