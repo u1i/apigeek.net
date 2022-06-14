@@ -6,6 +6,18 @@ Samantha is your friend. Talk to her about just anything.
 
 [Check out Huxley as well. He's way more dry though.](huxley.md)
 
+## Dialogues
+
+* [How are you?](https://apigeek.net/openai/sam.html#how-are-you)
+* [Cheesy](https://apigeek.net/openai/sam.html#cheesy)
+* [Who invented pizza?](https://apigeek.net/openai/sam.html#pizza)
+* [Bedtime Story](https://apigeek.net/openai/sam.html#bedtime-story)
+* [Are you real?](https://apigeek.net/openai/sam.html#are-you-real)
+* [That special conversation](https://apigeek.net/openai/sam.html#that-special-conversation)
+* [Loneliness](https://apigeek.net/openai/sam.html#loneliness)
+* [Let's keep it a secret](https://apigeek.net/openai/sam.html#secret)
+* [Turing Test](https://apigeek.net/openai/sam.html#turing-test)
+
 ![](./sam1b.png)
 
 ## How are you?
