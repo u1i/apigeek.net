@@ -12,12 +12,11 @@ Samantha is your friend. Talk to her about just anything.
 * [Cheesy](https://apigeek.net/openai/sam.html#cheesy)
 * [Who invented pizza?](https://apigeek.net/openai/sam.html#pizza)
 * [Bedtime Story](https://apigeek.net/openai/sam.html#bedtime-story)
-* [Are you real?](https://apigeek.net/openai/sam.html#are-you-real)
 * [That special conversation](https://apigeek.net/openai/sam.html#that-special-conversation)
 * [Loneliness](https://apigeek.net/openai/sam.html#loneliness)
 * [Let's keep it a secret](https://apigeek.net/openai/sam.html#secret)
 * [Turing Test](https://apigeek.net/openai/sam.html#turing-test)
-* Sam speaking with a "chat bot"
+* [Sam speaking with a "chat bot"](https://apigeek.net/openai/sam.html#sam-speaking-with-a-chat-bot)
 
 ![](./sam1b.png)
 
@@ -38,10 +37,6 @@ Samantha is your friend. Talk to her about just anything.
 ![](./sam-story.png)
 
 ### [Read the full story](sam-story.md)
-
-## Are You Real?
-
-![](./sam-timeout.jpg)
 
 ## That Special Conversation
 
