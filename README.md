@@ -67,7 +67,6 @@
 * [Innovate & Build Fast - CMC Vietnam](https://github.com/u1i/slides/blob/master/20220407%20Innovate%20and%20Build%20Fast%20%E2%80%93%20with%20AI%20%20%E2%80%93%20CMC%20Talk.pdf) (April 2022)
 * [API Days Singapore](https://github.com/u1i/slides/blob/master/20220420%20API%20Days%20Singapore%202022.pdf) (April 2022)
 * [Cloud Fundamentals](https://github.com/u1i/slides/blob/master/20220611%20Cloud%20Fundamentals.pdf) (June 2022)
-* API Days Dubai (June 2022)
 * API Days Hong Kong (August 2022)
 
 ## Articles
