@@ -22,6 +22,7 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 * [AI](https://apigeek.net/openai/huxley.html#ai)
 * [Global Warming](https://apigeek.net/openai/huxley.html#global-warming)
 * [Huxley speaking with a "bot"](https://apigeek.net/openai/huxley.html?#huxley-speaking-with-a-bot)
+* [Korea Travel Guide](https://apigeek.net/openai/huxley.html#korea-travel-guide)
 
 ![](huxley.png)
 
