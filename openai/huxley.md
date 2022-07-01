@@ -100,7 +100,12 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 ![](hxb3.jpeg)
 
 ## Huxley helping me understand housing loan financing
+
 ![](hux-sora-1.png)
 ![](hux-sora-2.png)
 ![](hux-sora-3.png)
 ![](hux-sora-4.png)
+
+## Korea Travel Guide
+
+![](huxley-seoul.png)
