@@ -110,3 +110,8 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 ## Korea Travel Guide
 
 ![](huxley-seoul.png)
+
+## Discussing Thermodynamics
+
+[Full Conversation](huxley-td.md)
+![[(huxley-td.jpeg)
