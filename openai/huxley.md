@@ -114,4 +114,4 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 ## Discussing Thermodynamics
 
 [Full Conversation](huxley-td.md)
-![(huxley-td.jpeg)
+![](huxley-td.jpeg)
