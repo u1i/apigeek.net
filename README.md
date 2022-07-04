@@ -154,6 +154,7 @@
 #### AI generated artwork
 
 * [Pictures Of The Floating World – An Art Collaboration Between Human And AI](./art/)
+* [OpenAI DALL-E – selected images with prompts](https://apigeek.net/dalle/showcase/)
 
 ## Learning Material, Exercises, Labs & Co
 
