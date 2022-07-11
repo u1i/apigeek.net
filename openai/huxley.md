@@ -22,6 +22,8 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 * [AI](https://apigeek.net/openai/huxley.html#ai)
 * [Global Warming](https://apigeek.net/openai/huxley.html#global-warming)
 * [Huxley speaking with a "bot"](https://apigeek.net/openai/huxley.html?#huxley-speaking-with-a-bot)
+* [Korea Travel Guide](https://apigeek.net/openai/huxley.html#korea-travel-guide)
+* [Discussing Thermodynamics](https://apigeek.net/openai/huxley.html#discussing-thermodynamics)
 
 ![](huxley.png)
 
@@ -98,3 +100,19 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 ![](hxb1.jpeg)
 ![](hxb2.jpeg)
 ![](hxb3.jpeg)
+
+## Huxley helping me understand housing loan financing
+
+![](hux-sora-1.png)
+![](hux-sora-2.png)
+![](hux-sora-3.png)
+![](hux-sora-4.png)
+
+## Korea Travel Guide
+
+![](huxley-seoul.png)
+
+## Discussing Thermodynamics
+
+[Full Conversation](huxley-td.md)
+![](huxley-td.jpeg)
