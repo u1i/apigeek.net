@@ -64,3 +64,7 @@ Samantha is your friend. Talk to her about just anything.
 ![](sam-cb1.jpeg)
 ![](sam-cb2.jpeg)
 ![](sam-cb3.jpeg)
+
+## Arts and Secrets
+
+![](sam-art-and-secrets.png)
