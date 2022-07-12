@@ -91,6 +91,7 @@
 * [Coffee with Stephen Hawking](https://www.linkedin.com/pulse/coffee-stephen-hawking-uli-hitzel/) (October 2021)
 * [Bedtime Stories from an AI](https://www.linkedin.com/pulse/bedtime-stories-from-ai-uli-hitzel) (November 2021)
 * [Books I'd Love To Read – But They Don't Exist](https://www.linkedin.com/pulse/books-id-love-read-donexist-uli-hitzel/) (November 2021)
+* [Does Google's AI Dream Of Electric Sheep?](https://www.linkedin.com/pulse/does-googles-ai-dream-electric-sheep-uli-hitzel/) (June 2022)
 
 ## Teaching at National University of Singapore
 
