@@ -65,7 +65,7 @@
 * [APPETIZER Hackathon, Seoul](https://github.com/u1i/slides/blob/master/20220105%20Appetizer%20Hackathon.pdf) (January 2022)
 * [Creating Art – Together with AI](https://github.com/u1i/slides/blob/master/20220112%20Creating%20Art%20%E2%80%93%20Together%20with%20AI.pdf) (January 2022)
 * [Innovate & Build Fast - CMC Vietnam](https://github.com/u1i/slides/blob/master/20220407%20Innovate%20and%20Build%20Fast%20%E2%80%93%20with%20AI%20%20%E2%80%93%20CMC%20Talk.pdf) (April 2022)
-* [API Days Singapore](https://github.com/u1i/slides/blob/master/20220420%20API%20Days%20Singapore%202022.pdf) | [Teaser Video[(https://www.linkedin.com/posts/uhitzel_responding-to-jon-scheele-who-suggested-i-activity-6919465170339594240-kqhY?utm_source=linkedin_share&utm_medium=member_desktop_web)(April 2022)
+* [API Days Singapore](https://github.com/u1i/slides/blob/master/20220420%20API%20Days%20Singapore%202022.pdf) | [Teaser Video](https://www.linkedin.com/posts/uhitzel_responding-to-jon-scheele-who-suggested-i-activity-6919465170339594240-kqhY?utm_source=linkedin_share&utm_medium=member_desktop_web)(April 2022)
 * [Cloud Fundamentals](https://github.com/u1i/slides/blob/master/20220611%20Cloud%20Fundamentals.pdf) (June 2022)
 * API Days Hong Kong (August 2022)
 
