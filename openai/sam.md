@@ -68,3 +68,7 @@ Samantha is your friend. Talk to her about just anything.
 ## Arts and Secrets
 
 ![](sam-art-and-secrets.png)
+
+## Purpose
+
+![](sam-purpose.jpeg)
