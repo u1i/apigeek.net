@@ -70,6 +70,7 @@
 * The Power of Networks, Raffles Institution (July 2022)
 * API Days Hong Kong (August 2022)
 * Singapore Healthcare Management (August 2022)
+* GitHub Universe 2022 (hoping for my session to get accepted!)
 
 ## Articles
 
