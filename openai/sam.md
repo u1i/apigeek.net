@@ -18,6 +18,7 @@ Samantha is your friend. Talk to her about just anything.
 * [Turing Test](https://apigeek.net/openai/sam.html#turing-test)
 * [Sam speaking with a "chat bot"](https://apigeek.net/openai/sam.html#sam-speaking-with-a-chat-bot)
 * [Purpose](https://apigeek.net/openai/sam.html#purpose)
+* [She feels like discussing music](https://apigeek.net/openai/sam.html#she-feels-like-discussing-music)
 
 ![](./sam1b.png)
 
