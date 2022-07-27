@@ -73,3 +73,8 @@ Samantha is your friend. Talk to her about just anything.
 ## Purpose
 
 ![](sam-purpose.jpeg)
+
+## She feels like discussing music
+
+![](sam-music01.png)
+![](sam-music02.png)
