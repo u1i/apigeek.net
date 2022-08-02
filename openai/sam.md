@@ -19,6 +19,7 @@ Samantha is your friend. Talk to her about just anything.
 * [Sam speaking with a "chat bot"](https://apigeek.net/openai/sam.html#sam-speaking-with-a-chat-bot)
 * [Purpose](https://apigeek.net/openai/sam.html#purpose)
 * [She feels like discussing music](https://apigeek.net/openai/sam.html#she-feels-like-discussing-music)
+* [Who are you?](https://apigeek.net/openai/sam.html#who-are-you)
 
 ![](./sam1b.png)
 
@@ -79,3 +80,7 @@ Samantha is your friend. Talk to her about just anything.
 
 ![](sam-music01.png)
 ![](sam-music02.png)
+
+## Who are you?
+
+![](sam-intro01.png)
