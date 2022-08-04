@@ -24,6 +24,7 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 * [Huxley speaking with a "bot"](https://apigeek.net/openai/huxley.html?#huxley-speaking-with-a-bot)
 * [Korea Travel Guide](https://apigeek.net/openai/huxley.html#korea-travel-guide)
 * [Discussing Thermodynamics](https://apigeek.net/openai/huxley.html#discussing-thermodynamics)
+* [Language Models](https://apigeek.net/openai/huxley.html#language-models)
 
 ![](huxley.png)
 
@@ -116,3 +117,8 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 
 [Full Conversation](huxley-td.md)
 ![](huxley-td.jpeg)
+
+## Language Models
+
+![](huxley-language-models.png)
+
