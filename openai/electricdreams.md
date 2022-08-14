@@ -1,6 +1,8 @@
 # Electric Dreams
 
-# Season 1 - These are real episodes from the show, summaries from IMDB
+# Season 1
+
+These are real episodes from the show, summaries from IMDB
 
 ## 1: The Hood Maker
 
@@ -42,7 +44,8 @@ A small-town girl, already gripped with social anxiety, moves to a big city with
 
 A man hangs dead from a lamppost, apparently murdered and inexplicably ignored by passersby, after a politician makes a shocking statement encouraging violence. When one Philbert Noyce dares to question the situation, he becomes an instant target.
 
-# Season 2 - AI generated
+# Season 2
+These are AI generated, based on the previous episodes
 
 ## 1: Escape
 
