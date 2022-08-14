@@ -44,7 +44,7 @@ A small-town girl, already gripped with social anxiety, moves to a big city with
 
 A man hangs dead from a lamppost, apparently murdered and inexplicably ignored by passersby, after a politician makes a shocking statement encouraging violence. When one Philbert Noyce dares to question the situation, he becomes an instant target.
 
-Create a set offresh episodes for season 2:
+**Create a set of fresh episodes for season 2:**
 
 # Season 2
 
