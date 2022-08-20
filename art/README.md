@@ -18,7 +18,7 @@ Artwork inspired by the great artists and painters throughout human history
 
 Artwork inspired by the great artists and painters throughout human history
 
-* [View Gallery](https://apigeek.net/art/inspired2
+* [View Gallery](https://apigeek.net/art/inspired2)
 
 [![](./inspired2.jpg)](https://apigeek.net/art/inspired2)
 
