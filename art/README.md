@@ -14,6 +14,15 @@ Artwork inspired by the great artists and painters throughout human history
 
 [![](./inspired.jpg)](https://apigeek.net/art/inspired)
 
+## Inspirations v2
+
+Artwork inspired by the great artists and painters throughout human history
+
+* [View Gallery](https://apigeek.net/art/inspired2
+
+[![](./inspired2.jpg)](https://apigeek.net/art/inspired2)
+
+
 ## Ukiyo-e 浮世
 
 Pieces in the style of 19th century Japanese art
