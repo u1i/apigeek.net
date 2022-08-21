@@ -4,8 +4,8 @@
 | --- | --- |
 | [![](albert-einstein-action-figure.jpg)](albert-einstein-action-figure.jpg) | [![](apple-vr-headset.jpg)](apple-vr-headset.jpg) |
 | [![](captions/albert-einstein-action-figure.jpg)](albert-einstein-action-figure.jpg) | [![](captions/apple-vr-headset.jpg)](apple-vr-headset.jpg) |
-| [![](durin-couch.jpg)](durin-couch.jpg) | [![](giger-style-chronograph.jpg)](giger-style-chronograph.jpg) |
-| [![](captions/durin-couch.jpg)](durin-couch.jpg) | [![](captions/giger-style-chronograph.jpg)](giger-style-chronograph.jpg) |
+| [![](durian-couch.jpg)](durian-couch.jpg) | [![](giger-style-chronograph.jpg)](giger-style-chronograph.jpg) |
+| [![](captions/durian-couch.jpg)](durian-couch.jpg) | [![](captions/giger-style-chronograph.jpg)](giger-style-chronograph.jpg) |
 | [![](giger-style-tyepwriter.jpg)](giger-style-tyepwriter.jpg) | [![](kangaroo.jpg)](kangaroo.jpg) |
 | [![](captions/giger-style-tyepwriter.jpg)](giger-style-tyepwriter.jpg) | [![](captions/kangaroo.jpg)](kangaroo.jpg) |
 | [![](mango-arm-chair.jpg)](mango-arm-chair.jpg) | [![](mango-armchair-2.jpg)](mango-armchair-2.jpg) |
