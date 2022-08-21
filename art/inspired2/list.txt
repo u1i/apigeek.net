@@ -1,12 +1,13 @@
 august-macke_greek-cafe.jpg
+baroque-painting_a-medieval-marketplace-in-autumn.jpg
 caspar-david-friedrich_horse-at-the-sea.jpg
 concept-art_futuristic-city.jpg
 concept-art_singapore-in-2150.jpg
-dali-the-future.jpg
 dali_metaverse.jpg
 dali_munich.jpg
 dali_physics.jpg
 dali_the-dream-of-creation.jpg
+dali_the-future.jpg
 dali_the-internet.jpg
 dali_the-laws-of-physics.jpg
 dali_the-mind.jpg
@@ -15,7 +16,8 @@ digital-art_shanghai.jpg
 digital-art_the-boy-and-the-robot.jpg
 edward-hopper_another-singapore-night-cafe.jpg
 edward-hopper_singapore-night-cafe.jpg
-egyptian-tomb_kids_using_smartphone.jpg
+egyptian-tomb_kids-using-smartphone.jpg
+giger-singapore.jpg
 jacek-yerka-tree-of-life.jpg
 joan-miro_happy-meal.jpg
 matisse_happy-meal.jpg
@@ -34,7 +36,8 @@ steampunk_spaceship-over-paris.jpg
 surrealism_jazz-band.jpg
 surrealism_king-kong.jpg
 surrealism_recursion.jpg
-thomas-cole-raspberry-worship..jpg
+thomas-cole_raspberry-worship.jpg
+van-gogh_singapore-at-night.jpg
 van-gogh_singapore-night-cafe.jpg
 vincent-van-gogh_pyramids.jpg
 vladimir-kush_ethereal-dream.jpg
