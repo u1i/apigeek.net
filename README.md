@@ -132,6 +132,7 @@
 * [Arthur Conan Doyle writing for the New York Times](openai/acd.md)
 * [Conversation between GPT-3, Siri, and Google Assistant](openai/aichat.md)
 * [Electric Dreams - New Episodes](openai/electricdreams.md)
+* [Predicting LinkedIn Articles](openai/articles.md)
 
 #### Audio/Video Generation
 
