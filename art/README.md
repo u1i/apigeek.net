@@ -22,6 +22,14 @@ Artwork inspired by the great artists and painters throughout human history
 
 [![](./inspired2.jpg)](https://apigeek.net/art/inspired2)
 
+## Product Design
+
+Creating ideas for products that do not exist
+
+* [View Gallery](https://apigeek.net/art/products)
+
+[![](./products.jpg)](https://apigeek.net/art/products)
+
 
 ## Ukiyo-e 浮世
 
