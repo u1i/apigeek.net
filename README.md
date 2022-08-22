@@ -97,6 +97,7 @@
 * [Books I'd Love To Read – But They Don't Exist](https://www.linkedin.com/pulse/books-id-love-read-donexist-uli-hitzel/) (November 2021)
 * [Does Google's AI Dream Of Electric Sheep?](https://www.linkedin.com/pulse/does-googles-ai-dream-electric-sheep-uli-hitzel/) (June 2022)
 * [The Imitation Game](https://www.linkedin.com/pulse/imitation-game-uli-hitzel/) (August 2022)
+* [So Long, and Thanks for All the Fish](https://www.linkedin.com/pulse/so-long-thanks-all-fish-uli-hitzel)
 
 ## Teaching at National University of Singapore
 
