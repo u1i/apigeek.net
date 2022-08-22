@@ -5,6 +5,7 @@
 ## About me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
+* [Electric Minds](http://electricminds.net/)
 * [Timeline of Posts on LinkedIn](https://www.linkedin.com/in/uhitzel/detail/recent-activity/shares/)
 * [GitHub](https://github.com/u1i)
 * [Keybase](https://keybase.io/u1i)
