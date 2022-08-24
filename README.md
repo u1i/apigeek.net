@@ -69,8 +69,8 @@
 * [API Days Singapore](https://github.com/u1i/slides/blob/master/20220420%20API%20Days%20Singapore%202022.pdf) -- [Teaser Video](https://www.linkedin.com/posts/uhitzel_responding-to-jon-scheele-who-suggested-i-activity-6919465170339594240-kqhY?utm_source=linkedin_share&utm_medium=member_desktop_web) (April 2022)
 * [Cloud Fundamentals](https://github.com/u1i/slides/blob/master/20220611%20Cloud%20Fundamentals.pdf) (June 2022)
 * [The Power of Networks, Raffles Institution](https://github.com/u1i/slides/blob/master/20220727%20The%20Power%20of%20Networks.pdf) (July 2022)
-* API Days Hong Kong (August 2022)
-* Singapore Healthcare Management (August 2022)
+* [Singapore Healthcare Management](https://github.com/u1i/slides/blob/master/20220817%20Healthcare%20Management%20Singapore.pptx.pdf) (August 2022)
+* [API Days Hong Kong](https://github.com/u1i/slides/blob/master/20220824%20API%20Days%20HK.pdf) (August 2022)
 * GitHub Universe 2022 (hoping for my session to get accepted!)
 
 ## Articles
