@@ -1,5 +1,7 @@
 # Transcribing and Summarizing a TedX Talk
 
+![](tedx-talk2.jpg)
+
 ### AI Tasks:
 
 * Listen to this TedX talk: [https://www.youtube.com/watch?v=bS1Q9N9CyRI](https://www.youtube.com/watch?v=bS1Q9N9CyRI)
