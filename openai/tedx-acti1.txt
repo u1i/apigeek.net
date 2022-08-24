@@ -1,0 +1,63 @@
+well what is actionable intelligence what is it that we can do with the data that's all around us that's information that we can tap into as I look across this room and I see students and faculty members and as well as members of business this is a question that we need to figure out we need to figure out how to use this information we've seen today the right way
+what I want you to come away with today is that we can we're all made up of data and this is a quick way to introduce myself to you you can read seven times faster than what I can in terms of speaking and their three words for you to know no decide as the last speaker just talked about and also act having actionable intelligence means having the right information in the right person's hands
+in time in order to improve outcomes and really make a difference
+ so where does this look where do we start with this you've all heard big data and data scientist and they worked very hard hundreds of the smartest Minds worked very hard on a phenomenon that we're seeing now they tried to figure out who would be in this new position what type of person would it be and they spent months sometimes years ahead of time preparing and came up last year with who would be in the lead
+ and the difference was
+ this
+ everyone was wrong
+ what happened the Big Data wasn't big enough the analytics weren't robust enough what was it you have to give Trump credit he read the American people
+ Americans for the past eight years in spite of the progress in spite of the relative safety from external threats have heard negative negative negative news
+ they've heard jobs are leaving America they've heard how did the terrorists is at the door they've heard things that was intent to scare them and make them feel uncertainty and so a gentleman comes in and says
+ we have seen this happen and we can do better and people follow
+ is it difficult to really understand an end to answer those tough questions what has happened to the economy yes it's difficult it's so difficult in fact it is we're busy without jobs and we are alive we don't have time to dig in and understand why and so all we can solidify our thoughts with our the sound bites that we here and what we read
+ with that lack the facts we don't have time to delve deeper
+ so let me just do a quick check has a professor here are you know I always would like to ask questions and I will ask you questions so do you all have a device like this some sort of smartphone internet anyone have a phone without the internet kind of very conservative these days no okay so all of us have this type of device right great that means that we have some big dater right in our hands and for me the journey to actionable intelligence was very personal my mom a professor and Abbott basketball player at the age of 74 years old
+ was in the hospital my father gave me a call Keith son your mom's in the hospital I drove over and there she was laying down unable to move or speak we went to the doctor doctor what happened and it doctor says listen she had a stroke but I'm very busy go over to the nurses station we go over the nurses station there's computers all around information we have the nurses can you tell us what happened with officer we're very busy with pressed and they said I'll go to the records department after too frustrating days
+ we weren't able to get that much information we moved her to Columbia University Presbyterian Hospital there I went over to the doctor and said Dr we didn't really know what was the situation could you tell us and he went just a moment and print it out and took me through exactly what had happened and the plan of care he had all the information available to him I decided let me take a little bit further and ask them can I see the MRI scan the brain scan you walked over to a computer in the hallway and said let me show you any describe I said bigger Hospital thousands more patience but this doctor had time to spend with me why because he had the data at his fingertips he didn't have to search you didn't have to ask you was all right there
+ this is the vision of actionable intelligence what we need to be able to establish and that what you can establish
+ so the question
+ what city is this I'm giving you some unstructured data
+ a picture
+ what city is this
+ can anyone guess
+ bread
+ Kyoto it looks like he wrote a little bit maybe the Tokyo Tower no no not Kyoto
+ okay let me give you some more data
+ Singapore versus Hong Kong GDP Singapore's ahead congratulations continues to be
+ the city that I just showed you was one of the smart cities in the world
+ bigger picture what city
+ on the side City
+ no idea let's look at the country's the country's GDP
+ the country is in these are the types of millionaires that live in the city
+ so far we hadn't gotten to the right continent in fact this is Lagos Nigeria
+ Lagos Nigeria now I noticed that none of you went to your phone and took a picture like you could have been sent it to Google and said hey
+ that's that's fast right but we have to use these things so they're in our hand we pay a subscription for them they're a big data device are we learning about the world like we could with them
+ so actionable intelligence
+ is about being able to take things a step further
+ we have an overview of a city were able to take a look and I want to show you three levels of how actionable intelligence can help us make better decisions the first level we can see delivery location where deliveries can take place as we drill further in as a company I want to be able to see can we service our customers around Singapore here are trucks that are being managed by Versa Fleet one of your fellow members of the student Shamir and one of my favorite students actually and hear what he's placed in the hands of businesses around the world that they are about where's the shipment what is it going to be what am I picking up but if you're in the faculty of law how could you use this
+ now you can see that the truck was moving at a certain speed during the entire transportation and so was there an accident
+ perhaps you can have the detour before during and after and it meant that into court and say look at the facts this is the information we had if you're working in national service and perhaps you service with the police you know that people in Singapore as they drive toward a speed camera slow down
+ but what happens when they drive past the speed camera don't they speed up right and so this data is viewed by the authorities shows your speed during the entire destination is from start to destination and so then you can see oh wait this car drove over the speed limit for this amount of minutes
+ interesting scary how we use this can be a one of the choices that we make the other level of sickle deeper in who is the driver what's their social network like who they know what inspires them to work with us what's the risk of them leaving how it's their relationship with competitors what might happen to our product or is it in safe hands will they give a good image to a customer when they hand it off we can see data and a particular way where we can visualize the entire company and see what the demographics the type of career path how that person has stayed how long they stayed at the company when do we need to take an appropriate intervention to help them stay or perhaps to improve their career or perhaps to help them with their family matters these are things that we can go in and using data perhaps for to provide a proactive way to stay connected with the people
+ that we work with corporate social responsibility or with the people that they are responsible for as well
+ the absenteeism the overtime these types of data we track we use but if we don't visualize we can't make any decisions with and let's go all the way down and understand who is the person their name their contact what do we do to bring them closer in further is that with Google if you go into Google locations you able to see where are the location a person has visited
+ over the entire lifetime that they've been using Google Maps and so here you can see the person is left from home went to to downtown then to Changi Airport went to the National Services Resort & Country Club for lunch and so forth that information is here
+ it's all right here and Google office that for free
+ do we use it we need to think differently about how we use our big data devices
+ for safety and for emergency response these devices come in handy to they tell us where we are the latitude longitude and also the altitude so you can you tell a first responder can tell how many people are on the 11th floor of the Hong Leong building on Raffles key this way when there's an emergency when there's a critical issue they can go and have the right response have the right people there have the right type of support
+ prime minister Lee hsien loong said in order for Singapore to be the first the number one smart Nation we need to have it entrepreneurial culture that means taking this information that your hearing today and going and using it the right way doing something with it imagine
+ you wake up in the morning you walk over to the shower the temperature is set exactly to the way you like it as you come out
+ you are going down to your car naturally a driverless car and you're able to sit down in it and your agenda for the day is presented to you
+ the car knows exactly where to take you it knows your work it drives you that that direction and then stops you off at Starbucks as you walk into Starbucks you can't The Latte that you want to order is paid for and hand it to you simply by walking in you never had to reach into any Pockets when you get into work the employer says to you well done well done your insurance rates have gone down why because your lifestyle what you eating what you drink how you did exercise has really improved we've noticed it the insurance company knows it too and so your cost are less congratulations if you only cut down and lattes even better
+ so we were able to monitor this information because we've been putting chips into animals for the past 20 years they're safe they last the animal that lives with them should we have those chips that would help us to open the door that would literally have robots hand things to his knowing what we want knowing what we need knowing what we can afford
+ this type of world was imagine and envisioned more than several thousand years ago
+ actually in the Bible in Revelations it will said a number will be placed on everyone in order for you to buy and sell you will have to have this number and it will make sense for safety for insurance for work for every aspect it'll make sense for us to be part of that you want that car to just open as you walk past you and your number the car opens to the convenient is there
+ so we're at the Tipping Point
+ you've heard several different ways in which you can take this device out of your pocket put it into your hand and use it to understand more about the world around you use it to make better decisions to help companies make better decisions if you're in law and few are in arts if you're a faculty member like I am understanding your students further as well this data is here what is it embedded in the way that we do our work does it help us to actually change the way we use data in daily life smart cities coming here to Singapore fast
+ are we ready
+ one of my students Shamir Raheem who started first athlete brought that data together into a system that allows companies to make better decisions about the truck the driver's where to go you can too it's just across the street at block 71 and USS Enterprise There's an opportunity for you to take your ideas and make them come into real life
+ I missed an opportunity
+ my mom
+ when she had that stroke couldn't speak couldn't I couldn't find out about a book that she had want it to be able to tell the world about you get written books in the seventies and we would talk but sometimes Sons don't spend the amount of time they should with their mothers and so I didn't get to hear and understand what really she was going to write and so I wrote a book about the journey to actionable intelligence so if that way people like yourselves that we're going to get started on this journey in the new economy would be able to do it in a fast way
+ so what will you do
+ to impact the way the world uses data how will you change the ethics make sure the policies are in place and that actionable intelligence really delivers improved outcomes and improved lives thank you

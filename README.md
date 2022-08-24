@@ -144,6 +144,10 @@
 * [Aristotle giving a commencement address](https://www.youtube.com/watch?v=FvO0NNGytwY) --> [rendered from this AI generated text](openai/aristotle.md)
 * [Deep Fake – Uli's Voice](openai/voicegen.md)
 
+#### Audio/Video Transcription
+
+* [Transcribing and summarizing a TedX talk](./openai/tedx-talk.md)
+
 #### Creating Video Avatars for Voice-Only Explainer Videos
 
 * [Chinese](https://www.youtube.com/watch?v=1Ip-_wzLAT0) --> [Original Video](https://www.youtube.com/watch?v=QB0_5PE--Dc)
