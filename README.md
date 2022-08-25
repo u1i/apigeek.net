@@ -136,6 +136,7 @@
 * [Conversation between GPT-3, Siri, and Google Assistant](openai/aichat.md)
 * [Electric Dreams - New Episodes](openai/electricdreams.md)
 * [Predicting LinkedIn Articles](openai/articles.md)
+* [Song Lyrics: Rolling Stones – Singapore](./openai/stones-singapore.md)
 
 #### Audio/Video Generation
 
