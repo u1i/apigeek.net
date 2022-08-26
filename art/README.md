@@ -60,9 +60,9 @@ Fantastic pieces, steam punk style
 
 Scenes that could as well be concept art pieces for the Blade Runner movie and video games.
 
-* [View Gallery](https://apigeek.net/art/cybersoul)
+* [View Gallery](https://apigeek.net/art/cybersoul2)
 
-[![](./cybersoul.jpg)](https://apigeek.net/art/cybersoul)
+[![](./cybersoul2.jpg)](https://apigeek.net/art/cybersoul2)
 
 ## Dark Visions
 
