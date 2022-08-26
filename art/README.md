@@ -43,9 +43,9 @@ Pieces in the style of 19th century Japanese art
 
 A hommage to the great H.R. Giger and the beautifully strange artwork he created
 
-[* View Gallery](https://apigeek.net/art/giger)
+[* View Gallery](https://apigeek.net/art/giger2)
 
-[![](./giger.jpg)](https://apigeek.net/art/giger)
+[![](./giger2.jpg)](https://apigeek.net/art/giger2)
 
 
 ## The New World
