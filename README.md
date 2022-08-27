@@ -165,10 +165,11 @@
 * [AI creating Python Code (Video)](https://youtu.be/8mm3COjX36M)
 * [Hacker Rank: AI generated Python code](openai/hackerrank-python.md)
 
-#### AI generated artwork
+#### AI generated artwork and photos
 
 * [Pictures Of The Floating World – An Art Collaboration Between Human And AI](./art/)
 * [OpenAI DALL-E – selected images with prompts](https://apigeek.net/dalle/showcase/)
+* [Generate visuals for your slides](openai/twain-slide-visuals.md)
 
 ## Learning Material, Exercises, Labs & Co
 
