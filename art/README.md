@@ -56,6 +56,14 @@ Fantastic pieces, steam punk style
 
 [![](./thenewworld.jpg)](https://apigeek.net/art/thenewworld)
 
+## The Bigger Picture
+
+What does the village square next to Van Gogh's night cafe look like? How about the room where the girl with the pearl earring is standing in? Let's imagine!
+
+* [View Gallery](https://apigeek.net/art/biggerpicture)
+
+[![](./biggerpicture2.jpg)](https://apigeek.net/art/biggerpicture)
+
 ## Cyber Soul
 
 Scenes that could as well be concept art pieces for the Blade Runner movie and video games.
