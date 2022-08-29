@@ -71,7 +71,6 @@
 * [The Power of Networks, Raffles Institution](https://github.com/u1i/slides/blob/master/20220727%20The%20Power%20of%20Networks.pdf) (July 2022)
 * [Singapore Healthcare Management](https://github.com/u1i/slides/blob/master/20220817%20Healthcare%20Management%20Singapore.pptx.pdf) (August 2022)
 * [API Days Hong Kong](https://github.com/u1i/slides/blob/master/20220824%20API%20Days%20HK.pdf) (August 2022)
-* GitHub Universe 2022 (hoping for my session to get accepted!)
 
 ## Articles
 
