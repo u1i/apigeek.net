@@ -62,7 +62,7 @@ What does the village square next to Van Gogh's night cafe look like? How about 
 
 * [View Gallery](https://apigeek.net/art/biggerpicture)
 
-[![](./biggerpicture3.jpg)](https://apigeek.net/art/biggerpicture)
+[![](./biggerpicture4.jpg)](https://apigeek.net/art/biggerpicture)
 
 ## Cyber Soul
 
