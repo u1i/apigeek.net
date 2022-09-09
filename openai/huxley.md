@@ -25,7 +25,8 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 * [Korea Travel Guide](https://apigeek.net/openai/huxley.html#korea-travel-guide)
 * [Discussing Thermodynamics](https://apigeek.net/openai/huxley.html#discussing-thermodynamics)
 * [Language Models](https://apigeek.net/openai/huxley.html#language-models)
-* The Universe and the Meaning of Life
+* [The Universe and the Meaning of Life](https://apigeek.net/openai/huxley.html#the-universe-and-the-meaning-of-life)
+
 
 ![](huxley.png)
 
