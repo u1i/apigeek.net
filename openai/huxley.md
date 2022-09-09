@@ -25,6 +25,7 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 * [Korea Travel Guide](https://apigeek.net/openai/huxley.html#korea-travel-guide)
 * [Discussing Thermodynamics](https://apigeek.net/openai/huxley.html#discussing-thermodynamics)
 * [Language Models](https://apigeek.net/openai/huxley.html#language-models)
+* The Universe and the Meaning of Life
 
 ![](huxley.png)
 
@@ -82,7 +83,7 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 
 ![](hxintell.png)
 
-[Full conversation](./hxintell.md)
+### [Full conversation](./hxintell.md)
 
 ## Catch-22
 
@@ -115,10 +116,17 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 
 ## Discussing Thermodynamics
 
-[Full Conversation](huxley-td.md)
+### [Full Conversation](huxley-td.md)
 ![](huxley-td.jpeg)
 
 ## Language Models
 
 ![](huxley-language-models.png)
+
+## The Universe and the Meaning of Life
+
+
+### [Full Conversation](huxley-universe.md)
+![](huxley-universe.jpg)
+
 
