@@ -86,3 +86,7 @@ Samantha is your friend. Talk to her about just anything.
 ## Who are you?
 
 ![](sam-intro01.png)
+
+## Are Robovacs AI?
+
+![](sam-robovacs.png)
