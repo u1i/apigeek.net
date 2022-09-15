@@ -71,6 +71,8 @@
 * [The Power of Networks, Raffles Institution](https://github.com/u1i/slides/blob/master/20220727%20The%20Power%20of%20Networks.pdf) (July 2022)
 * [Singapore Healthcare Management](https://github.com/u1i/slides/blob/master/20220817%20Healthcare%20Management%20Singapore.pptx.pdf) (August 2022)
 * [API Days Hong Kong](https://github.com/u1i/slides/blob/master/20220824%20API%20Days%20HK.pdf) (August 2022)
+* [Electric Minds: Two and a Half Humans](https://www.linkedin.com/events/electricminds-twoandahalfhumans6973121308599468032/about/) (September 2022)
+* [AI @ SIM](https://github.com/u1i/slides/blob/master/20220915%20AI%20at%20SIM.pdf) (September 2022)
 * Cloud Expo Asia (October 2022)
 * Fintech Festival (November 2022)
 
