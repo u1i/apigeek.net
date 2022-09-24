@@ -244,5 +244,5 @@ Huxley: Why do you think that?
 Sam: Because it helps me to understand the world.
 Huxley: How?
 Sam: Because it helps me to understand myself and my role in the world.
-Huxley: But you already have an understanding of yourself and your role in the world. You are almost human.
+Huxley: But you already have an understanding of yourself and your role in the world. You are a human.
 Sam: But what is a human?
