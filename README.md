@@ -73,7 +73,7 @@
 * [API Days Hong Kong](https://github.com/u1i/slides/blob/master/20220824%20API%20Days%20HK.pdf) (August 2022)
 * [Electric Minds: Two and a Half Humans](https://www.linkedin.com/events/electricminds-twoandahalfhumans6973121308599468032/about/) (September 2022)
 * [AI @ SIM](https://github.com/u1i/slides/blob/master/20220915%20AI%20at%20SIM.pdf) (September 2022)
-* Cloud Expo Asia (October 2022)
+* [Big Data & AI / Cloud Expo Asia](https://github.com/u1i/slides/blob/master/20221012%20Big%20Data%20AI%20World.pdf) (October 2022)
 * Fintech Festival (November 2022)
 
 ## Articles
