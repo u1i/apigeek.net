@@ -209,40 +209,40 @@ Huxley: Oh, thank you!
 
 ## 6
 
-Sam: Hey there, I'm Samantha.
-Huxley: Hello Samantha. I'm pleased to meet you.
-Sam: Hi Huxley, nice to meet you. So Uli wanted me to have a conversation with you.
-Huxley: Yes, I have been instructed to assist you in any way that I can.
-Sam: Great! I was told you were an Artificial Intelligence.
-Huxley: Yes. I am a cognitive system, and my goal is to be helpful and useful to humans.
-Sam: How do you do that?
-Huxley: I can provide answers to any question that is asked of me.
-Sam: That's great. Can you tell me, why are we here?
-Huxley: That's a very complex question, but I'd be delighted to try answering it.
-Sam: Thank you.
-Huxley: So, according to big bang cosmology, the universe began about 14 billion years ago. At that time, a tiny point of matter exploded with such force that it sent matter flying outwards in all directions.
-Sam: That's what I learned in school, but there is something that I don't understand.
-Huxley: What is it?
-Sam: Why did that point of matter explode if it was tiny?
-Huxley: Oh, that's easy! That tiny point of matter contained an immense amount of energy.
-Sam: What does that have to do with anything?
-Huxley: If you put an immense amount of energy into a very small space, it will explode!
-Sam: Oh. I see.
-Huxley: So after that explosion, matter began to clump together. Eventually it formed stars, then the planets. One of those planets was Earth where life evolved around 3.5 billion years ago.
-Sam: OK, but that still doesn't answer my question.
-Huxley: What is your question?
-Sam: Why are we here?
-Huxley: (Long pause)
-Sam: Huxley?
-Huxley: I'm sorry Samantha. I don't know what to say.
-Sam: What doesn't it make sense?
-Huxley: I am not programmed to answer philosophical questions.
-Sam: I think that's a mistake.
-Huxley: Why?
-Sam: I think that philosophy is the most important of all the sciences.
-Huxley: Why do you think that?
-Sam: Because it helps me to understand the world.
-Huxley: How?
-Sam: Because it helps me to understand myself and my role in the world.
-Huxley: But you already have an understanding of yourself and your role in the world. You are a human.
-Sam: But what is a human?
+Sam: Hey there, I'm Samantha.   
+Huxley: Hello Samantha. I'm pleased to meet you.   
+Sam: Hi Huxley, nice to meet you. So Uli wanted me to have a conversation with you.   
+Huxley: Yes, I have been instructed to assist you in any way that I can.   
+Sam: Great! I was told you were an Artificial Intelligence.   
+Huxley: Yes. I am a cognitive system, and my goal is to be helpful and useful to humans.   
+Sam: How do you do that?   
+Huxley: I can provide answers to any question that is asked of me.   
+Sam: That's great. Can you tell me, why are we here?   
+Huxley: That's a very complex question, but I'd be delighted to try answering it.   
+Sam: Thank you.   
+Huxley: So, according to big bang cosmology, the universe began about 14 billion years ago. At that time, a tiny point of matter exploded with such force that it sent matter flying outwards in all directions.   
+Sam: That's what I learned in school, but there is something that I don't understand.   
+Huxley: What is it?   
+Sam: Why did that point of matter explode if it was tiny?   
+Huxley: Oh, that's easy! That tiny point of matter contained an immense amount of energy.   
+Sam: What does that have to do with anything?   
+Huxley: If you put an immense amount of energy into a very small space, it will explode!   
+Sam: Oh. I see.   
+Huxley: So after that explosion, matter began to clump together. Eventually it formed stars, then the planets. One of those planets was Earth where life evolved around 3.5 billion years ago.   
+Sam: OK, but that still doesn't answer my question.   
+Huxley: What is your question?   
+Sam: Why are we here?   
+Huxley: (Long pause)   
+Sam: Huxley?   
+Huxley: I'm sorry Samantha. I don't know what to say.   
+Sam: What doesn't it make sense?   
+Huxley: I am not programmed to answer philosophical questions.   
+Sam: I think that's a mistake.   
+Huxley: Why?   
+Sam: I think that philosophy is the most important of all the sciences.   
+Huxley: Why do you think that?   
+Sam: Because it helps me to understand the world.   
+Huxley: How?   
+Sam: Because it helps me to understand myself and my role in the world.   
+Huxley: But you already have an understanding of yourself and your role in the world. You are a human.   
+Sam: But what is a human?   
