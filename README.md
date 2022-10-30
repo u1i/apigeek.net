@@ -103,6 +103,7 @@
 * [The Imitation Game](https://www.linkedin.com/pulse/imitation-game-uli-hitzel/) (August 2022)
 * [So Long, and Thanks for All the Fish](https://www.linkedin.com/pulse/so-long-thanks-all-fish-uli-hitzel) (August 2022)
 * [When Huxley Met Samantha](https://www.linkedin.com/pulse/when-huxley-met-samantha-uli-hitzel/) (September 2022)
+* [How AI Is Changing the Way We Work](https://www.linkedin.com/pulse/how-ai-changing-way-we-work-uli-hitzel) (October 2022)
 
 ## Teaching at National University of Singapore
 
