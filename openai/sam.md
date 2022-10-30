@@ -23,6 +23,7 @@ Samantha is your friend. Talk to her about just anything.
 * [She feels like discussing music](https://apigeek.net/openai/sam.html#she-feels-like-discussing-music)
 * [Who are you?](https://apigeek.net/openai/sam.html#who-are-you)
 * [Are Robovacs AI?](https://apigeek.net/openai/sam.html#are-robovacs-ai)
+* [Moody](https://apigeek.net/openai/sam.html#moody)
 
 ![](./sam1b.png)
 
