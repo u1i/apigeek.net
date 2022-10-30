@@ -91,3 +91,11 @@ Samantha is your friend. Talk to her about just anything.
 ## Are Robovacs AI?
 
 ![](sam-robovacs.png)
+
+## Moody
+
+### [Read the full conversation](./sam-moody.md)
+
+![](sam-moody-01.png)
+![](sam-moody-02.png)
+![](sam-moody-03.png)
