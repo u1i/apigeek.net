@@ -75,7 +75,7 @@
 * [AI @ SIM](https://github.com/u1i/slides/blob/master/20220915%20AI%20at%20SIM.pdf) (September 2022)
 * [Big Data & AI / Cloud Expo Asia](https://github.com/u1i/slides/blob/master/20221012%20Big%20Data%20AI%20World.pdf) (October 2022)
 * [Fintech Festival](https://github.com/u1i/slides/blob/master/20221102%20Fintech%20Festival%20SG.pdf) (November 2022)
-* Global AI Developer Days (November 2022)
+* [Global AI Developer Days](https://github.com/u1i/slides/blob/master/20221104%20Global%20AI%20Days%202022.pdf) (November 2022)
 
 ## Articles
 
