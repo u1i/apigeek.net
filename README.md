@@ -104,6 +104,8 @@
 * [So Long, and Thanks for All the Fish](https://www.linkedin.com/pulse/so-long-thanks-all-fish-uli-hitzel) (August 2022)
 * [When Huxley Met Samantha](https://www.linkedin.com/pulse/when-huxley-met-samantha-uli-hitzel/) (September 2022)
 * [How AI Is Changing the Way We Work](https://www.linkedin.com/pulse/how-ai-changing-way-we-work-uli-hitzel) (October 2022)
+* [We Can Remember It for You Wholesale](https://www.linkedin.com/pulse/we-can-remember-you-wholesale-uli-hitzel/) (November 2022)
+* [AI and the Future of Humanity](https://www.linkedin.com/pulse/ai-future-humanity-uli-hitzel/) (November 2022)
 
 ## Teaching at National University of Singapore
 
