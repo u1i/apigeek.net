@@ -126,8 +126,9 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 
 ## The Universe and the Meaning of Life
 
-
 ### [Full Conversation](huxley-universe.md)
 ![](huxley-universe.jpg)
 
+## Gene Kim (DevOps Author)
 
+![](huxley-gk.png)
