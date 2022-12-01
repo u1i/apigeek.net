@@ -76,7 +76,7 @@
 * [Big Data & AI / Cloud Expo Asia](https://github.com/u1i/slides/blob/master/20221012%20Big%20Data%20AI%20World.pdf) (October 2022)
 * [Fintech Festival](https://github.com/u1i/slides/blob/master/20221102%20Fintech%20Festival%20SG.pdf) (November 2022)
 * [Global AI Developer Days](https://github.com/u1i/slides/blob/master/20221104%20Global%20AI%20Days%202022.pdf) (November 2022)
-* Electric Minds: Talking with Sam (December 2022)
+* [Electric Minds: Talking with Sam](https://github.com/u1i/slides/blob/master/20221201%20AI%20Event.pdf) (December 2022)
 
 ## Articles
 
