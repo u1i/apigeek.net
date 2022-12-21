@@ -132,3 +132,7 @@ Huxley knows quite a bit about stuff and is happy to help you understand the wor
 ## Gene Kim (DevOps Author)
 
 ![](huxley-gk.png)
+
+## Words that represent sound (DevOps Author)
+
+![](huxley-onomatopoeia.jpg)
