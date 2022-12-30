@@ -155,6 +155,7 @@
 * [Avatar based on existing voice track](https://www.youtube.com/watch?v=2S3vn0___JA) --> [Original Video](https://www.youtube.com/watch?v=bS1Q9N9CyRI)
 * [Aristotle giving a commencement address](https://www.youtube.com/watch?v=FvO0NNGytwY) --> [rendered from this AI generated text](openai/aristotle.md)
 * [Deep Fake – Uli's Voice](openai/voicegen.md)
+* [A jazzy tune for saxophone](openai/jazz.md)
 
 #### Audio/Video Transcription
 
