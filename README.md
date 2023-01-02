@@ -137,6 +137,7 @@
 
 * [A Shakespeare Sonnet](openai/sonnet.md)
 * [The Seabird – poem in the style of Henry David Thoreau](openai/hdt.md)
+* [The Joy of Eating Pudding – poem in the style of T.S. Eliot](openai/tseliot.md)
 * [Poems, Haiku style](openai/haikus.md)
 * [New Yorker: Bach's Well-Tempered Clavier](openai/bachwtc.md)
 * [Books that don't exist](openai/books.md)
