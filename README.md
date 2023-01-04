@@ -108,6 +108,8 @@
 * [How AI Is Changing the Way We Work](https://www.linkedin.com/pulse/how-ai-changing-way-we-work-uli-hitzel) (October 2022)
 * [We Can Remember It for You Wholesale](https://www.linkedin.com/pulse/we-can-remember-you-wholesale-uli-hitzel/) (November 2022)
 * [AI and the Future of Humanity](https://www.linkedin.com/pulse/ai-future-humanity-uli-hitzel/) (November 2022)
+* [An AI Christmas Carol](https://www.linkedin.com/pulse/ai-christmas-carol-uli-hitzel/) (December 2022)
+* [Copy That: Digital Twins and the Future of Manufacturing](https://www.linkedin.com/pulse/copy-digital-twins-future-manufacturing-uli-hitzel/) (January 2023)
 
 ## Teaching at National University of Singapore
 
