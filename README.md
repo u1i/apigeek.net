@@ -14,7 +14,7 @@
 
 ## Books
 
-* [Bedtime Stories from an AI](https://www.electricminds.net/book) (Paperback / Kindle) 2023
+* [Bedtime Stories from an AI](https://www.electricminds.net/book) Paperback / Kindle, 2023
 
 ## Open Source Projects
 
