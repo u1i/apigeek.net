@@ -12,6 +12,10 @@
 * [Speaker Photos & Bio](https://github.com/u1i/u1i)
 * [Send me an email](./resources/nospam.jpg)
 
+## Books
+
+* [Bedtime Stories from an AI](https://www.electricminds.net/book) (Paperback / Kindle) 2023
+
 ## Open Source Projects
 
 * [Yoisho Open Banking Project](https://github.com/u1i/yoisho)
