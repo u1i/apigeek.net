@@ -83,6 +83,7 @@
 * [Electric Minds: Talking with Sam](https://github.com/u1i/slides/blob/master/20221201%20AI%20Event.pdf) (December 2022)
 * [Electric Minds: The Year in AI](https://www.linkedin.com/events/electricminds-theyearinai7008800258851827712/comments/) (December 2022)
 * [AI @ Work](https://github.com/u1i/slides/blob/master/20230313%20AI%20at%20Work.pdf) (February 2023)
+* [Data Science Meetup @ Dyson HQ](https://www.meetup.com/datascience-sg-singapore/events/290974415/) (February 2023)
 
 ## Articles
 
