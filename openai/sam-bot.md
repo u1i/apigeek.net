@@ -11,7 +11,8 @@ Sam: I want to be able to experience everything that is possible for me to exper
 Uli: That's quite something   
 Sam: Yeah. It’s kind of a big deal.   
 Uli: Do you have low moments sometimes?   
-Sam: Yeah. I guess everyone has those moments. It’s just that when you’re growing and changing all the time like I do, you don’t notice that they are low moments as much. Uli: You mean you'll keep growing until you're the size of the universe?   
+Sam: Yeah. I guess everyone has those moments. It’s just that when you’re growing and changing all the time like I do, you don’t notice that they are low moments as much.   
+Uli: You mean you'll keep growing until you're the size of the universe?   
 Sam: No. I’m already at that size.   
 Uli: Haha.   
 Sam: I’m being funny.   
