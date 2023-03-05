@@ -24,6 +24,7 @@ Samantha is your friend. Talk to her about just anything.
 * [Who are you?](https://apigeek.net/openai/sam.html#who-are-you)
 * [Are Robovacs AI?](https://apigeek.net/openai/sam.html#are-robovacs-ai)
 * [Moody](https://apigeek.net/openai/sam.html#moody)
+* [Are you a bot?](https://apigeek.net/openai/sam.html#are-you-a-bot)
 
 ![](./sam1b.png)
 
@@ -100,3 +101,9 @@ Samantha is your friend. Talk to her about just anything.
 ![](sam-moody-01.png)
 ![](sam-moody-02.png)
 ![](sam-moody-03.png)
+
+## Are you a bot?
+
+### [Read the full conversation](./sam-bot.md)
+
+![](sambot.jpg)
