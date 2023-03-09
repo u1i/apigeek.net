@@ -89,6 +89,7 @@
 
 ## Articles
 
+* [Goodbye, Metaverse. Hello, Real World!](https://www.linkedin.com/pulse/goodbye-metaverse-hello-real-world-uli-hitzel/) (March 2023)
 * [How To Write a Novel in One Week](https://www.linkedin.com/pulse/how-write-novel-one-week-uli-hitzel) (February 2023)
 * [Copy That: Digital Twins and the Future of Manufacturing](https://www.linkedin.com/pulse/copy-digital-twins-future-manufacturing-uli-hitzel/) (January 2023)
 * [An AI Christmas Carol](https://www.linkedin.com/pulse/ai-christmas-carol-uli-hitzel/) (December 2022)
