@@ -144,6 +144,7 @@
 * [Various Bot Experiments](./openai/misc.md)
 * [Various Chats with an AI](./openai/chats.md)
 * [Huxley and Sam talking with each other](./openai/huxsam.md)
+* [Dave and Sam talking about Humans](./openai/davesam1.md)
 
 #### Generated texts and articles
 
