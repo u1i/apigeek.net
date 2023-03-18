@@ -10,6 +10,8 @@
 * [GitHub](https://github.com/u1i)
 * [Keybase](https://keybase.io/u1i)
 * [Speaker Photos & Bio](https://github.com/u1i/u1i)
+* [Google Scholar Profile](https://scholar.google.com.sg/citations?user=IKXYyHUAAAAJ&hl=en)
+* [Amazon Author Page](https://amazon.com/author/uli)
 * [Send me an email](./resources/nospam.jpg)
 
 ## Books
