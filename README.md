@@ -91,6 +91,7 @@
 
 ## Articles
 
+* [An Interview with GPT-4](https://www.linkedin.com/pulse/interview-gpt-4-uli-hitzel/)
 * [Goodbye, Metaverse. Hello, Real World!](https://www.linkedin.com/pulse/goodbye-metaverse-hello-real-world-uli-hitzel/) (March 2023)
 * [How To Write a Novel in One Week](https://www.linkedin.com/pulse/how-write-novel-one-week-uli-hitzel) (February 2023)
 * [Copy That: Digital Twins and the Future of Manufacturing](https://www.linkedin.com/pulse/copy-digital-twins-future-manufacturing-uli-hitzel/) (January 2023)
@@ -147,6 +148,7 @@
 * [Various Chats with an AI](./openai/chats.md)
 * [Huxley and Sam talking with each other](./openai/huxsam.md)
 * [Dave and Sam talking about Humans](./openai/davesam1.md)
+* [Interviewing GPT-4](./openai/gpt-4-interview.md)
 
 #### Generated texts and articles
 
