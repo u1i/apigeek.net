@@ -28,7 +28,6 @@
 
 ## Speaking Engagements & Slides
 
-* API Days Singapore – to be confirmed (April 2023)
 * [ChatGPT @ ACS](https://github.com/u1i/slides/blob/master/20230308%20ChatGPT%20ACS.pdf) (March 2023)
 * [Data Science Meetup @ Dyson HQ](https://www.meetup.com/datascience-sg-singapore/events/290974415/) (February 2023)
 * [AI @ Work](https://github.com/u1i/slides/blob/master/20230313%20AI%20at%20Work.pdf) (February 2023)
@@ -91,7 +90,7 @@
 
 ## Articles
 
-* [An Interview with GPT-4](https://www.linkedin.com/pulse/interview-gpt-4-uli-hitzel/)
+* [An Interview with GPT-4](https://www.linkedin.com/pulse/interview-gpt-4-uli-hitzel/) (March 2023)
 * [Goodbye, Metaverse. Hello, Real World!](https://www.linkedin.com/pulse/goodbye-metaverse-hello-real-world-uli-hitzel/) (March 2023)
 * [How To Write a Novel in One Week](https://www.linkedin.com/pulse/how-write-novel-one-week-uli-hitzel) (February 2023)
 * [Copy That: Digital Twins and the Future of Manufacturing](https://www.linkedin.com/pulse/copy-digital-twins-future-manufacturing-uli-hitzel/) (January 2023)
