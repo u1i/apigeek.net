@@ -28,9 +28,10 @@
 
 ## Speaking Engagements & Slides
 
+* [Build a Bot](https://github.com/u1i/slides/blob/master/20230325%20Build%20a%20Bot.pdf) (March 2023)
 * [ChatGPT @ ACS](https://github.com/u1i/slides/blob/master/20230308%20ChatGPT%20ACS.pdf) (March 2023)
 * [Data Science Meetup @ Dyson HQ](https://www.meetup.com/datascience-sg-singapore/events/290974415/) (February 2023)
-* [AI @ Work](https://github.com/u1i/slides/blob/master/20230313%20AI%20at%20Work.pdf) (February 2023)
+* [AI @ Work](https://github.com/u1i/slides/blob/master/20230213%20AI%20at%20Work.pdf) (February 2023)
 * [Electric Minds: The Year in AI](https://www.linkedin.com/events/electricminds-theyearinai7008800258851827712/comments/) (December 2022)
 * [Electric Minds: Talking with Sam](https://github.com/u1i/slides/blob/master/20221201%20AI%20Event.pdf) (December 2022)
 * [Global AI Developer Days](https://github.com/u1i/slides/blob/master/20221104%20Global%20AI%20Days%202022.pdf) (November 2022)
