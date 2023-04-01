@@ -91,6 +91,7 @@
 
 ## Articles
 
+* [The Infinity Hotel](https://www.linkedin.com/pulse/infinity-hotel-uli-hitzel/) (April 2023)
 * [An Interview with GPT-4](https://www.linkedin.com/pulse/interview-gpt-4-uli-hitzel/) (March 2023)
 * [Goodbye, Metaverse. Hello, Real World!](https://www.linkedin.com/pulse/goodbye-metaverse-hello-real-world-uli-hitzel/) (March 2023)
 * [How To Write a Novel in One Week](https://www.linkedin.com/pulse/how-write-novel-one-week-uli-hitzel) (February 2023)
