@@ -17,6 +17,8 @@
 ## Books
 
 * [Bedtime Stories from an AI](https://www.electricminds.net/book) Paperback / Kindle, 2023
+* [The Bot Who Loved Me](https://www.electricminds.net/book) Paperback / Kindle, 2023
+
 
 ## Open Source Projects
 
