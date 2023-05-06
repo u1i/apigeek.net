@@ -93,6 +93,8 @@
 
 ## Articles
 
+* [J-Guts and the Titans of IT](https://github.com/u1i/articles/blob/master/LinkedIn%20%20%E2%80%93%20J-Guts%20and%20the%20Titans%20of%20IT.pdf) (May 2023)
+* [Humans, Bots, and '1984': Two AIs Walk into a Bar](https://github.com/u1i/articles/blob/master/LinkedIn%20%20%E2%80%93%20Humans%2C%20Bots%2C%20and%20'1984'_%20Two%20AIs%20Walk%20into%20a%20Bar.pdf) (May 2023)
 * [AI, Everything, Everywhere, All at Once!](https://www.linkedin.com/pulse/ai-everything-everywhere-all-once-uli-hitzel/) (April 2023)
 * [The Infinity Hotel](https://www.linkedin.com/pulse/infinity-hotel-uli-hitzel/) (April 2023)
 * [An Interview with GPT-4](https://www.linkedin.com/pulse/interview-gpt-4-uli-hitzel/) (March 2023)
