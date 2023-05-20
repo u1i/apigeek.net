@@ -93,6 +93,8 @@
 
 ## Articles
 
+* [The Book I Never Published](https://github.com/u1i/articles/blob/master/LinkedIn%20%E2%80%93%20The%20Book%20I%20Never%20Published.pdf) (May 2023)
+* [Goldbach’s Conjecture: Can AI and Math Geniuses Crack the Code Together?](https://github.com/u1i/articles/blob/master/LinkedIn%20%E2%80%93%20Goldbach%E2%80%99s%20Conjecture_%20Can%20AI%20and%20Math%20Geniuses%20Crack%20the%20Code%20Together.pdf) (May 2023)
 * [J-Guts and the Titans of IT](https://github.com/u1i/articles/blob/master/LinkedIn%20%20%E2%80%93%20J-Guts%20and%20the%20Titans%20of%20IT.pdf) (May 2023)
 * [Humans, Bots, and '1984': Two AIs Walk into a Bar](https://github.com/u1i/articles/blob/master/LinkedIn%20%20%E2%80%93%20Humans%2C%20Bots%2C%20and%20'1984'_%20Two%20AIs%20Walk%20into%20a%20Bar.pdf) (May 2023)
 * [AI, Everything, Everywhere, All at Once!](https://www.linkedin.com/pulse/ai-everything-everywhere-all-once-uli-hitzel/) (April 2023)
