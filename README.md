@@ -94,10 +94,10 @@
 ## Articles
 
 * [MLOps: Taking AI/ML From the Basement Into the Boardroom](https://www.linkedin.com/pulse/mlops-taking-aiml-from-basement-boardroom-uli-hitzel/) (June 2023)
-* [The Book I Never Published](https://github.com/u1i/articles/blob/master/LinkedIn%20%E2%80%93%20The%20Book%20I%20Never%20Published.pdf) (May 2023)
-* [Goldbach’s Conjecture: Can AI and Math Geniuses Crack the Code Together?](https://github.com/u1i/articles/blob/master/LinkedIn%20%E2%80%93%20Goldbach%E2%80%99s%20Conjecture_%20Can%20AI%20and%20Math%20Geniuses%20Crack%20the%20Code%20Together.pdf) (May 2023)
-* [J-Guts and the Titans of IT](https://github.com/u1i/articles/blob/master/LinkedIn%20%20%E2%80%93%20J-Guts%20and%20the%20Titans%20of%20IT.pdf) (May 2023)
-* [Humans, Bots, and '1984': Two AIs Walk into a Bar](https://github.com/u1i/articles/blob/master/LinkedIn%20%20%E2%80%93%20Humans%2C%20Bots%2C%20and%20'1984'_%20Two%20AIs%20Walk%20into%20a%20Bar.pdf) (May 2023)
+* [The Book I Never Published](https://www.linkedin.com/pulse/book-i-never-published-uli-hitzel) (May 2023)
+* [Goldbach’s Conjecture: Can AI and Math Geniuses Crack the Code Together?](https://www.linkedin.com/pulse/goldbachs-conjecture-can-ai-math-geniuses-crack-code-together-hitzel) (May 2023)
+* [J-Guts and the Titans of IT](https://www.linkedin.com/pulse/j-guts-titans-uli-hitzel) (May 2023)
+* [Humans, Bots, and '1984': Two AIs Walk into a Bar](https://www.linkedin.com/pulse/humans-bots-1984-two-ais-walk-bar-uli-hitzel) (May 2023)
 * [AI, Everything, Everywhere, All at Once!](https://www.linkedin.com/pulse/ai-everything-everywhere-all-once-uli-hitzel/) (April 2023)
 * [The Infinity Hotel](https://www.linkedin.com/pulse/infinity-hotel-uli-hitzel/) (April 2023)
 * [An Interview with GPT-4](https://www.linkedin.com/pulse/interview-gpt-4-uli-hitzel/) (March 2023)
