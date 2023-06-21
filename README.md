@@ -30,6 +30,7 @@
 
 ## Speaking Engagements & Slides
 
+* [Schneider Electric Innovation Day]() (July 2023)
 * [Build a Bot](https://github.com/u1i/slides/blob/master/20230325%20Build%20a%20Bot.pdf) (March 2023)
 * [ChatGPT @ ACS](https://github.com/u1i/slides/blob/master/20230308%20ChatGPT%20ACS.pdf) (March 2023)
 * [Data Science Meetup @ Dyson HQ](https://www.meetup.com/datascience-sg-singapore/events/290974415/) (February 2023)
