@@ -94,6 +94,7 @@
 
 ## Articles
 
+* [TinyML and AI on the Edge: Can Machine Learning Fit into 256 Kilobytes?](https://github.com/u1i/articles/blob/master/LinkedIn%20%E2%80%93%20TinyML%20and%20AI%20on%20the%20Edge%20-%20Can%20Machine%20Learning%20Fit%20into%20256%20Kilobytes.pdf) (July 2023)
 * [MLOps: Taking AI/ML From the Basement Into the Boardroom](https://www.linkedin.com/pulse/mlops-taking-aiml-from-basement-boardroom-uli-hitzel/) (June 2023)
 * [The Book I Never Published](https://www.linkedin.com/pulse/book-i-never-published-uli-hitzel) (May 2023)
 * [Goldbach’s Conjecture: Can AI and Math Geniuses Crack the Code Together?](https://www.linkedin.com/pulse/goldbachs-conjecture-can-ai-math-geniuses-crack-code-together-hitzel) (May 2023)
