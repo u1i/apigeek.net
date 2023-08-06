@@ -94,6 +94,7 @@
 
 ## Articles
 
+* [When Robots Write the News, Humans Must Become More Human Than Ever](https://www.linkedin.com/pulse/when-robots-write-news-humans-must-become-more-human-than-uli-hitzel) (August 2023)
 * [When an AI Creates Another AI](https://www.linkedin.com/pulse/when-ai-creates-another-uli-hitzel/) (July 2023)
 * [Me, Myself, and AI: Where Does the Line Blur Between Organic and Digital?](https://www.linkedin.com/pulse/me-myself-ai-where-does-line-blur-between-organic-digital-uli-hitzel/) (July 2023)
 * [TinyML and AI on the Edge: Can Machine Learning Fit into 256 Kilobytes?](https://www.linkedin.com/pulse/tinyml-ai-edge-can-machine-learning-fit-256-kilobytes-uli-hitzel) (July 2023)
