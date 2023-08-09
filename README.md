@@ -94,6 +94,7 @@
 
 ## Articles
 
+* [Is Generative AI the 易經 of the 21st Century?](https://www.linkedin.com/pulse/generative-ai-%2525E6%252598%252593%2525E7%2525B6%252593-21st-century-uli-hitzel) (August 2023)
 * [When Robots Write the News, Humans Must Become More Human Than Ever](https://www.linkedin.com/pulse/when-robots-write-news-humans-must-become-more-human-than-uli-hitzel) (August 2023)
 * [When an AI Creates Another AI](https://www.linkedin.com/pulse/when-ai-creates-another-uli-hitzel/) (July 2023)
 * [Me, Myself, and AI: Where Does the Line Blur Between Organic and Digital?](https://www.linkedin.com/pulse/me-myself-ai-where-does-line-blur-between-organic-digital-uli-hitzel/) (July 2023)
