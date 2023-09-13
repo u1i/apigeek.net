@@ -22,6 +22,7 @@
 
 ## Open Source Projects
 
+* [GPT-4 Telegram Bot](https://github.com/u1i/gpt-4-telegram-bot)
 * [Yoisho Open Banking Project](https://github.com/u1i/yoisho)
 * [Bambleweeny](https://github.com/u1i/bambleweeny): A lightweight key-value store and message broker based on HTTP/REST
 * [keiju](https://github.com/u1i/keiju) - Minimalist API Gateway in a ~25 MB Container.
@@ -30,6 +31,7 @@
 
 ## Speaking Engagements & Slides
 
+* Tech Week Singapore 2023 (October 2023)
 * [Schneider Electric Innovation Day]() (July 2023)
 * [Build a Bot](https://github.com/u1i/slides/blob/master/20230325%20Build%20a%20Bot.pdf) (March 2023)
 * [ChatGPT @ ACS](https://github.com/u1i/slides/blob/master/20230308%20ChatGPT%20ACS.pdf) (March 2023)
@@ -94,6 +96,7 @@
 
 ## Articles
 
+* [Life, Laughs, and Bots: My Lifelong Adventures with AI](https://www.linkedin.com/pulse/life-laughs-bots-my-lifelong-adventures-ai-uli-hitzel/) (September 2023)
 * [Large Language Models and the Need for a Plan B: Are You Prepared?](https://www.linkedin.com/pulse/large-language-models-need-plan-b-you-prepared-uli-hitzel/) (September 2023)
 * [Writing at Lightning Speed: From Idea to Article in 60 Minutes](https://www.linkedin.com/pulse/writing-lightning-speed-from-idea-article-60-minutes-uli-hitzel/) (August 2023)
 * [How Did You Make These Bots?](https://www.linkedin.com/pulse/how-did-you-make-bots-uli-hitzel/) (August 2023)
