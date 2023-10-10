@@ -163,7 +163,7 @@
 
 #### Conversations with AI
 
-* [Huxley - a friendly and helpful AI you can speak with onTelegram](openai/huxley.md)
+* [Huxley - a friendly and helpful AI you can speak with on Telegram](openai/huxley.md)
 * [Marvin – a robot with quite some attitude (Telegram)](./openai/marvin.md)
 * [Samantha – an AI who may as well be your best friend! (Telegram)](./openai/sam.md)
 * [Coffee with Stephen Hawking](openai/stephenhawking.md)
