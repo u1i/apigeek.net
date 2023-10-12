@@ -31,7 +31,7 @@
 
 ## Speaking Engagements & Slides
 
-* Tech Week Singapore 2023 (October 2023)
+* [Tech Week Singapore 2023](https://github.com/u1i/slides/blob/master/20231012%20Big%20Data%20AI%20World%202023.pdf) (October 2023)
 * [Schneider Electric Innovation Day]() (July 2023)
 * [Build a Bot](https://github.com/u1i/slides/blob/master/20230325%20Build%20a%20Bot.pdf) (March 2023)
 * [ChatGPT @ ACS](https://github.com/u1i/slides/blob/master/20230308%20ChatGPT%20ACS.pdf) (March 2023)
