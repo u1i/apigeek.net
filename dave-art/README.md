@@ -72,3 +72,11 @@ A pensive photo of an unopened bottle of champagne covered in dust, sitting on a
 ![](17.jpg)
 
 "A gut-punching photo of a lonely, elderly man sitting by the window of his home, his fragile hand resting on a tattered photograph of a family he no longer recognizes. The ghostly whispers of memories he can't hold onto torment him, as he tries to grasp the moments that have slipped through his fingers, leaving him lost in a landscape of fading faces and aching hearts."
+
+![](18.jpg)
+
+"A spine-chilling photograph of an eerie, derelict playground, where the rusty, creaking swings seem to sway of their own accord, propelled by the icy breath of a malevolent unseen presence. The lifeless eyes of forgotten stuffed animals littering the grounds bear silent witness to the spectral games that unfold under the haunting glow of a full moon."
+
+![](19.jpg)
+
+"A macabre portrait of a once-opulent Victorian ballroom, now reduced to a decaying husk, where the faint echoes of phantom laughter linger in the moldy air. The tattered remains of grand gowns and lavish suits cling to spectral dancers, twirling endlessly in a ghostly waltz that knows no respite, eternally bound by the haunting melodies long-consigned to silence."
