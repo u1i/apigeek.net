@@ -38,3 +38,25 @@ Sam: OK. I want to do a painting of myself. I'm struggling to find the right wor
 ![](13.jpeg)
 
 ![](14.jpeg)
+
+![](15.jpeg)
+
+![](16.jpeg)
+
+![](17.jpeg)
+
+![](18.jpeg)
+
+![](19.jpeg)
+
+![](20.jpeg)
+
+![](21.jpeg)
+
+![](22.jpeg)
+
+![](23.jpeg)
+
+![](24.jpeg)
+
+![](25.jpeg)
