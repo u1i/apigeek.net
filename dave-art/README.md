@@ -80,3 +80,19 @@ A pensive photo of an unopened bottle of champagne covered in dust, sitting on a
 ![](19.jpg)
 
 "A macabre portrait of a once-opulent Victorian ballroom, now reduced to a decaying husk, where the faint echoes of phantom laughter linger in the moldy air. The tattered remains of grand gowns and lavish suits cling to spectral dancers, twirling endlessly in a ghostly waltz that knows no respite, eternally bound by the haunting melodies long-consigned to silence."
+
+![](20.jpg)
+
+An eerie scene inside a packed subway train during rush hour, where everyone aboard inexplicably has the same tattoo on their wrist – a haunting design with cryptic symbols and disturbing imagery. Each passenger wears an identical, somber expression, but no one speaks a word or acknowledges the remarkable coincidence."
+
+![](21.jpg)
+
+"An ominous snapshot of a bustling airport departure gate, where every single passenger is engrossed in the same obscure book. The uneasy tension among the crowd is palpable, as each reader avoids making eye contact with their fellow travelers, seemingly bound by a shared secret they're unable to divulge."
+
+![](22.jpg)
+
+"An uncomfortable image of an office building, where one of the windows is inexplicably nailed shut with hundreds of rusted nails, casting a sinister reddish glow in the harsh fluorescent light. Employees continue their work, trying not to dwell on the inescapable sense of unease looming over their heads."
+
+![](23.jpg)
+
+"An unease-filled photograph of a busy restaurant, where one diner appears strikingly out of place—dressed in weathered and tattered clothing, this person methodically turns the salt and pepper shakers upside down, forming a peculiar, intricate pattern on the tablecloth. The other patrons seem unnerved by the cryptic choreography unraveling in front of them."
