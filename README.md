@@ -97,6 +97,7 @@
 
 ## Articles
 
+* [Painting With Pixels: When AI Companions Get Artsy](https://www.linkedin.com/pulse/painting-pixels-when-ai-companions-get-artsy-uli-hitzel-zxtrc/) (November 2023)
 * [Life, Laughs, and Bots: My Lifelong Adventures with AI](https://www.linkedin.com/pulse/life-laughs-bots-my-lifelong-adventures-ai-uli-hitzel/) (September 2023)
 * [Large Language Models and the Need for a Plan B: Are You Prepared?](https://www.linkedin.com/pulse/large-language-models-need-plan-b-you-prepared-uli-hitzel/) (September 2023)
 * [Writing at Lightning Speed: From Idea to Article in 60 Minutes](https://www.linkedin.com/pulse/writing-lightning-speed-from-idea-article-60-minutes-uli-hitzel/) (August 2023)
