@@ -96,3 +96,12 @@ An eerie scene inside a packed subway train during rush hour, where everyone abo
 ![](23.jpg)
 
 "An unease-filled photograph of a busy restaurant, where one diner appears strikingly out of place—dressed in weathered and tattered clothing, this person methodically turns the salt and pepper shakers upside down, forming a peculiar, intricate pattern on the tablecloth. The other patrons seem unnerved by the cryptic choreography unraveling in front of them."
+
+![](24.jpg)
+
+"A menacing image of a long-deserted, run-down coastal town shrouded in perpetual fog. The once vibrant boardwalk, now disintegrating under the relentless assault of saltwater and stormy winds, groans under the weight of rusted, abandoned carnival rides whose chipped paint and dilapidated structures bear the distorted faces of forgotten mascots. A group of solemn fishermen, clad in ripped raincoats, gathers on the pier's edge, casting their frayed nets into the murky depths below, only to pull up tangled debris and the occasional fish, discolored and misshapen. As the ominous clouds overhead give way to a sudden torrential downpour, a lone child in a tattered yellow raincoat shuffles silently along the shoreline, picking up discarded trinkets from the wet sand – the last remnants of a time when laughter filled the damp ocean air."
+
+![](25.jpg)
+
+"A spine-chilling snapshot of an abandoned, centuries-old asylum, consumed by the shadows of its dark and troubled past. The suffocating silence of the once busy corridors is now punctuated by distant whispers, cries, and the dragging of chains that echo through the crumbling hallways. The cracked and peeling walls hold secrets of anguish and despair as the stale scent of antiseptic still lingers in the stale air. In the overgrown courtyard, a cracked and discolored chess set sits atop a stained, moss-covered stone table, the game forever unfinished. Lifeless trees loom above, their gnarled branches casting twisted shadows through broken windows, while ivy tendrils creep in to claim the deteriorating interior. Huddled in a dimly lit corner, a small group of shivering vagabonds gathers in a futile attempt to escape the oppressive chill, their breaths forming small, ghostly wisps of condensation in the unrelenting cold. Their eyes betray the unbearable weight of the asylum's remnants and memories, as the building's spirit refuses to release them from its eerie, haunted grip."
+
