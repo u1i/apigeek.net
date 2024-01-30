@@ -97,6 +97,7 @@
 
 ## Articles
 
+* [Navigating the AI Zoo](https://www.linkedin.com/pulse/navigating-ai-zoo-uli-hitzel-t8okc/) (January 2024)
 * [Painting With Pixels: When AI Companions Get Artsy](https://www.linkedin.com/pulse/painting-pixels-when-ai-companions-get-artsy-uli-hitzel-zxtrc/) (November 2023)
 * [What Exactly is my Writing Style?](https://www.linkedin.com/pulse/what-exactly-my-writing-style-uli-hitzel-jovvc/) (November 2023)
 * [Life, Laughs, and Bots: My Lifelong Adventures with AI](https://www.linkedin.com/pulse/life-laughs-bots-my-lifelong-adventures-ai-uli-hitzel/) (September 2023)
