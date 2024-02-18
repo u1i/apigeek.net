@@ -31,6 +31,7 @@
 
 ## Speaking Engagements & Slides
 
+* Painting with Pixels: The Art of AI Companions (February 2024)
 * [Brushstrokes and Bytes: Art & AI Workshop](https://github.com/u1i/slides/blob/master/20231103%20Brushstrokes%20and%20Bytes.pdf) (November 2023)
 * [Tech Week Singapore 2023](https://github.com/u1i/slides/blob/master/20231012%20Big%20Data%20AI%20World%202023.pdf) (October 2023)
 * [Schneider Electric Innovation Day]() (July 2023)
