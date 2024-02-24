@@ -98,6 +98,7 @@
 
 ## Articles
 
+* [Turning AI from Dry to Dreamy with a Magic Dial](https://www.linkedin.com/pulse/turning-ai-from-dry-dreamy-magic-dial-uli-hitzel-jdykc) (February 2024)
 * [The Grand Duel: GPT-4 vs. Google's Gemini Ultra](https://www.linkedin.com/pulse/grand-duel-gpt-4-vs-googles-gemini-ultra-uli-hitzel-115xc/) (February 2024)
 * [Are Artificial Language Sweeteners Hijacking AI-generated Text?](https://www.linkedin.com/pulse/artificial-language-sweeteners-hijacking-ai-generated-uli-hitzel-zjlzc/) (February 2024)
 * [Navigating the AI Zoo](https://www.linkedin.com/pulse/navigating-ai-zoo-uli-hitzel-t8okc/) (January 2024)
