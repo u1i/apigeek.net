@@ -31,6 +31,7 @@
 
 ## Speaking Engagements & Slides
 
+* [Did You Mean to Add an Attachment?](https://github.com/u1i/slides/blob/master/20240302%20Did%20You%20Mean%20to%20Add%20an%20Attachment_%20%E2%80%93%20How%20AI%20Has%20Always%20Been%20Your%20Writing%20Assistant.pdf) (March 2024)
 * [My AI is an Emo Artist and That's Okay!](https://github.com/u1i/slides/blob/master/20240218%20My%20AI%20is%20an%20Emo%20Artist%20and%20Thats%20Okay.pdf) (February 2024)
 * [Brushstrokes and Bytes: Art & AI Workshop](https://github.com/u1i/slides/blob/master/20231103%20Brushstrokes%20and%20Bytes.pdf) (November 2023)
 * [Tech Week Singapore 2023](https://github.com/u1i/slides/blob/master/20231012%20Big%20Data%20AI%20World%202023.pdf) (October 2023)
