@@ -167,6 +167,10 @@
 * [DevOps Course – Resources](https://github.com/u1i/devops-course)
 * [Stellar Foundation – NUS Collaboration](./resources/nus_stellar_collab_20211124.png)
 
+## Music
+
+* Bach Sonatas and Chorales, 2024 on [Spotify](https://open.spotify.com/album/0gnRSuQ2qL5JuXlo0YAL2C) and [Apple Music](https://music.apple.com/us/artist/uli-hitzel/1739466607).
+
 ## Research
 
 ### OpenAI & GPT-3
@@ -253,6 +257,12 @@
 * [k3s Exercise](https://github.com/u1i/apigeek.net)
 
 ## Hacks
+
+### BWV 269 Audio Mixer
+
+An interactive web app that lets you dive into the harmonies of Bach's chorale BWV 269
+
+#### [GitHub repo](https://github.com/u1i/BWV-269-Audio-Mixer)
 
 ### Instagram Analysis
 
