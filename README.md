@@ -100,6 +100,8 @@
 
 ## Articles
 
+* ["Unraveling the Intricate Tapestry of AI's Meticulous Verbosity"](https://www.linkedin.com/pulse/unraveling-intricate-tapestry-ais-meticulous-verbosity-uli-hitzel-7kbxc) (May 2024)
+* [When an Entire Universe Fits Into a Shoe Box](https://www.linkedin.com/pulse/when-entire-universe-fits-shoe-box-uli-hitzel-cgnsc) (May 2024)
 * [The AI Force Awakens](https://www.linkedin.com/pulse/ai-force-awakens-uli-hitzel-nyvac/) (April 2024)
 * [Turning AI from Dry to Dreamy with a Magic Dial](https://www.linkedin.com/pulse/turning-ai-from-dry-dreamy-magic-dial-uli-hitzel-jdykc) (February 2024)
 * [The Grand Duel: GPT-4 vs. Google's Gemini Ultra](https://www.linkedin.com/pulse/grand-duel-gpt-4-vs-googles-gemini-ultra-uli-hitzel-115xc/) (February 2024)
