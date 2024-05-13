@@ -23,6 +23,7 @@
 
 ## Open Source Projects
 
+* [SEA-LION on Ollama](https://github.com/u1i/sea-lion-ollama): making AI Singapore's LLM accessible to everyone
 * [GPT-4 Telegram Bot](https://github.com/u1i/gpt-4-telegram-bot)
 * [Yoisho Open Banking Project](https://github.com/u1i/yoisho)
 * [Bambleweeny](https://github.com/u1i/bambleweeny): A lightweight key-value store and message broker based on HTTP/REST
@@ -100,8 +101,10 @@
 
 ## Articles
 
-* ["Unraveling the Intricate Tapestry of AI's Meticulous Verbosity"](https://www.linkedin.com/pulse/unraveling-intricate-tapestry-ais-meticulous-verbosity-uli-hitzel-7kbxc) (May 2024)
-* [When an Entire Universe Fits Into a Shoe Box](https://www.linkedin.com/pulse/when-entire-universe-fits-shoe-box-uli-hitzel-cgnsc) (May 2024)
+
+* [The AI That Dreamed of Being Murakami](https://www.linkedin.com/pulse/ai-dreamed-being-murakami-uli-hitzel-1jo9c/) (May 2024)
+* ["Unraveling the Intricate Tapestry of AI's Meticulous Verbosity"](https://www.linkedin.com/pulse/unraveling-intricate-tapestry-ais-meticulous-verbosity-uli-hitzel-7kbxc/) (May 2024)
+* [When an Entire Universe Fits Into a Shoe Box](https://www.linkedin.com/pulse/when-entire-universe-fits-shoe-box-uli-hitzel-cgnsc/) (May 2024)
 * [The AI Force Awakens](https://www.linkedin.com/pulse/ai-force-awakens-uli-hitzel-nyvac/) (April 2024)
 * [Turning AI from Dry to Dreamy with a Magic Dial](https://www.linkedin.com/pulse/turning-ai-from-dry-dreamy-magic-dial-uli-hitzel-jdykc) (February 2024)
 * [The Grand Duel: GPT-4 vs. Google's Gemini Ultra](https://www.linkedin.com/pulse/grand-duel-gpt-4-vs-googles-gemini-ultra-uli-hitzel-115xc/) (February 2024)
