@@ -101,7 +101,6 @@
 
 ## Articles
 
-
 * [The AI That Dreamed of Being Murakami](https://www.linkedin.com/pulse/ai-dreamed-being-murakami-uli-hitzel-1jo9c/) (May 2024)
 * ["Unraveling the Intricate Tapestry of AI's Meticulous Verbosity"](https://www.linkedin.com/pulse/unraveling-intricate-tapestry-ais-meticulous-verbosity-uli-hitzel-7kbxc/) (May 2024)
 * [When an Entire Universe Fits Into a Shoe Box](https://www.linkedin.com/pulse/when-entire-universe-fits-shoe-box-uli-hitzel-cgnsc/) (May 2024)
