@@ -7,6 +7,7 @@ Source article: [The AI Force Awakens](https://www.linkedin.com/pulse/ai-force-a
 * [Chinese (traditional)](chinese-trad.md)
 * [French](french.md)
 * [German](german.md)
+* [Hindi](hindi.md)
 * [Japanese](japanese.md)
 * [Korean](korean.md)
 * [Russian](russian.md)
