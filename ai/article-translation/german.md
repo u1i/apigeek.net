@@ -1,0 +1,55 @@
+# Die erwachte KI-Kraft
+
+Erinnern Sie sich, wie OpenAIs GPT die Standardwahl für die meisten KI-Projekte war? Jetzt hat sich die KI-Landschaft innerhalb weniger Monate völlig auf den Kopf gestellt, da Tech-Giganten wie Meta, Microsoft, Databricks und Apple ihre eigenen offenen Modelle veröffentlicht haben. Lassen Sie uns betrachten, wie diese neue Ära der Wahlmöglichkeiten und Zugänglichkeit die Art und Weise verändert, wie wir intelligente Anwendungen entwickeln, warum es keine Universallösung gibt und wie Sie in dieser sich rasant entwickelnden Landschaft navigieren können, um den besten Ansatz zu finden, der Ihren Anforderungen entspricht.
+
+Bis Ende letzten Jahres hätte ich widerwillig zugegeben, dass OpenAIs GPT wahrscheinlich die einzige praktikable Option für die Entwicklung intelligenter Anwendungen mit KI war. Es war, als hätte man einen Werkzeugkasten mit nur einem Werkzeug - oder sagen wir, viele leistungsstarke Werkzeuge, die aber alle von derselben Marke mit denselben Einschränkungen und Eigenheiten stammen. Ich kenne die GPT-Familie sehr gut, da ich mit GPT-2, GPT-3 und allen .5- und Turbo-Varianten gearbeitet habe. Verstehen Sie mich nicht falsch, sie sind großartig, aber wie gesagt, es ist alles eine Firma. Ich habe bereits über die Notwendigkeit eines Plan B geschrieben. Was passiert, wenn Ihre bevorzugte API für große Sprachmodelle plötzlich eingestellt und durch eine neue ersetzt wird?
+
+## Revolution der KI-Modelle: Ein vielfältiges Ökosystem entsteht
+
+Doch dann änderte sich innerhalb weniger Monate alles. Anthropic und Google haben fortschrittliche KI-Modelle veröffentlicht, die fast so leistungsfähig sind wie die von OpenAI. Noch bedeutender ist, dass Tech-Giganten wie Meta, Apple und Microsoft ihre Modelle als Open Source zur Verfügung gestellt und zum Download freigegeben haben. Das bedeutet, dass Sie sie auf Ihrer eigenen Infrastruktur ausführen können, anstatt nur über eine API darauf zuzugreifen, was einige Leute nicht gerne tun, da es bedeutet, dass Sie Ihre Daten ins Ungewisse senden.
+
+Plötzlich war mein Werkzeugkasten überfüllt mit glänzenden neuen Werkzeugen, jedes mit seinen eigenen einzigartigen Funktionen und Fähigkeiten, und die KI-Modelllandschaft hatte sich in ein vielfältiges Ökosystem verwandelt. Einige dieser neuen offenen Modelle, wie Llama 3, sind jetzt so leistungsfähig wie GPT vor nur 1,5 Jahren, und einige konnten sogar auf meinem MacBook Air laufen! Es war, als würde man zusehen, wie eine schwarz-weiße Welt plötzlich in Farbe ausbricht, da KI zugänglicher und vielseitiger wurde als je zuvor. Lassen Sie uns einen Blick auf einige der wichtigsten Veröffentlichungen der letzten Monate werfen.
+
+## Jüngste Fortschritte bei großen Sprachmodellen
+
+• Google Gemini (6. Dezember 2023): Googles fortschrittliche Modellreihe, einschließlich der Versionen 1.0, 1.5 (Pro und Ultra) mit Kontextfenstern von bis zu 1 Million Token - ich habe viel mit diesen gearbeitet und mag wirklich, wie sie sich entwickeln.
+
+• Mixtral von Mistral (11. Dezember 2023): Veröffentlichung von Mixtral 8x7B, einem hochwertigen Sparse-Mixture-of-Experts-Modell (SMoE) mit offenen Gewichten, das GPT3.5 bei den meisten Standardbenchmarks entspricht oder übertrifft. Bis dahin hatte ich die Mistral-Modelle noch nicht viel erforscht.
+
+• Gemma von Google (21. Februar 2024): Eine Familie leichtgewichtiger, hochmoderner offener Modelle, die auf derselben Forschung und Technologie basieren wie die Gemini-Modelle von Google und fortschrittliche KI für Entwickler zugänglicher machen. Es sind bemerkenswert kleine Modelle, und als ich sie ausprobierte, wurde mir klar, dass wir für manche Anwendungsfälle wirklich nur eine Engine brauchen, die Sprache verstehen und mit Benutzern interagieren kann. Jetzt können wir diese Fähigkeiten in Software einbauen, die ich auf meinem eigenen Rechner laufen lassen kann, und ich muss mich nicht auf OpenAI verlassen.
+
+• Anthropic Claude 3 (4. März 2024): Zu Anthropics neuesten Angeboten gehören Haiku, Sonnet und Opus, und ich hatte das Glück, für einige Zeit Forschungszugang zu diesen zu haben. Meiner Meinung nach sind sie derzeit die leistungsstärksten Alternativen zu den Modellen von OpenAI. Besonders Opus fühlt sich warm und einladend an und ist ein unglaubliches Modell für den Aufbau digitaler Persönlichkeiten, die sich in tiefgründige intellektuelle Gespräche einlassen und fortgeschrittene Denkfähigkeiten zeigen können.
+
+• Grok von X (veröffentlicht am 18. März 2024): Angekündigt als "Open Source Sprachmodell", hat das Unternehmen nur Gewichte an die Öffentlichkeit freigegeben, ohne Code oder viel Dokumentation, so dass viele Entwickler über die tatsächlichen Fähigkeiten und Verwendbarkeit im Unklaren sind. Ich würde es gerne ausprobieren, aber es ist im Moment viel zu groß, um es auf meiner eigenen Hardware oder in der Cloud laufen zu lassen.
+
+• MM1 von Apple (veröffentlicht am 19. März 2024): ein multimodales großes Sprachmodell, das deutlich macht, dass Apple KI sehr ernst nimmt. Ich hatte noch nicht die Gelegenheit, es auszuprobieren.
+
+• DBRX von Databricks (27. März 2024): Ein offenes Modell, das eine feinkörnige Mixture-of-Experts (MoE)-Architektur einführt und eine beeindruckende Leistung mit weniger Parametern als GPT erzielt. Dies könnte für Unternehmenskunden sehr interessant sein, da es ihnen die Möglichkeit gibt, leistungsstarke KI-Modelle auf ihrer eigenen Infrastruktur auszuführen. Der Fokus von Databricks auf die Bedürfnisse von Unternehmen wie Datenkonformität und die Möglichkeit, die Modelle für bestimmte Anwendungsfälle feinabzustimmen, macht DBRX für viele Unternehmen zu einer überzeugenden Option.
+
+• Llama 3 von Meta (18. April 2024): Metas neuestes offenes Modell, das auf einem riesigen Datensatz trainiert wurde und eine Leistung bietet, die mit GPT von vor nur 1,5 Jahren vergleichbar ist. Ich bin sehr, sehr beeindruckt von der Qualität der Ausgabe, wie es auf benutzerdefinierte Prompts reagiert und wie vielseitig und benutzbar es ist. Natürlich hatte ich LLama 2 schon vorher gesehen, aber nicht viel benutzt. Facebook, WhatsApp und Instagram haben jetzt LLama 3-gestützte Funktionen eingebaut. Wenn man bedenkt, dass die Beschaffung frischer Daten für das Training ihrer Modelle derzeit ein riesiges Problem für KI-Unternehmen ist, sollte man bedenken, wie viele Milliarden Nutzer diese Plattformen haben. Meta ist in einer großartigen Position. Verstärkendes Lernen mit menschlichem Feedback ist der Schlüssel, um KI-Modelle intelligenter zu machen und die nächste Generation zu schaffen.
+
+• Phi-3 von Microsoft (23. April 2024): Eine Familie kleiner Sprachmodelle (SLMs), die für Effizienz und Leistung entwickelt wurden und sich besonders gut für Edge Computing und Offline-Szenarien eignen. Ich habe meine ersten Interaktionen mit den Phi-3-Modellen genossen und glaube, dass sie eine starke Nische in Anwendungen finden werden, die Geschwindigkeit, Datenschutz und On-Device-Fähigkeiten gegenüber roher Leistung priorisieren.
+
+Dieser Zeitplan zeigt das rasante Innovationstempo und die zunehmende Vielfalt der KI-Modelllandschaft innerhalb weniger Monate. Jede Veröffentlichung bringt neue Fähigkeiten, Architekturen und potenzielle Anwendungsfälle mit sich und bietet Entwicklern und Unternehmen eine Fülle von Optionen zur Auswahl.
+
+## OpenAI und der Aufstieg effizienterer KI-Architekturen
+
+Aber wo bleibt OpenAI in all dem? Das Unternehmen, das das ultra-prominente ChatGPT betreibt und immer noch den Großteil der KI-Landschaft mit seinen GPT-Modellen dominiert, glänzte in der jüngsten Flut von Veröffentlichungen durch Abwesenheit (wenn man den SORA-Ankündigung für einen Moment ignoriert). Während sie hinter den Kulissen an GPT-5 arbeiten mögen, ist klar, dass einige der neueren Architekturen, insbesondere solche, die Mixture-of-Experts (MoE)-Techniken verwenden, beginnen, die Vorherrschaft von GPT in Frage zu stellen.
+
+Modelle wie DBRX und Llama 3 haben gezeigt, dass es möglich ist, mit weniger Parametern und effizienteren Architekturen eine beeindruckende Leistung zu erzielen. Und der Übergang zu MoE-Modellen, die mit geringeren Infrastrukturanforderungen bessere Ergebnisse liefern können, frisst OpenAI effektiv das Mittagessen weg, indem er den Wettbewerbsvorteil, den GPT einst hatte, erodiert.
+
+Wie navigieren wir also in dieser neuen Ära der KI-Modellauswahl und -zugänglichkeit, um die beste Lösung für unsere Bedürfnisse zu finden?
+
+## Die Vielfalt der KI-Modelle nutzen
+
+Während wir in dieser neuen Ära der KI-Modellauswahl und -zugänglichkeit navigieren, ist es wichtig zu erkennen, dass es keine Universallösung gibt. So wie unser Gehirn für verschiedene Aufgaben unterschiedliche Systeme einsetzt, die von automatisch und unbewusst (wie Schuhe binden) bis hin zu bewusst und analytisch (wie das Lösen eines komplexen Mathematikproblems) reichen, können wir verschiedene KI-Modelle für bestimmte Zwecke einsetzen.
+
+In seinem Buch "Schnelles Denken, langsames Denken" führt der Psychologe Daniel Kahneman das Konzept von zwei verschiedenen Systemen in unserem Geist ein: System 1, das automatisch und schnell arbeitet, und System 2, das Aufmerksamkeit auf anstrengendere geistige Aktivitäten lenkt. Wir können diesen Rahmen auf die Welt der KI-Modelle anwenden, indem wir kleinere, effizientere Modelle für Aufgaben verwenden, die schnelle Reaktionen und minimale Rechenressourcen erfordern (vergleichbar mit System 1), und größere, komplexere Modelle für Aufgaben, die tieferes Denken und Analyse erfordern (vergleichbar mit System 2).
+
+Darüber hinaus können wir Modelle kombinieren, die in bestimmten Aufgaben hervorragen, um leistungsstarke, facettenreiche KI-Systeme zu schaffen. Zum Beispiel könnten wir ein Modell wie Phi-3 für Edge Computing und Offline-Szenarien, Gemma für leichtgewichtige On-Device-Verarbeitung und DBRX oder Llama 3 für komplexere, cloudbasierte Aufgaben verwenden. Indem wir die Stärken und Schwächen jedes Modells verstehen und sie strategisch kombinieren, können wir KI-Anwendungen entwickeln, die effizienter, effektiver und anpassungsfähiger für eine Vielzahl von Anwendungsfällen sind.
+
+## Ein flexibler, informierter Ansatz
+
+Letztendlich ist der Schlüssel zum Erfolg in dieser neuen Landschaft, die Auswahl und den Einsatz von KI-Modellen mit einer flexiblen, informierten Denkweise anzugehen. Indem Entwickler und Unternehmen über die neuesten Entwicklungen auf dem Laufenden bleiben, mit verschiedenen Modellen experimentieren und die spezifischen Anforderungen und Einschränkungen jedes Projekts sorgfältig abwägen, können sie die Kraft dieser neuen KI-Ära nutzen und gleichzeitig die Fallstricke einer zu starken Abhängigkeit von einem einzigen Modell oder Anbieter vermeiden.
+
+Es ist eine spannende Zeit für KI, und während wir voranschreiten, sollten wir die Vielfalt und Zugänglichkeit der KI-Modelllandschaft begrüßen, da dies eindeutig einen bedeutenden Schritt vorwärts in der Demokratisierung und dem Fortschritt der künstlichen Intelligenz darstellt.
