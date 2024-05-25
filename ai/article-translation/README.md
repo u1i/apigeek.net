@@ -2,6 +2,7 @@
 
 Source article: [The AI Force Awakens](https://www.linkedin.com/pulse/ai-force-awakens-uli-hitzel-nyvac/)
 
+* [Arabic](arabic.md)
 * [Bahasa Indonesia](bahasa-indonesia.md)
 * [Chinese (Simplified)](chinese-simplified.md)
 * [Chinese (traditional)](chinese-trad.md)
