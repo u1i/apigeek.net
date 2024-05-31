@@ -19,6 +19,87 @@ Source article: [The AI Force Awakens](https://www.linkedin.com/pulse/ai-force-a
 * [Thai](thai.md)
 * [Vietnamese](vietnamese.md)
 
+## Analysis
+
+Done by human native speakers!
+
+- **Arabic:**
+	- It can be discerned that the article was not originally written in Arabic.
+	- The language feels fairly natural, with only a few phrases indicating translation.
+	- There was one sentence with an unusual grammatical structure, but no major errors were noted.
+	- A suggestion was made to fully translate the article to avoid layout issues when mixing Arabic and English.
+
+- **Bahasa Indonesia:**
+
+	- The translation is precise, allowing easy comprehension without issues.
+	- The context remains intact as the translation is done line by line.
+	- It maintains a professional tone but might benefit from improved handling of technical terms.
+
+- **French:**
+
+	- The overall tone and flow do not give away that it was initially written in another language.
+	- Despite some errors like omissions, the translation sounds very natural.
+	- Some specific grammatical and syntactical errors were pointed out for correction in future translations.
+
+- **German:**
+
+	- The English original is detectable due to proper German translation with slight remnants of the original language.
+	- The language feels natural, though a hint of the English version can still be sensed.
+	- No significant grammatical or syntactical errors were noticed in this very good translation.
+
+- **Hindi:**
+
+	- It's clear that the article wasn't originally in Hindi.
+	- The language is pure and resembles what's typically found in Hindi newspapers.
+	- One suggested improvement is the translation of phrases using hyphens for better accuracy.
+
+- **Japanese:**
+
+	- The original text being non-Japanese is evident from some awkwardness in grammar and phrasing.
+	- While understanding the context is possible, the translation may require extra effort from readers at times.
+	- Various observations were made regarding grammar, word choice, redundancy, clarity, and technical terminology.
+
+- **Korean:**
+
+	- The non-native origin of the article can be inferred from the text.
+	- The translation offers a more natural feel compared to other tools, with some minor grammatical issues noted.
+	- Some specific terms like "LLM" are suggested to remain in English due to their common usage in tech contexts.
+
+- **Russian:**
+
+	- It's noticeable that the article was originally written in another language.
+	- The language feels quite natural overall with minimal errors detected.
+	- A few sentences were identified for potential correction to enhance clarity.
+
+- **Simplified Chinese:**
+
+	- The foreign origin of the text is apparent due to certain word sequences.
+	- Reading speed was slower compared to native language articles, indicating less naturalness in this translation.
+	- Feedback highlighted specific lines where improvements could be made for better readability and understanding.
+
+- **Tagalog:**
+
+	- The Filipino translation appears very good but leans towards being overly formal or "too deep."
+	- The language feels natural but might benefit from a more colloquial touch considering common Filipino speech patterns.
+	- Observations included suggestions for improving paragraph-level translations rather than phrase-by-phrase.
+
+- **Thai:**
+
+	- The foreign origin of the article is evident in the translated text's awkwardness.
+	- While no explicit grammatical errors were noted, some confusion in meaning was observed.
+
+- **Traditional Chinese:**
+
+	- The academic nature of the language hints at its translated origin rather than being unnatural.
+	- While feeling natural, it lacks colloquial elements and uses literal translations for technical terms.
+
+- **Vietnamese:**
+
+	- The Vietnamese translation is clearly identifiable as such but effectively conveys information from the original text.
+	- Around half of the language feels natural, with room for improvement in word usage and sentence structure for smoother reading.
+	- Specific areas mentioned include word-by-word translations causing unnatural reading and complex sentences hindering comprehension.
+
+
 ## Summaries
 
 ### English
