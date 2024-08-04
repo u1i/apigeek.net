@@ -25,6 +25,7 @@
 
 * [SEA-LION on Ollama](https://github.com/u1i/sea-lion-ollama): making AI Singapore's LLM accessible to everyone
 * [GPT-4 Telegram Bot](https://github.com/u1i/gpt-4-telegram-bot)
+* [Spock](https://github.com/u1i/spock): API Request Inspector & Webhooks
 * [Yoisho Open Banking Project](https://github.com/u1i/yoisho)
 * [Bambleweeny](https://github.com/u1i/bambleweeny): A lightweight key-value store and message broker based on HTTP/REST
 * [keiju](https://github.com/u1i/keiju) - Minimalist API Gateway in a ~25 MB Container.
