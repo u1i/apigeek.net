@@ -34,6 +34,8 @@
 
 ## Speaking Engagements & Slides
 
+* Orchard AI Stories (August 2024)
+* Saigon AI Night, Ho Chi Minh City (August 2024)
 * [Katong AI Night](./resources/katong-ai-night-july30-2024.pdf) (July 2024)
 * [Women Dev SG: Recruitment Fireside Chat](./resources/wdsg-june-2024.jpg) (June 2024)
 * [Did You Mean to Add an Attachment?](https://github.com/u1i/slides/blob/master/20240302%20Did%20You%20Mean%20to%20Add%20an%20Attachment_%20%E2%80%93%20How%20AI%20Has%20Always%20Been%20Your%20Writing%20Assistant.pdf) (March 2024)
