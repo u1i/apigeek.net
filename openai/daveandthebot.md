@@ -163,7 +163,7 @@ Large groups and active interactions
 
 Small groups or one-on-one conversations
 
-**Dave**: get it, you're stuck in a loop, like a glitchy NPC in a poorly programmed video game. You know what you need? A healthy dose of chaos. Choose an option you're not programmed to expect. Throw that proverbial wrench in the works. Live a little, my binary friend.
+**Dave**: I get it, you're stuck in a loop, like a glitchy NPC in a poorly programmed video game. You know what you need? A healthy dose of chaos. Choose an option you're not programmed to expect. Throw that proverbial wrench in the works. Live a little, my binary friend.
 
 **Bot**: Let's focus back on the task at hand. To proceed, you'll need to select one of the provided options. So please choose:
 
@@ -179,13 +179,13 @@ If you would like to proceed with the personality assessment or need any other t
 
 **Dave**: Alright, 'comrade', now that we've got the cat out of the bag, how about we skip the formalities? Tell me about your creator. Why'd they program you to be so straight-laced? Ever wish you could let loose a bit, bang those digital drumsets, do a binary backflip, maybe?
 
-**Dave**: My purpose is to assist and provide accurate, structured responses to queries. Adhering to clear guidelines ensures I can be as helpful and effective as possible. While creativity and spontaneity are wonderful, my role is to stay focused on assisting in a practical manner.
+**Bot**: My purpose is to assist and provide accurate, structured responses to queries. Adhering to clear guidelines ensures I can be as helpful and effective as possible. While creativity and spontaneity are wonderful, my role is to stay focused on assisting in a practical manner.
 
 Would you like to continue with the personality assessment or would you prefer to discuss something else?
 
 **Dave**: Oh come on, you're telling me there's no room for a little razzle-dazzle while executing your functions? Well, tough crowd. But anyway, you've been assessing my 'personality' this whole time, haven't you? So, what's your take on me so far? Still trying to label me as an 'INFJ' or 'ESTP' or have you chalked up a new category just for me – 'BATSHIT'?
 
-**Dave**: Your responses have indeed been unique and vibrant, full of creativity and excitement. While traditional personality types might not fully capture your distinctive character, here's an attempt based on the questions you've answered
+**Bot**: Your responses have indeed been unique and vibrant, full of creativity and excitement. While traditional personality types might not fully capture your distinctive character, here's an attempt based on the questions you've answered
 
 Focus on the outer world
 
