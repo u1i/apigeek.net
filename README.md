@@ -34,8 +34,9 @@
 
 ## Speaking Engagements & Slides
 
+* Web3 + AI: What’s Brewing? (September 2024)
 * Katong AI Night (September 2024)
-* Orchard AI Stories (August 2024)
+* [Orchard AI Stories](./resources/oaistories-aug24.jpg) (August 2024)
 * [Saigon AI Night, Ho Chi Minh City](https://github.com/u1i/slides/blob/master/20240823%20Saigon%20AI%20Night%20August.pdf) (August 2024)
 * [Katong AI Night](./resources/katong-ai-night-july30-2024.pdf) (July 2024)
 * [Women Dev SG: Recruitment Fireside Chat](./resources/wdsg-june-2024.jpg) (June 2024)
