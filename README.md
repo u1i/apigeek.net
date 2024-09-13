@@ -36,6 +36,7 @@
 
 * Web3 + AI: What’s Brewing? (September 2024)
 * Katong AI Night (September 2024)
+* [My AI Journey so far](https://github.com/u1i/slides/blob/master/20240913%20%E2%80%93%20My%20AI%20Journey%20%E2%80%93%20so%20far%202024.pdf) (September 2024)
 * [Orchard AI Stories](./resources/oaistories-aug24.jpg) (August 2024)
 * [Saigon AI Night, Ho Chi Minh City](https://github.com/u1i/slides/blob/master/20240823%20Saigon%20AI%20Night%20August.pdf) (August 2024)
 * [Katong AI Night](./resources/katong-ai-night-july30-2024.pdf) (July 2024)
