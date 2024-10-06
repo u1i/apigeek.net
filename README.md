@@ -34,6 +34,7 @@
 
 ## Speaking Engagements & Slides
 
+* Business + AI (November 2024)
 * Katong AI Night (September 2024)
 * [Web3 + AI: What’s Brewing?](https://github.com/u1i/slides/blob/master/20240919%20AI%20Web3%20Whats%20brewing.pdf) (September 2024)
 * [My AI Journey so far](https://github.com/u1i/slides/blob/master/20240913%20%E2%80%93%20My%20AI%20Journey%20%E2%80%93%20so%20far%202024.pdf) (September 2024)
@@ -109,6 +110,8 @@
 
 ## Articles
 
+* [Is AI About to Go Off the Rails?](https://www.linkedin.com/pulse/ai-go-off-rails-uli-hitzel-8swcc/) (September 2024)
+* [Crashing Bots with Killer Convos](https://www.linkedin.com/pulse/crashing-bots-killer-convos-uli-hitzel-gqtec/) (September 2024)
 * [The AI That Dreamed of Being Murakami](https://www.linkedin.com/pulse/ai-dreamed-being-murakami-uli-hitzel-1jo9c/) (May 2024)
 * ["Unraveling the Intricate Tapestry of AI's Meticulous Verbosity"](https://www.linkedin.com/pulse/unraveling-intricate-tapestry-ais-meticulous-verbosity-uli-hitzel-7kbxc/) (May 2024)
 * [When an Entire Universe Fits Into a Shoe Box](https://www.linkedin.com/pulse/when-entire-universe-fits-shoe-box-uli-hitzel-cgnsc/) (May 2024)
