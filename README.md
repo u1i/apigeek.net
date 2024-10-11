@@ -35,6 +35,8 @@
 ## Speaking Engagements & Slides
 
 * Business + AI (November 2024)
+* Innovating in Asia: Why Singapore is Asia’s AI Startup Hub (November 2024)
+* [SIM Academy AI Event](https://www.linkedin.com/posts/singapore-institute-of-management_oursim-simacademy-futureofwork-activity-7250069897227972608-1me5?utm_source=share&utm_medium=member_desktop) (October 2024)
 * Katong AI Night (September 2024)
 * [Web3 + AI: What’s Brewing?](https://github.com/u1i/slides/blob/master/20240919%20AI%20Web3%20Whats%20brewing.pdf) (September 2024)
 * [My AI Journey so far](https://github.com/u1i/slides/blob/master/20240913%20%E2%80%93%20My%20AI%20Journey%20%E2%80%93%20so%20far%202024.pdf) (September 2024)
