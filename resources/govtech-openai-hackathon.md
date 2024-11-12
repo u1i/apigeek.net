@@ -20,7 +20,7 @@ How might we ease caregivers' workload when caring for elderly and dementia pati
 
 ## Core Features
 
-A real-time talking avatar integrated into home smart devices serves as an AI companion, delivering personalized task reminders and monitoring completion. The system provides natural, human-like conversations calibrated to each patient's cognitive level and language preference, supporting Mandarin, Malay, Tamil, and local dialects like Hokkien, Teochew, and Cantonese. The avatar engages patients with personalized topics based on their life history and interests, maintaining mental stimulation through meaningful dialogue.
+A real-time talking avatar integrated into home smart devices serves as an AI companion, delivering personalized task reminders and monitoring completion. The way we envision it, the system would provide natural, human-like conversations calibrated to each patient's cognitive level and language preference, ideally even supporting Mandarin, Malay, Tamil, and local dialects like Hokkien, Teochew, and Cantonese. The avatar could engage patients with personalized topics based on their life history and interests, maintaining mental stimulation through meaningful dialogue.
 
 ## Implementation Approach
 
