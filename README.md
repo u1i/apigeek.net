@@ -34,6 +34,9 @@
 
 ## Speaking Engagements & Slides
 
+* AI Masterclass (December 2024)
+* Build Your AI Assistant for Free: A Guide for Non-Techies (November 2024)
+* GovTech + OpenAI Hackathon
 * [Business + AI ](https://www.businessplusai.com/)(November 2024)
 * [Innovating in Asia: Why Singapore is Asia’s AI Startup Hub](https://www.linkedin.com/posts/german-accelerator_mentor-insights-on-ai-in-singapore-activity-7256958900799713281-Cozs?utm_source=share&utm_medium=member_desktop) (November 2024)
 * [SIM Academy AI Event](https://www.linkedin.com/posts/singapore-institute-of-management_oursim-simacademy-futureofwork-activity-7250069897227972608-1me5?utm_source=share&utm_medium=member_desktop) (October 2024)
