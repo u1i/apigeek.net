@@ -35,7 +35,7 @@
 ## Speaking Engagements & Slides
 
 * AI Masterclass (December 2024)
-* Build Your AI Assistant for Free: A Guide for Non-Techies (November 2024)
+* [Build Your AI Assistant for Free: A Guide for Non-Techies](https://github.com/u1i/slides/blob/master/20241125%20Build%20Your%20Own%20AI%20Assistant.pdf) (November 2024)
 * GovTech + OpenAI Hackathon
 * [Business + AI ](https://www.businessplusai.com/)(November 2024)
 * [Innovating in Asia: Why Singapore is Asia’s AI Startup Hub](https://www.linkedin.com/posts/german-accelerator_mentor-insights-on-ai-in-singapore-activity-7256958900799713281-Cozs?utm_source=share&utm_medium=member_desktop) (November 2024)
