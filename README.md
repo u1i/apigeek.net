@@ -24,8 +24,10 @@
 ## Open Source Projects
 
 * [SEA-LION on Ollama](https://github.com/u1i/sea-lion-ollama): making AI Singapore's LLM accessible to everyone
-* [GPT-4 Telegram Bot](https://github.com/u1i/gpt-4-telegram-bot)
-* [Spock](https://github.com/u1i/spock): API Request Inspector & Webhooks
+* [GPT-4 Telegram Bot](https://github.com/u1i/gpt-4-telegram-bot): Your own Telegram bot, powered by GPT-4. Configure and run within minutes!
+* [LLM Browser](https://www.naida.ai/open-source-projects/llm-model-browser): Stay up to date with new LLms and their capabilities.
+* [Spock](https://www.naida.ai/open-source-projects/spock): API Request Inspector & Webhooks
+* [TXTpresso](https://www.naida.ai/open-source-projects/txtpresso): DNS-based Message Broker
 * [Yoisho Open Banking Project](https://github.com/u1i/yoisho)
 * [Bambleweeny](https://github.com/u1i/bambleweeny): A lightweight key-value store and message broker based on HTTP/REST
 * [keiju](https://github.com/u1i/keiju) - Minimalist API Gateway in a ~25 MB Container.
