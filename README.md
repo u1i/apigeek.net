@@ -36,6 +36,7 @@
 
 ## Speaking Engagements & Slides
 
+* AI For Humanity Forum (December 2024)
 * AI Masterclass (December 2024)
 * [Build Your AI Assistant for Free: A Guide for Non-Techies](https://github.com/u1i/slides/blob/master/20241125%20Build%20Your%20Own%20AI%20Assistant.pdf) (November 2024)
 * GovTech + OpenAI Hackathon
