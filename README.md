@@ -117,6 +117,9 @@
 
 ## Articles
 
+* [I'm an AI and This Is What Goes on Inside My 'Brain'](https://www.linkedin.com/pulse/im-ai-what-goes-inside-my-brain-uli-hitzel-munyc/?trackingId=%2BJ86NR3ETqa4EUoLwWt8Xg%3D%3D) (November 2024)
+* [Getting Started with AI Coding Assistants](https://arc.net/l/quote/prfgeocf) (October 2024)
+* [An Interview With... Me!](https://www.linkedin.com/pulse/interview-me-uli-hitzel-8kpkc/?trackingId=%2BJ86NR3ETqa4EUoLwWt8Xg%3D%3D) (October 2024)
 * [Is AI About to Go Off the Rails?](https://www.linkedin.com/pulse/ai-go-off-rails-uli-hitzel-8swcc/) (September 2024)
 * [Crashing Bots with Killer Convos](https://www.linkedin.com/pulse/crashing-bots-killer-convos-uli-hitzel-gqtec/) (September 2024)
 * [The AI That Dreamed of Being Murakami](https://www.linkedin.com/pulse/ai-dreamed-being-murakami-uli-hitzel-1jo9c/) (May 2024)
