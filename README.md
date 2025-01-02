@@ -5,7 +5,8 @@
 ## About me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
-* [Electric Minds](http://electricminds.net/)
+* [naida](https://www.naida.ai)
+* [Electric Minds](https://www.electricminds.net/)
 * [Timeline of Posts on LinkedIn](https://www.linkedin.com/in/uhitzel/detail/recent-activity/shares/)
 * [GitHub](https://github.com/u1i)
 * [Keybase](https://keybase.io/u1i)
@@ -187,12 +188,13 @@
 
 ## Teaching at National University of Singapore
 
+* [Generative AI: Fundamentals to Advanced Techniques](https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techniques-programme) / [Brochure](./resources/NUS-GenAI-Brochure.pdf)
+* [Full-Stack Development with AI](https://nus.comp.emeritus.org/full-stack-development-with-ai) / [Brochure](./resources/NUS-FSAI-Brochure.pdf)
 * [FinTech SG Programme](https://ace.nus.edu.sg/pc/professional-certificate-in-fintech-senior-developer-level-3/)
 * [My DevOps Course at NUS](https://ace.nus.edu.sg/course/devops-build-deploy-and-monitor/)
 * [Programme info on ACE](https://ace.nus.edu.sg/nus-fintech-sg-programme/)
 * [Profile page at Advanced Computing for Executives (ACE), School of Computing](https://ace.nus.edu.sg/about-us/executive-education-fellow/)
 * [DevOps Course – Resources](https://github.com/u1i/devops-course)
-* [Stellar Foundation – NUS Collaboration](./resources/nus_stellar_collab_20211124.png)
 
 ## Music
 
@@ -295,7 +297,7 @@ An interactive web app that lets you dive into the harmonies of Bach's chorale B
 
 Using cognitive services & computer vision to go through a feed of Instagram photos
 
-#### [Instagram Analysis](http://ig.sotong.io/)
+#### [Instagram Analysis](https://ig.sotong.io/)
 
 #### [LinkedIn Article](https://www.linkedin.com/pulse/did-ai-bot-feel-hungry-after-looking-all-my-instagram-uli-hitzel)
 
@@ -303,13 +305,13 @@ Using cognitive services & computer vision to go through a feed of Instagram pho
 
 Tracking the International Space station over the course of one day and visualizing the flight path on a Google Earth like globe
 
-#### [ISS Map](http://iss.sotong.io/)
+#### [ISS Map](https://iss.sotong.io/)
 #### [Code on Github](https://github.com/u1i/iss-tracker)
 
 ### LTA Buses Singapore
 
 Google Maps visualization of Singapore's busy buses.
-#### [Code & Maps](http://lta.sotong.io/)
+#### [Code & Maps](https://lta.sotong.io/)
 #### [LinkedIn Article](https://www.linkedin.com/pulse/making-sense-open-data-apis-singapores-busy-buses-uli-hitzel)
 
 ### M4rvyn3
