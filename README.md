@@ -4,6 +4,8 @@
 
 ## About me
 
+I'm a technology leader with experience at global companies including Dyson, IBM, Microsoft, Red Hat and Yahoo!. I focus on making artificial intelligence accessible and practical for everyone.
+
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
 * [naida](https://www.naida.ai)
 * [Electric Minds](https://www.electricminds.net/)
