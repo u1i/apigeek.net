@@ -1,0 +1,31 @@
+{
+  "name": "Ontological Assumptions",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Substance and Attribute",
+      "description": "This subtopic explores the fundamental nature of being, examining what constitutes a substance and how attributes relate to substances. It is essential for understanding the structure and content of knowledge, aligning with the Ontology domain and contributing to the broader Epistemology framework."
+    },
+    {
+      "name": "Existence and Reality",
+      "description": "This subtopic delves into the nature of existence and reality, questioning what exists and how we can know it. It is deeply rooted in the Ontology domain and influences the Cognitive Science understanding of how humans perceive and understand the world."
+    },
+    {
+      "name": "Relational Ontology",
+      "description": "This subtopic examines the relationships between entities, including causality, dependency, and interaction. It is crucial for understanding complex systems and phenomena, integrating with both Ontology and Cognitive Science to provide a comprehensive view of reality."
+    },
+    {
+      "name": "Metaphysical Assumptions",
+      "description": "This subtopic investigates the underlying metaphysical assumptions that shape our understanding of reality. It intersects with Philosophy of Science by influencing the foundational assumptions of scientific inquiry and contributes to the broader Epistemology framework by questioning the limits of knowledge."
+    },
+    {
+      "name": "Conceptual Frameworks",
+      "description": "This subtopic focuses on the conceptual frameworks used to organize and understand knowledge. It integrates with Practical Wisdom by providing a structured approach to decision-making and problem-solving, while also aligning with Interdisciplinary Synthesis by highlighting the interconnectedness of all knowledge domains."
+    }
+  ],
+  "metadata": {
+    "full_path": "Philosophy of Science/Foundations of Scientific Inquiry/Ontological Assumptions",
+    "fs_path": "philosophy_of_science/foundations_of_scientific_inquiry/ontological_assumptions/subtopics.json",
+    "timestamp": "2025-02-21 09:50:42"
+  }
+}

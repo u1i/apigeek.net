@@ -1,0 +1,31 @@
+{
+  "name": "Cognitive Science",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Perception",
+      "description": "The study of how humans perceive and interpret sensory information. This subtopic relates to Level 0 by understanding how cognitive processes interact with the fundamental worldview, and to Level 1 by breaking down cognitive science into its primary aspects. It maps to Level 2 by examining specific domains such as visual perception, auditory perception, and tactile perception."
+    },
+    {
+      "name": "Attention and Memory",
+      "description": "The examination of how humans focus attention and retain information. This subtopic integrates with Level 0 by considering the foundational principles of knowledge acquisition and retention. It aligns with Level 1 by dissecting cognitive science into its core components, and with Level 2 by exploring concrete fields like working memory and long-term memory."
+    },
+    {
+      "name": "Language and Communication",
+      "description": "The investigation into how humans process and generate language. This subtopic connects with Level 0 by understanding the nature of knowledge representation and expression. It fits within Level 1 by categorizing cognitive science into its primary aspects, and with Level 2 by mapping to specific domains such as linguistics and psycholinguistics."
+    },
+    {
+      "name": "Problem-Solving and Learning",
+      "description": "The study of how humans solve problems and learn new information. This subtopic intersects with Level 0 by examining the practical application of knowledge. It aligns with Level 1 by breaking down cognitive science into its core components, and with Level 2 by exploring concrete fields like cognitive development and educational psychology."
+    },
+    {
+      "name": "Neural Mechanisms",
+      "description": "The exploration of the neural processes underlying cognitive functions. This subtopic integrates with Level 0 by understanding the biological basis of knowledge processing. It fits within Level 1 by categorizing cognitive science into its primary aspects, and with Level 2 by mapping to specific domains such as neuroscience and neurocognition."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science",
+    "fs_path": "cognitive_science/subtopics.json",
+    "timestamp": "2025-02-21 09:36:32"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Information Gathering",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "epistemology": "Information gathering is a fundamental aspect of epistemology, as it deals with the acquisition of knowledge. It involves understanding how we collect, process, and validate information.",
+      "ontology": "Ontologically, information gathering involves understanding the nature of being and reality in terms of the data and facts collected. It requires considering the attributes and relations of the information.",
+      "cognitive science": "From a cognitive science perspective, information gathering involves understanding how the mind processes and generates knowledge through perception, attention, memory, and learning.",
+      "philosophy of science": "In the context of philosophy of science, information gathering is crucial for scientific inquiry. It involves understanding the methods and foundations of scientific knowledge acquisition.",
+      "practical wisdom": "Practical wisdom integrates theoretical understanding with practical experience. Information gathering in practical contexts involves decision-making and problem-solving skills."
+    },
+    "key_concepts": [
+      {
+        "name": "Data Collection",
+        "explanation": "The process of gathering raw data from various sources, which is essential for building knowledge."
+      },
+      {
+        "name": "Information Processing",
+        "explanation": "The act of transforming raw data into meaningful information through filtering, sorting, and analyzing."
+      },
+      {
+        "name": "Validation",
+        "explanation": "Ensuring the accuracy and reliability of the gathered information to prevent misinformation."
+      },
+      {
+        "name": "Contextual Understanding",
+        "explanation": "Considering the context in which information is gathered to ensure relevance and accuracy."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Objectivity",
+        "description": "Maintaining impartiality in the collection and processing of information to avoid biases."
+      },
+      {
+        "name": "Relevance",
+        "description": "Ensuring that the gathered information is pertinent to the task at hand."
+      },
+      {
+        "name": "Efficiency",
+        "description": "Optimizing the process of information gathering to minimize time and resources."
+      },
+      {
+        "name": "Accuracy",
+        "description": "Ensuring that the information gathered is precise and reliable."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Decision-Making",
+        "connection": "Information gathering is a crucial step in decision-making processes. Accurate and relevant information is essential for making informed decisions."
+      },
+      {
+        "aspect": "Problem-Solving",
+        "connection": "Information gathering is integral to problem-solving. It helps identify issues, understand their causes, and develop effective solutions."
+      },
+      {
+        "aspect": "Ethical Reasoning",
+        "connection": "Ethical considerations are important in information gathering. Ensuring privacy, avoiding misinformation, and respecting sources are all ethical concerns."
+      }
+    ],
+    "implications": [
+      {
+        "broader_impact": "The implications of effective information gathering are far-reaching. It enhances decision-making, problem-solving, and ethical reasoning across various domains."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Practical Wisdom/Decision-Making/Information Gathering",
+    "fs_path": "practical_wisdom/decision-making/information_gathering/content.json",
+    "timestamp": "2025-02-21 10:06:15"
+  }
+}

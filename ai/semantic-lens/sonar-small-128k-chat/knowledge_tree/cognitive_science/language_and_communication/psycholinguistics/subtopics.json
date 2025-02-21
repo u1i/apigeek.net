@@ -1,0 +1,31 @@
+{
+  "name": "Psycholinguistics",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Language Acquisition",
+      "description": "The study of how humans acquire language, including the cognitive processes involved in learning and understanding language structures. This subtopic relates to Cognitive Science by examining how the mind processes and generates language, and to Epistemology by investigating the nature of knowledge acquisition in this domain."
+    },
+    {
+      "name": "Language Processing",
+      "description": "The examination of how the brain processes and interprets language, including aspects like syntax, semantics, and pragmatics. This subtopic integrates with Cognitive Science to understand mental operations involved in language comprehension and production, and with Ontology to explore the fundamental nature of linguistic entities."
+    },
+    {
+      "name": "Neurolinguistics",
+      "description": "The application of neuroscience to the study of language, focusing on the neural mechanisms underlying language functions. This subtopic aligns with Cognitive Science by delving into the neural basis of cognitive processes related to language, and with Philosophy of Science by considering the empirical methods used in neurolinguistic research."
+    },
+    {
+      "name": "Cross-Cultural Linguistics",
+      "description": "The comparative study of languages across different cultures, examining similarities and differences in linguistic structures and usage. This subtopic integrates with Practical Wisdom by providing insights into effective communication across cultural boundaries, and with Interdisciplinary Synthesis by highlighting the interconnectedness of linguistic knowledge with broader cultural contexts."
+    },
+    {
+      "name": "Computational Models of Language",
+      "description": "The development and analysis of computational models that simulate human language processing, aiming to understand the computational principles underlying linguistic operations. This subtopic relates to Cognitive Science by exploring artificial intelligence models that mimic human cognitive functions related to language, and to Philosophy of Science by examining the theoretical implications of these computational models on our understanding of language."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science/Language and Communication/Psycholinguistics",
+    "fs_path": "cognitive_science/language_and_communication/psycholinguistics/subtopics.json",
+    "timestamp": "2025-02-21 09:43:20"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Epistemological Foundations",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Sources of Knowledge",
+      "description": "This subtopic explores the various sources from which knowledge can be acquired, including sensory experience, reason, intuition, and social learning. It examines how these sources contribute to our understanding of the world and how they are validated within the framework of epistemology."
+    },
+    {
+      "name": "Validation Methods",
+      "description": "This subtopic delves into the methods used to validate knowledge claims. It includes discussions on empirical evidence, logical reasoning, and other criteria for determining the truth or reliability of knowledge. It integrates with the broader philosophical lens by considering how validation methods relate to the nature and limits of knowledge."
+    },
+    {
+      "name": "Limits of Knowledge",
+      "description": "This subtopic investigates the boundaries and constraints that limit our ability to acquire and understand knowledge. It examines issues like the problem of induction, the limits of language, and the role of cognitive biases in shaping our perceptions. It aligns with the fundamental worldview by acknowledging that all knowledge is subject to certain limitations."
+    },
+    {
+      "name": "Knowledge Types",
+      "description": "This subtopic categorizes knowledge into different types such as a priori, a posteriori, analytic, and synthetic. It analyzes how these categories relate to each other and how they are used in various domains of knowledge. It synthesizes with the higher levels by providing a structured understanding of how different types of knowledge fit into the broader framework."
+    },
+    {
+      "name": "Epistemological Theories",
+      "description": "This subtopic examines various epistemological theories such as empiricism, rationalism, and constructivism. It evaluates the strengths and weaknesses of each theory and how they contribute to our understanding of knowledge acquisition and validation. It integrates with the cognitive science domain by considering how these theories influence how humans process and generate knowledge."
+    }
+  ],
+  "metadata": {
+    "full_path": "Epistemology/Knowledge Structure/Epistemological Foundations",
+    "fs_path": "epistemology/knowledge_structure/epistemological_foundations/subtopics.json",
+    "timestamp": "2025-02-21 09:45:36"
+  }
+}

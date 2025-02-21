@@ -1,0 +1,31 @@
+{
+  "name": "Practical Wisdom in Application",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Decision-Making",
+      "description": "The process of making informed decisions that integrate theoretical knowledge with practical experience. This involves evaluating options, considering ethical implications, and choosing actions that align with both theoretical understanding and real-world context."
+    },
+    {
+      "name": "Problem-Solving",
+      "description": "The application of cognitive skills to resolve complex issues in real-world scenarios. It involves analyzing problems, identifying key factors, and developing effective solutions that are grounded in both theoretical principles and practical expertise."
+    },
+    {
+      "name": "Ethical Reasoning",
+      "description": "The ability to apply ethical principles to guide actions and decisions in practical contexts. This involves considering the moral implications of choices, balancing competing values, and ensuring that actions are justifiable within the broader framework of knowledge and reality."
+    },
+    {
+      "name": "Skill Development",
+      "description": "The continuous improvement of practical skills through experience and learning. This involves refining techniques, adapting to new situations, and integrating new knowledge into existing practical wisdom frameworks."
+    },
+    {
+      "name": "Contextual Understanding",
+      "description": "The ability to understand the specific context in which practical wisdom is applied. This includes recognizing the unique challenges and opportunities of different situations, tailoring approaches accordingly, and ensuring that actions are appropriate for the given context."
+    }
+  ],
+  "metadata": {
+    "full_path": "Epistemology/Interdisciplinary Synthesis/Practical Wisdom in Application",
+    "fs_path": "epistemology/interdisciplinary_synthesis/practical_wisdom_in_application/subtopics.json",
+    "timestamp": "2025-02-21 09:45:07"
+  }
+}

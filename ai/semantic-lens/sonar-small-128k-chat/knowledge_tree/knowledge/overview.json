@@ -1,0 +1,35 @@
+{
+  "name": "Knowledge",
+  "type": "category",
+  "domains": [
+    {
+      "name": "Epistemology",
+      "description": "The study of the nature, sources, and limits of knowledge. This domain encompasses the fundamental questions about how we acquire, validate, and understand knowledge, providing a foundational framework for all other domains."
+    },
+    {
+      "name": "Ontology",
+      "description": "The study of existence and reality. This domain explores the nature of being, including concepts like substance, attribute, and relation, which are essential for understanding the structure and content of knowledge."
+    },
+    {
+      "name": "Cognitive Science",
+      "description": "The interdisciplinary study of the mind and intelligence, including aspects like perception, attention, memory, language, problem-solving, and learning. This domain helps us understand how humans process and generate knowledge."
+    },
+    {
+      "name": "Philosophy of Science",
+      "description": "The branch of philosophy that examines the foundations, methods, and implications of scientific inquiry. This domain provides insights into the nature of scientific knowledge and its relationship to other forms of knowledge."
+    },
+    {
+      "name": "Practical Wisdom",
+      "description": "The domain that focuses on the application of knowledge in real-world contexts, encompassing skills like decision-making, problem-solving, and ethical reasoning. It integrates theoretical understanding with practical experience."
+    },
+    {
+      "name": "Interdisciplinary Synthesis",
+      "description": "The process of integrating knowledge from multiple domains to form a comprehensive understanding. This domain highlights the interconnectedness of all knowledge and encourages holistic approaches to complex problems."
+    }
+  ],
+  "metadata": {
+    "full_path": "Knowledge",
+    "fs_path": "knowledge/overview.json",
+    "timestamp": "2025-02-21 09:36:19"
+  }
+}

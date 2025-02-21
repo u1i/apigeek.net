@@ -1,0 +1,31 @@
+{
+  "name": "Ethical Theories",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Deontological Ethics",
+      "description": "Deontological ethics focuses on the moral rules and duties that guide human behavior. This subtopic relates to the higher levels by integrating with Epistemology through the study of moral principles and their justification, and with Ontology by examining the nature of moral obligations and duties. It also aligns with Cognitive Science by understanding how moral rules are perceived and processed by the human mind."
+    },
+    {
+      "name": "Consequentialist Ethics",
+      "description": "Consequentialist ethics evaluates actions based on their outcomes. This subtopic connects with Epistemology by considering the methods for predicting and measuring consequences, and with Ontology by exploring the nature of value and how it relates to outcomes. It also intersects with Cognitive Science by analyzing how humans weigh potential outcomes in decision-making processes."
+    },
+    {
+      "name": "Virtue Ethics",
+      "description": "Virtue ethics emphasizes the development of character traits as the foundation for ethical behavior. This subtopic ties into Epistemology by examining how virtues are acquired and validated, and into Ontology by considering the essence of virtues and how they relate to human existence. It also aligns with Cognitive Science by understanding how virtues are cultivated through experience and learning."
+    },
+    {
+      "name": "Care Ethics",
+      "description": "Care ethics prioritizes empathy, care, and compassion in ethical decision-making. This subtopic relates to Epistemology by considering the role of empathy in understanding others' perspectives, and to Ontology by exploring the nature of care as a fundamental aspect of human existence. It also intersects with Cognitive Science by examining how empathy influences moral judgments."
+    },
+    {
+      "name": "Existentialist Ethics",
+      "description": "Existentialist ethics emphasizes individual freedom and choice in shaping one's own ethics. This subtopic ties into Epistemology by questioning the nature of moral certainty and individual responsibility, and into Ontology by examining the existential condition of human beings. It also aligns with Cognitive Science by understanding how individuals make choices based on their own values and experiences."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Ethical Reasoning/Ethical Theories",
+    "fs_path": "practical_wisdom/ethical_reasoning/ethical_theories/subtopics.json",
+    "timestamp": "2025-02-21 09:52:37"
+  }
+}

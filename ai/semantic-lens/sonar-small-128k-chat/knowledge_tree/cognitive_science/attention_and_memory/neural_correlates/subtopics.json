@@ -1,0 +1,31 @@
+{
+  "name": "Neural Correlates",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Brain Structure and Function",
+      "description": "This subtopic explores the anatomical and physiological aspects of the brain that underlie cognitive processes. It relates to Cognitive Science by examining how neural structures and functions contribute to attention and memory. It also ties into Ontology by investigating the existence and reality of brain components and their roles in processing information."
+    },
+    {
+      "name": "Neural Plasticity and Adaptation",
+      "description": "This subtopic examines how the brain changes and adapts in response to experience, learning, and environmental factors. It connects to Cognitive Science by understanding how neural plasticity influences attention and memory. It also intersects with Epistemology by considering how knowledge acquisition shapes brain function."
+    },
+    {
+      "name": "Neural Coding Theories",
+      "description": "This subtopic delves into the mechanisms by which neural activity encodes and decodes information. It relates to Cognitive Science by explaining how neural signals represent cognitive states like attention and memory. It also ties into Philosophy of Science by evaluating the scientific methods used to study neural coding theories."
+    },
+    {
+      "name": "Neurological Disorders and Impairments",
+      "description": "This subtopic investigates how neurological conditions affect neural correlates of attention and memory. It connects to Practical Wisdom by understanding how knowledge about these disorders can inform clinical decision-making and patient care. It also intersects with Interdisciplinary Synthesis by considering the broader implications of neurological disorders on overall well-being."
+    },
+    {
+      "name": "Technological Applications in Neuroimaging",
+      "description": "This subtopic explores the use of neuroimaging techniques such as fMRI, EEG, and MEG to study neural correlates. It relates to Cognitive Science by providing tools for measuring neural activity associated with attention and memory. It also ties into Philosophy of Science by examining the ethical considerations surrounding the use of these technologies in scientific research."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science/Attention and Memory/Neural Correlates",
+    "fs_path": "cognitive_science/attention_and_memory/neural_correlates/subtopics.json",
+    "timestamp": "2025-02-21 09:43:00"
+  }
+}

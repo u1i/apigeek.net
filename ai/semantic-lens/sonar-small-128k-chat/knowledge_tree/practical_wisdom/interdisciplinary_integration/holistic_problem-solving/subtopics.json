@@ -1,0 +1,27 @@
+{
+  "name": "Holistic Problem-Solving",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Interdisciplinary Integration",
+      "description": "The process of combining insights and methods from multiple domains to address complex problems. This subtopic aligns with the Interdisciplinary Synthesis at Level 1, where it integrates knowledge from various fields to form a comprehensive understanding. It is essential for holistic problem-solving as it allows for a more nuanced and multifaceted approach to challenges."
+    },
+    {
+      "name": "Contextual Understanding",
+      "description": "The ability to consider the broader context in which problems arise. This subtopic relates to Ontology at Level 0, as it involves understanding the structure and content of reality. It also ties into Cognitive Science at Level 1, as it requires recognizing how human perception and understanding influence problem-solving."
+    },
+    {
+      "name": "Ethical Consideration",
+      "description": "The incorporation of ethical principles into the problem-solving process. This subtopic is connected to Practical Wisdom at Level 1, as it involves applying knowledge in real-world contexts with ethical awareness. It also intersects with Philosophy of Science at Level 1, as it examines the implications of scientific inquiry on ethical decision-making."
+    },
+    {
+      "name": "Dynamic Adaptation",
+      "description": "The ability to adapt and evolve problem-solving strategies based on new information or changing circumstances. This subtopic reflects the dynamic nature of knowledge acquisition and validation discussed in Epistemology at Level 0. It also aligns with Cognitive Science at Level 1, as it involves learning and adjusting mental processes."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Interdisciplinary Integration/Holistic Problem-Solving",
+    "fs_path": "practical_wisdom/interdisciplinary_integration/holistic_problem-solving/subtopics.json",
+    "timestamp": "2025-02-21 09:53:02"
+  }
+}

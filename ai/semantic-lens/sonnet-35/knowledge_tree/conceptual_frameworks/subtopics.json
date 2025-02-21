@@ -1,0 +1,27 @@
+{
+  "name": "Conceptual Frameworks",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Formal Systems",
+      "description": "The rigorous structures of logic, mathematics, and systematic reasoning that provide precise tools for understanding patterns and relationships in reality, forming the foundation for how we can reliably analyze and model the world"
+    },
+    {
+      "name": "Theoretical Models",
+      "description": "Abstract representations and frameworks that explain how phenomena work and relate to each other, allowing us to make predictions and understand complex systems by identifying underlying principles and mechanisms"
+    },
+    {
+      "name": "Categorical Systems",
+      "description": "Organizational schemas and taxonomies that sort and classify knowledge into meaningful hierarchies and relationships, enabling us to structure our understanding and see connections between different domains"
+    },
+    {
+      "name": "Interpretive Frameworks",
+      "description": "Systems of analysis and meaning-making that help us understand context, significance, and implications of information, bridging pure abstraction with human understanding and practical meaning"
+    }
+  ],
+  "metadata": {
+    "full_path": "Conceptual Frameworks",
+    "fs_path": "conceptual_frameworks/subtopics.json",
+    "timestamp": "2025-02-21 11:32:49"
+  }
+}

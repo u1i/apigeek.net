@@ -1,0 +1,31 @@
+{
+  "name": "Existence",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Substance",
+      "description": "The study of what exists independently and persistently, forming the fundamental building blocks of reality. This subtopic relates to ontology by examining the nature of being and how substances contribute to the structure of existence. It also ties into epistemology by considering how we can know and understand these substances."
+    },
+    {
+      "name": "Attribute",
+      "description": "The examination of qualities or characteristics that exist in relation to substances. This subtopic is crucial for ontology as it helps define the properties and relations within the framework of existence. It also intersects with cognitive science by understanding how attributes are perceived and processed by the human mind."
+    },
+    {
+      "name": "Relation",
+      "description": "The investigation into how entities interact and depend on one another within the context of existence. This subtopic is essential for ontology as it explores the interconnectedness of being. It also has implications for practical wisdom by considering how relationships impact decision-making and problem-solving in real-world contexts."
+    },
+    {
+      "name": "Temporal Dynamics",
+      "description": "The study of how existence changes over time, including concepts like duration, change, and causality. This subtopic is vital for ontology as it delves into the dynamic nature of reality. It also ties into philosophy of science by understanding the temporal aspects of scientific inquiry and how they influence our understanding of knowledge."
+    },
+    {
+      "name": "Spatial Configuration",
+      "description": "The examination of how entities occupy space and interact with their environment. This subtopic is fundamental for ontology as it explores the spatial dimensions of existence. It also intersects with cognitive science by understanding how spatial awareness is processed by the human mind."
+    }
+  ],
+  "metadata": {
+    "full_path": "Ontology/Existence",
+    "fs_path": "ontology/existence/subtopics.json",
+    "timestamp": "2025-02-21 09:38:43"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Ethical Theories",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Ethical Theories are a part of Practical Wisdom, which is a domain that focuses on the application of knowledge in real-world contexts. This includes skills like decision-making, problem-solving, and ethical reasoning. Ethical Theories are integral to Practical Wisdom as they provide the theoretical foundation for making ethical decisions."
+    },
+    "key_concepts": [
+      {
+        "name": "Utilitarianism",
+        "explanation": "The ethical theory that actions are right if they promote the greatest happiness for the greatest number of people."
+      },
+      {
+        "name": "Deontology",
+        "explanation": "The ethical theory that actions are right if they conform to a set of rules or duties, regardless of their consequences."
+      },
+      {
+        "name": "Virtue Ethics",
+        "explanation": "The ethical theory that focuses on the character and moral virtues of individuals rather than specific actions or rules."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Moral Absolutism",
+        "description": "The principle that certain actions are always right or always wrong, regardless of the context."
+      },
+      {
+        "name": "Moral Relativism",
+        "description": "The principle that moral judgments vary across different cultures and historical periods."
+      },
+      {
+        "name": "Consequentialism",
+        "description": "The principle that the morality of an action should be determined by its consequences."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Practical Wisdom",
+        "connection": "Ethical Theories are essential for Practical Wisdom as they provide the theoretical basis for making ethical decisions in real-world contexts."
+      },
+      {
+        "aspect": "Cognitive Science",
+        "connection": "Ethical Theories rely on cognitive processes like reasoning and decision-making, which are studied in Cognitive Science."
+      },
+      {
+        "aspect": "Philosophy of Science",
+        "connection": "Ethical Theories often intersect with scientific inquiry, particularly in fields like bioethics, where scientific discoveries raise ethical questions."
+      }
+    ],
+    "implications": [
+      {
+        "description": "Ethical Theories have significant implications for knowledge organization by providing a structured approach to understanding and applying moral principles. This integration helps in developing more comprehensive and coherent ethical frameworks that can be applied across various domains of knowledge."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Practical Wisdom/Ethical Reasoning/Ethical Theories",
+    "fs_path": "practical_wisdom/ethical_reasoning/ethical_theories/content.json",
+    "timestamp": "2025-02-21 10:06:50"
+  }
+}

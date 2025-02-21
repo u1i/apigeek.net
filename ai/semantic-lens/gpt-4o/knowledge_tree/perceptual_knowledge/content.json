@@ -1,0 +1,63 @@
+{
+  "name": "Perceptual Knowledge",
+  "type": "article",
+  "content": {
+    "framework_context": "Perceptual Knowledge is the foundational domain within the philosophical framework of human knowledge. It represents the direct interface between the external world and human cognition, serving as the raw input from which all other forms of knowledge are derived. Within the Level 0 worldview, it exemplifies the principle that all understanding originates from sensory experience, forming the bedrock upon which conceptual, relational, practical, and reflective knowledge are built. It is the starting point of the knowledge hierarchy, grounding abstract and theoretical constructs in observable reality.",
+    "key_concepts": [
+      {
+        "name": "Sensory Input",
+        "explanation": "The raw data received through the senses, including sight, sound, touch, taste, and smell, which forms the basis of perceptual knowledge."
+      },
+      {
+        "name": "Observation",
+        "explanation": "The active process of attending to and interpreting sensory input to identify patterns and phenomena in the external world."
+      },
+      {
+        "name": "Empirical Evidence",
+        "explanation": "Knowledge that is validated through direct observation and sensory experience, forming the cornerstone of scientific inquiry."
+      },
+      {
+        "name": "Immediate Experience",
+        "explanation": "The unmediated awareness of the world as it is perceived in the present moment, prior to conceptual interpretation."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Primacy of Perception",
+        "description": "All human knowledge begins with and is ultimately grounded in sensory experience, making perception the first step in the acquisition of understanding."
+      },
+      {
+        "name": "Objectivity of Observation",
+        "description": "Perceptual knowledge strives to capture the external world as it is, independent of subjective biases, though it is always filtered through human sensory and cognitive systems."
+      },
+      {
+        "name": "Continuity with Higher Knowledge",
+        "description": "Perceptual knowledge serves as the foundation for conceptual and relational knowledge, ensuring that abstract ideas remain connected to empirical reality."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Conceptual Knowledge",
+        "connection": "Perceptual knowledge provides the raw data that is organized and interpreted into abstract concepts and categories."
+      },
+      {
+        "aspect": "Relational Knowledge",
+        "connection": "The patterns and connections identified in perceptual knowledge form the basis for understanding relationships between entities and systems."
+      },
+      {
+        "aspect": "Practical Knowledge",
+        "connection": "Skills and techniques often rely on the accurate interpretation of sensory input, such as in craftsmanship or scientific experimentation."
+      },
+      {
+        "aspect": "Reflective Knowledge",
+        "connection": "The evaluation and refinement of beliefs often involve revisiting and analyzing perceptual experiences to ensure their validity."
+      }
+    ],
+    "implications": "Perceptual Knowledge underscores the interconnectedness of all domains of understanding by anchoring them in observable reality. It ensures that abstract and theoretical knowledge remains grounded, fostering a coherent and unified framework of human understanding. By emphasizing the primacy of sensory experience, it highlights the importance of empirical validation and the continuous interplay between observation and interpretation in the pursuit of truth."
+  },
+  "metadata": {
+    "full_path": "Perceptual Knowledge",
+    "fs_path": "perceptual_knowledge/content.json",
+    "timestamp": "2025-02-21 11:37:12"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "path": "ontology/relation",
+  "topics": [
+    "temporal_relations",
+    "spatial_relations",
+    "substantive_relations",
+    "functional_relations"
+  ],
+  "timestamp": "2025-02-21 10:03:32"
+}

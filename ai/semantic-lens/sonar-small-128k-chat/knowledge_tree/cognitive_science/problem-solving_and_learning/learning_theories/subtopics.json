@@ -1,0 +1,27 @@
+{
+  "name": "Learning Theories",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Behaviorist Learning Theories",
+      "description": "Behaviorist learning theories, such as classical conditioning and operant conditioning, focus on observable behaviors and environmental factors. These theories align with the Cognitive Science domain by examining how external stimuli influence learning processes. They also relate to Epistemology by questioning the nature of knowledge acquisition and validation through observable actions."
+    },
+    {
+      "name": "Cognitive Learning Theories",
+      "description": "Cognitive learning theories, including schema theory and information processing theory, emphasize mental processes and internal representations. These theories integrate with Cognitive Science by studying how the mind processes information during learning. They also connect to Ontology by exploring the nature of mental constructs and their role in understanding reality."
+    },
+    {
+      "name": "Social Constructivist Learning Theories",
+      "description": "Social constructivist learning theories, such as Vygotsky's sociocultural theory, highlight the role of social interactions and cultural contexts in shaping knowledge. These theories align with Interdisciplinary Synthesis by integrating insights from multiple domains\u2014Cognitive Science for individual learning processes and Philosophy of Science for understanding scientific inquiry\u2014to form a comprehensive understanding of how knowledge is constructed socially."
+    },
+    {
+      "name": "Humanistic Learning Theories",
+      "description": "Humanistic learning theories, such as Maslow's self-actualization theory, focus on personal growth and self-directed learning. These theories connect to Practical Wisdom by emphasizing the importance of intrinsic motivation and self-awareness in real-world applications of knowledge. They also relate to Epistemology by questioning the nature of knowledge that arises from personal experiences and values."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science/Problem-Solving and Learning/Learning Theories",
+    "fs_path": "cognitive_science/problem-solving_and_learning/learning_theories/subtopics.json",
+    "timestamp": "2025-02-21 09:44:34"
+  }
+}

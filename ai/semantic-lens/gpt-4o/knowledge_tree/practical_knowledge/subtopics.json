@@ -1,0 +1,31 @@
+{
+  "name": "Practical Knowledge",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Skill Acquisition",
+      "description": "The process of learning and mastering specific abilities or techniques. This subtopic connects to the framework by translating abstract understanding into actionable capabilities, emphasizing the role of practice and repetition in bridging theory and application."
+    },
+    {
+      "name": "Problem-Solving",
+      "description": "The application of knowledge to address challenges and find solutions. It reflects the integration of conceptual and relational knowledge into practical contexts, demonstrating how understanding is used to navigate real-world complexities."
+    },
+    {
+      "name": "Technological Application",
+      "description": "The use of tools, systems, and innovations to achieve practical goals. This subtopic highlights the interplay between human ingenuity and the material world, showcasing how theoretical insights are transformed into functional technologies."
+    },
+    {
+      "name": "Ethical Practice",
+      "description": "The consideration of moral principles in the application of knowledge. It ensures that practical actions align with reflective knowledge, fostering responsible and conscientious decision-making in real-world scenarios."
+    },
+    {
+      "name": "Adaptation and Improvisation",
+      "description": "The ability to adjust and innovate in dynamic or unforeseen circumstances. This subtopic underscores the importance of flexibility and creativity in applying knowledge, reflecting the interconnectedness of all domains in responding to change."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Knowledge",
+    "fs_path": "practical_knowledge/subtopics.json",
+    "timestamp": "2025-02-21 11:36:49"
+  }
+}

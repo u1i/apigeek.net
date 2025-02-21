@@ -1,0 +1,31 @@
+{
+  "name": "Cognitive Strategies",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Attention Management",
+      "description": "The ability to focus and allocate mental resources effectively. This subtopic relates to Epistemology by understanding how attention influences knowledge acquisition and validation. It also ties into Cognitive Science by examining how the mind processes information and manages attentional resources."
+    },
+    {
+      "name": "Memory Optimization",
+      "description": "Techniques for enhancing memory retention and recall. This subtopic connects to Epistemology by considering the role of memory in validating and retaining knowledge. It also intersects with Cognitive Science by studying how memory functions and can be improved."
+    },
+    {
+      "name": "Problem-Solving Techniques",
+      "description": "Methods for approaching and resolving complex problems. This subtopic integrates with Practical Wisdom by applying theoretical understanding to real-world problem-solving. It also aligns with Cognitive Science by analyzing the cognitive processes involved in problem-solving."
+    },
+    {
+      "name": "Learning Strategies",
+      "description": "Methods for acquiring new knowledge efficiently. This subtopic ties into Epistemology by exploring the mechanisms of knowledge acquisition. It also intersects with Cognitive Science by examining how the mind learns and adapts to new information."
+    },
+    {
+      "name": "Decision-Making Frameworks",
+      "description": "Frameworks for making informed decisions based on available data. This subtopic connects to Practical Wisdom by applying cognitive strategies to real-world decision-making scenarios. It also aligns with Philosophy of Science by considering the role of evidence in decision-making processes."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Problem-Solving/Cognitive Strategies",
+    "fs_path": "practical_wisdom/problem-solving/cognitive_strategies/subtopics.json",
+    "timestamp": "2025-02-21 09:53:12"
+  }
+}

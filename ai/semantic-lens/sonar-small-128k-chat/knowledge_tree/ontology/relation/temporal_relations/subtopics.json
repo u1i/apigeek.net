@@ -1,0 +1,31 @@
+{
+  "name": "Temporal Relations",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Temporal Causality",
+      "description": "Temporal causality examines how events in time influence one another. This subtopic integrates with ontology by exploring the nature of causation and its implications for understanding reality. It also aligns with epistemology by questioning how we can validate causal relationships over time."
+    },
+    {
+      "name": "Temporal Logic",
+      "description": "Temporal logic is a branch of logic that deals with statements about time. It helps in understanding how temporal relations can be formally represented and analyzed. This subtopic connects with cognitive science by providing tools for reasoning about temporal processes, and it relates to philosophy of science by informing methodologies for studying temporal phenomena."
+    },
+    {
+      "name": "Chronology and Periodization",
+      "description": "Chronology and periodization involve the study of time in historical contexts. This subtopic integrates with practical wisdom by providing frameworks for organizing historical events and understanding their impact on decision-making. It also relates to ontology by exploring how different periods of time shape our understanding of existence."
+    },
+    {
+      "name": "Temporal Perception and Memory",
+      "description": "Temporal perception and memory examine how humans perceive and remember time. This subtopic aligns with cognitive science by investigating psychological processes related to time perception and memory. It also connects with epistemology by questioning how our subjective experiences of time influence our understanding of knowledge."
+    },
+    {
+      "name": "Temporal Ethics and Justice",
+      "description": "Temporal ethics and justice explore moral implications related to time, such as fairness in distribution of resources over time or justice in historical contexts. This subtopic integrates with practical wisdom by applying ethical principles to real-world scenarios involving temporal considerations. It also relates to ontology by examining how our understanding of time influences our moral frameworks."
+    }
+  ],
+  "metadata": {
+    "full_path": "Ontology/Relation/Temporal Relations",
+    "fs_path": "ontology/relation/temporal_relations/subtopics.json",
+    "timestamp": "2025-02-21 09:49:58"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Holistic Problem-Solving",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Holistic Problem-Solving is a specific domain that exemplifies the practical application of knowledge in real-world contexts, integrating theoretical understanding with practical experience. It is part of the Practical Wisdom domain, which focuses on the application of knowledge in real-world scenarios. This topic also reflects the Interdisciplinary Synthesis process by integrating knowledge from multiple domains to form a comprehensive understanding of complex problems."
+    },
+    "key_concepts": [
+      {
+        "name": "Interdisciplinary Integration",
+        "explanation": "The process of combining insights from various disciplines to address complex problems, ensuring a comprehensive understanding."
+      },
+      {
+        "name": "Holistic Approach",
+        "explanation": "Considering the interconnectedness of all aspects of a problem, rather than focusing on isolated components."
+      },
+      {
+        "name": "Contextual Understanding",
+        "explanation": "Recognizing the importance of situational factors in problem-solving, including social, cultural, and environmental contexts."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Systems Thinking",
+        "description": "Understanding complex systems as interconnected networks rather than isolated parts, facilitating a more comprehensive approach to problem-solving."
+      },
+      {
+        "name": "Iterative Learning",
+        "description": "Embracing a cyclical process of problem-solving where solutions are continuously refined based on new information and feedback."
+      },
+      {
+        "name": "Collaborative Effort",
+        "description": "Encouraging teamwork and diverse perspectives to leverage the strengths of different individuals and disciplines."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Interdisciplinary Synthesis",
+        "connection": "Holistic Problem-Solving integrates knowledge from multiple domains to address complex problems, exemplifying the Interdisciplinary Synthesis process."
+      },
+      {
+        "aspect": "Practical Wisdom",
+        "connection": "Holistic Problem-Solving is a key application of Practical Wisdom, focusing on the practical application of knowledge in real-world contexts."
+      },
+      {
+        "aspect": "Cognitive Science",
+        "connection": "The cognitive processes involved in holistic problem-solving, such as perception, attention, and memory, are studied within Cognitive Science."
+      }
+    ],
+    "implications": [
+      {
+        "broader_impact": "Enhanced understanding of complex systems and their interconnectedness.",
+        "description": "Holistic Problem-Solving contributes to a deeper understanding of how different components interact within systems, leading to more effective solutions."
+      },
+      {
+        "broader_impact": "Improved collaboration and communication across disciplines.",
+        "description": "By emphasizing interdisciplinary integration and collaborative effort, holistic problem-solving fosters better communication and cooperation among experts from various fields."
+      },
+      {
+        "broader_impact": "Development of more adaptive and resilient problem-solving strategies.",
+        "description": "The iterative learning principle inherent in holistic problem-solving encourages continuous improvement and adaptation, leading to more resilient solutions."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Practical Wisdom/Interdisciplinary Integration/Holistic Problem-Solving",
+    "fs_path": "practical_wisdom/interdisciplinary_integration/holistic_problem-solving/content.json",
+    "timestamp": "2025-02-21 10:07:21"
+  }
+}

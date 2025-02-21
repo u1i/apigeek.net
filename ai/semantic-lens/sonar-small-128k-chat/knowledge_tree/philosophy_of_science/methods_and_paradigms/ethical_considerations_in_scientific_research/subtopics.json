@@ -1,0 +1,31 @@
+{
+  "name": "Ethical Considerations in Scientific Research",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Informed Consent",
+      "description": "The principle of informed consent ensures that participants in scientific studies are fully aware of the risks, benefits, and procedures involved. This subtopic relates to Epistemology by addressing how knowledge is acquired ethically, and to Cognitive Science by understanding how participants' cognitive processes are respected. It also aligns with Practical Wisdom by integrating ethical considerations into real-world research practices."
+    },
+    {
+      "name": "Animal Welfare",
+      "description": "Animal welfare in scientific research involves ensuring that animals are treated humanely and with minimal suffering. This subtopic connects to Ontology by examining the existence and well-being of non-human entities, and to Philosophy of Science by evaluating the ethical implications of scientific methods. It also falls under Practical Wisdom by applying ethical principles to real-world scenarios."
+    },
+    {
+      "name": "Data Privacy",
+      "description": "Data privacy concerns the protection of personal information collected during scientific research. This subtopic intersects with Epistemology by questioning the limits of knowledge acquisition and validation, and with Cognitive Science by understanding how data is processed and stored. It also integrates with Interdisciplinary Synthesis by recognizing the interconnectedness of data privacy across various domains."
+    },
+    {
+      "name": "Conflict of Interest",
+      "description": "Conflict of interest refers to situations where researchers' personal interests may influence their scientific findings. This subtopic relates to Epistemology by examining the potential biases in knowledge acquisition, and to Philosophy of Science by evaluating the integrity of scientific inquiry. It also aligns with Practical Wisdom by ensuring that ethical standards are upheld in real-world research settings."
+    },
+    {
+      "name": "Transparency and Accountability",
+      "description": "Transparency and accountability in scientific research involve clearly reporting methods, results, and potential biases. This subtopic connects to Ontology by exploring the nature of truth in scientific discourse, and to Philosophy of Science by examining the foundations of scientific knowledge. It also integrates with Interdisciplinary Synthesis by highlighting the importance of transparency across different fields."
+    }
+  ],
+  "metadata": {
+    "full_path": "Philosophy of Science/Methods and Paradigms/Ethical Considerations in Scientific Research",
+    "fs_path": "philosophy_of_science/methods_and_paradigms/ethical_considerations_in_scientific_research/subtopics.json",
+    "timestamp": "2025-02-21 09:51:33"
+  }
+}

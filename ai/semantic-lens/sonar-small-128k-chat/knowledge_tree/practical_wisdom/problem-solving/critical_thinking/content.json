@@ -1,0 +1,61 @@
+{
+  "name": "Critical Thinking",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Critical thinking is a fundamental aspect of Practical Wisdom, which is a domain that focuses on the application of knowledge in real-world contexts. It integrates theoretical understanding with practical experience, making it essential for decision-making and problem-solving."
+    },
+    "key_concepts": [
+      {
+        "name": "Analytical Reasoning",
+        "explanation": "The ability to break down complex information into its constituent parts, examining each element systematically to understand its role in the whole."
+      },
+      {
+        "name": "Logical Inference",
+        "explanation": "The process of drawing conclusions based on evidence and sound reasoning, ensuring that conclusions logically follow from the premises."
+      },
+      {
+        "name": "Evaluative Judgment",
+        "explanation": "The skill of assessing information critically, considering multiple perspectives and evaluating evidence to form a well-supported opinion."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Objectivity",
+        "description": "The principle of striving for impartiality and avoiding biases in the evaluation of information."
+      },
+      {
+        "name": "Evidence-Based Reasoning",
+        "description": "The principle of relying on empirical evidence and logical arguments rather than personal opinions or assumptions."
+      },
+      {
+        "name": "Transparency",
+        "description": "The principle of clearly articulating assumptions, methods, and conclusions to ensure that reasoning is transparent and open to scrutiny."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Problem-Solving",
+        "connection": "Critical thinking is essential for effective problem-solving as it enables individuals to analyze problems systematically, identify key issues, and develop well-reasoned solutions."
+      },
+      {
+        "aspect": "Ethical Reasoning",
+        "connection": "Critical thinking is crucial in ethical reasoning as it helps individuals evaluate moral dilemmas objectively, considering multiple perspectives and ethical principles."
+      },
+      {
+        "aspect": "Cognitive Science",
+        "connection": "Critical thinking involves cognitive processes such as perception, attention, memory, and language, making it an integral part of cognitive science's study of the mind and intelligence."
+      }
+    ],
+    "implications": [
+      {
+        "description": "Critical thinking has broader implications for knowledge organization by ensuring that knowledge is applied effectively in real-world contexts. It enhances the validity and reliability of information by promoting rigorous analysis and sound reasoning."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Practical Wisdom/Problem-Solving/Critical Thinking",
+    "fs_path": "practical_wisdom/problem-solving/critical_thinking/content.json",
+    "timestamp": "2025-02-21 10:07:38"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Cognitive Biases",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "epistemology": "Cognitive biases are a fundamental aspect of epistemology, as they pertain to the nature and limits of knowledge. They highlight how our cognitive processes can lead to errors in perception, judgment, and decision-making.",
+      "ontology": "Biases often relate to ontological questions about the nature of reality and how we perceive it. They influence what we consider true or false.",
+      "cognitive_science": "Cognitive biases are studied extensively in cognitive science, which examines how the mind processes information. This domain helps understand why biases occur and how they can be mitigated.",
+      "philosophy_of_science": "Biases can affect scientific inquiry by influencing how data is interpreted and experiments are designed. Philosophy of science provides insights into the methods and foundations of scientific knowledge, including how biases might impact these processes.",
+      "practical_wisdom": "Practical wisdom involves applying knowledge in real-world contexts. Understanding cognitive biases is crucial for making informed decisions and avoiding pitfalls in practical applications.",
+      "interdisciplinary_synthesis": "Cognitive biases illustrate the interconnectedness of knowledge domains. They require an interdisciplinary approach to fully comprehend, involving insights from epistemology, ontology, cognitive science, philosophy of science, and practical wisdom."
+    },
+    "key_concepts": [
+      {
+        "name": "Confirmation Bias",
+        "explanation": "The tendency to seek out information that confirms one's existing beliefs while ignoring contradictory evidence."
+      },
+      {
+        "name": "Availability Heuristic",
+        "explanation": "The tendency to overestimate the importance of information that readily comes to mind."
+      },
+      {
+        "name": "Anchoring Bias",
+        "explanation": "The tendency to rely too heavily on the first piece of information encountered when making decisions."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Cognitive Load",
+        "description": "The amount of mental effort being used in the working memory. High cognitive load can increase the likelihood of biases."
+      },
+      {
+        "name": "Heuristics",
+        "description": "Mental shortcuts that help make decisions quickly but can lead to errors if not used judiciously."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Cognitive Biases and Perception",
+        "connection": "Biases often affect how we perceive information, influencing what we notice and how we interpret it."
+      },
+      {
+        "aspect": "Biases in Decision-Making",
+        "connection": "Biases can significantly impact decision-making processes by leading to suboptimal choices."
+      },
+      {
+        "aspect": "Biases in Scientific Inquiry",
+        "connection": "Biases can affect the validity of scientific findings if not properly controlled for."
+      }
+    ],
+    "implications": [
+      {
+        "broader_impact": "Understanding cognitive biases is essential for improving critical thinking skills and making more informed decisions.",
+        "level_2_representation": "Cognitive biases exemplify how abstract principles from epistemology, ontology, cognitive science, philosophy of science, and practical wisdom come together to form concrete areas of study at Level 2."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Epistemology/Limits of Knowledge/Cognitive Biases",
+    "fs_path": "epistemology/limits_of_knowledge/cognitive_biases/content.json",
+    "timestamp": "2025-02-21 09:58:51"
+  }
+}

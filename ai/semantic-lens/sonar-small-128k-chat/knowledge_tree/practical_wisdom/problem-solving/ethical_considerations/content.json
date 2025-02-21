@@ -1,0 +1,71 @@
+{
+  "name": "Ethical Considerations",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Ethical Considerations is a specific domain within the broader framework of Practical Wisdom. It focuses on the application of knowledge in real-world contexts, particularly in decision-making and problem-solving, while integrating theoretical understanding with practical experience. This domain is deeply rooted in the Epistemology of knowledge acquisition and validation, as it involves understanding the moral and ethical implications of actions.",
+      "parent_concepts": [
+        {
+          "name": "Practical Wisdom",
+          "description": "The application of knowledge in real-world contexts, encompassing skills like decision-making, problem-solving, and ethical reasoning."
+        },
+        {
+          "name": "Problem-Solving",
+          "description": "The process of identifying and resolving problems, which often involves ethical considerations."
+        }
+      ]
+    },
+    "key_concepts": [
+      {
+        "name": "Moral Principles",
+        "description": "Fundamental guidelines that dictate right and wrong behavior, such as justice, fairness, and respect for autonomy."
+      },
+      {
+        "name": "Consequentialism",
+        "description": "An ethical theory that holds that the morality of an action should be determined by its consequences."
+      },
+      {
+        "name": "Deontology",
+        "description": "An ethical theory that emphasizes the importance of duties and rules rather than consequences."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Utilitarianism",
+        "description": "The principle that actions are right if they promote the greatest happiness for the greatest number of people."
+      },
+      {
+        "name": "Non-Maleficence",
+        "description": "The principle of doing no harm, which is a cornerstone in medical ethics but applies broadly to all ethical considerations."
+      },
+      {
+        "name": "Autonomy",
+        "description": "The principle that individuals have the right to make their own decisions and choices."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Epistemology",
+        "connection": "Ethical Considerations rely on epistemological questions about how we acquire and validate knowledge, especially in understanding moral principles and their implications."
+      },
+      {
+        "aspect": "Cognitive Science",
+        "connection": "Cognitive biases and heuristics can influence ethical decision-making, highlighting the importance of cognitive awareness in ethical considerations."
+      },
+      {
+        "aspect": "Philosophy of Science",
+        "connection": "Scientific inquiry often involves ethical considerations, such as the use of animals in research or the impact of scientific discoveries on society."
+      }
+    ],
+    "implications": [
+      {
+        "description": "Ethical Considerations have a broad impact on knowledge organization by integrating theoretical understanding with practical experience. It emphasizes the importance of holistic approaches to complex problems, encouraging interdisciplinary synthesis across various domains."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Practical Wisdom/Problem-Solving/Ethical Considerations",
+    "fs_path": "practical_wisdom/problem-solving/ethical_considerations/content.json",
+    "timestamp": "2025-02-21 10:07:44"
+  }
+}
