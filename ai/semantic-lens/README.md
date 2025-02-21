@@ -19,7 +19,34 @@ Semantic Lens is a powerful tool that combines LLM-driven knowledge extraction w
 - **Visual Grouping**: Clear visual distinction between different knowledge levels
 - **Responsive Design**: Adapts to different screen sizes and devices
 
-## Outputs
+## Levels
+
+Level 0: Fundamental Worldview/Framework
+
+- The philosophical lens through which all knowledge is viewed
+- Establishes the core organizing principles and categories
+
+Level 1: Major Components
+
+- How each philosophical category manifests
+- Breaks down each framework category into its primary aspects
+
+Level 2: Specific Domains
+
+- The actual areas of study/knowledge that exemplify these components
+- Maps abstract principles to concrete fields
+
+Level 3: Subfields and Specializations
+
+- The concrete disciplines and areas of focus
+- Specific established fields of study
+
+Level 4: Topics
+
+- Specific areas within each discipline
+- Core concepts and areas of investigation
+
+## Test Outputs from Key LLMs
 
 ### Sonar-small-128k-chat (Perplexity) - All Levels
 
