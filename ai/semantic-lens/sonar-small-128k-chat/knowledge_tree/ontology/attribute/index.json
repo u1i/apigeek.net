@@ -1,0 +1,10 @@
+{
+  "path": "ontology/attribute",
+  "topics": [
+    "relational_attributes",
+    "accidental_attributes",
+    "essential_attributes",
+    "modal_attributes"
+  ],
+  "timestamp": "2025-02-21 10:02:06"
+}

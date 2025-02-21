@@ -1,0 +1,31 @@
+{
+  "name": "Neural Coding Theories",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Encoding Mechanisms",
+      "description": "This subtopic explores how neurons encode information, including the various methods such as rate coding, temporal coding, and population coding. It relates to Cognitive Science by understanding how neural mechanisms process and generate knowledge, and to Epistemology by examining the fundamental questions about how we acquire and validate knowledge."
+    },
+    {
+      "name": "Decoding Processes",
+      "description": "This subtopic delves into how neural signals are decoded to retrieve information, including techniques like spike phase coding and population decoding. It aligns with Cognitive Science by studying how the mind processes information and with Philosophy of Science by examining the methods and implications of scientific inquiry in understanding neural functions."
+    },
+    {
+      "name": "Neural Representations",
+      "description": "This subtopic investigates the nature of neural representations, including spatial and temporal patterns of activity. It connects to Ontology by exploring the structure and content of knowledge at a fundamental level and to Practical Wisdom by integrating theoretical understanding with practical applications in fields like neuroscience and artificial intelligence."
+    },
+    {
+      "name": "Computational Models",
+      "description": "This subtopic involves developing computational models to simulate and analyze neural coding processes. It integrates with Interdisciplinary Synthesis by combining insights from multiple domains\u2014Cognitive Science, Philosophy of Science, and Ontology\u2014to form a comprehensive understanding of neural functions."
+    },
+    {
+      "name": "Experimental Methods",
+      "description": "This subtopic focuses on the experimental techniques used to study neural coding theories, including electrophysiology and imaging methods. It relates to Philosophy of Science by examining the foundations and methods of scientific inquiry in neuroscience and to Practical Wisdom by informing real-world applications in fields like neurotechnology."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science/Neural Mechanisms/Neural Coding Theories",
+    "fs_path": "cognitive_science/neural_mechanisms/neural_coding_theories/subtopics.json",
+    "timestamp": "2025-02-21 09:43:40"
+  }
+}

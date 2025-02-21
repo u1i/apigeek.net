@@ -1,0 +1,31 @@
+{
+  "name": "Ethical Considerations",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Moral Principles",
+      "description": "Moral principles are foundational to ethical considerations. They encompass universal values such as justice, fairness, and respect for human dignity. These principles guide decision-making and action, ensuring that they align with the broader ethical framework. This subtopic relates to Level 2 by mapping abstract moral principles to concrete ethical dilemmas, integrating with the practical wisdom of Level 1 by providing a theoretical basis for ethical reasoning."
+    },
+    {
+      "name": "Consequentialism vs. Deontology",
+      "description": "This subtopic explores the ethical theories of consequentialism and deontology. Consequentialism focuses on the outcomes of actions, while deontology emphasizes the inherent rightness or wrongness of actions regardless of their consequences. This distinction is crucial for understanding how ethical considerations are applied in real-world contexts, integrating with the cognitive science of Level 1 by examining how different ethical frameworks influence human decision-making processes."
+    },
+    {
+      "name": "Cultural and Social Norms",
+      "description": "Cultural and social norms play a significant role in shaping ethical considerations. Different societies have varying moral codes that influence individual behavior. This subtopic examines how these norms intersect with universal moral principles, highlighting the importance of cultural sensitivity in ethical decision-making. It integrates with the ontology of Level 0 by recognizing the diversity of human existence and its impact on ethical frameworks."
+    },
+    {
+      "name": "Ethical Decision-Making Models",
+      "description": "Ethical decision-making models provide frameworks for evaluating complex situations. These models often incorporate principles from moral philosophy, such as utilitarianism or virtue ethics, to guide decision-making processes. This subtopic relates to Level 2 by mapping these models to specific domains like business ethics or medical ethics, integrating with practical wisdom by offering tools for making informed, ethically sound decisions."
+    },
+    {
+      "name": "Stakeholder Analysis",
+      "description": "Stakeholder analysis involves identifying and evaluating the interests of various groups affected by a decision. This approach ensures that ethical considerations are not limited to individual perspectives but account for broader societal impacts. It integrates with cognitive science by recognizing the multiple perspectives involved in ethical decision-making and with philosophy of science by applying systematic methods to evaluate these perspectives."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Problem-Solving/Ethical Considerations",
+    "fs_path": "practical_wisdom/problem-solving/ethical_considerations/subtopics.json",
+    "timestamp": "2025-02-21 09:53:22"
+  }
+}

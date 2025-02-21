@@ -1,0 +1,31 @@
+{
+  "name": "Reflective Knowledge",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Epistemic Evaluation",
+      "description": "This subtopic focuses on the critical assessment of beliefs, assumptions, and knowledge claims. It involves questioning the validity, reliability, and sources of knowledge, ensuring alignment with the broader framework of understanding. It connects to the meta-cognitive processes that underpin Reflective Knowledge and supports the refinement of Conceptual and Relational Knowledge."
+    },
+    {
+      "name": "Integration of Insights",
+      "description": "This subtopic pertains to the synthesis of new information with existing knowledge. It emphasizes the dynamic process of reconciling contradictions, identifying synergies, and evolving understanding. It reflects the interdependence of all knowledge domains and ensures that new insights are contextualized within the broader framework."
+    },
+    {
+      "name": "Philosophical Inquiry",
+      "description": "This subtopic explores the fundamental questions about existence, meaning, and the nature of knowledge itself. It serves as the foundation for Reflective Knowledge by providing the tools and frameworks for deep analysis and self-awareness, connecting to the overarching worldview of knowledge organization."
+    },
+    {
+      "name": "Self-Awareness and Meta-Cognition",
+      "description": "This subtopic involves the awareness of one's own thought processes and the ability to analyze and regulate them. It is central to Reflective Knowledge, enabling individuals to critically examine their cognitive biases, assumptions, and methods of reasoning, thereby enhancing the quality of Practical and Conceptual Knowledge."
+    },
+    {
+      "name": "Ethical Reflection",
+      "description": "This subtopic addresses the moral and ethical dimensions of knowledge and its application. It ensures that the pursuit and use of knowledge are aligned with values and principles, bridging Reflective Knowledge with Practical Knowledge and emphasizing the responsibility inherent in understanding and action."
+    }
+  ],
+  "metadata": {
+    "full_path": "Reflective Knowledge",
+    "fs_path": "reflective_knowledge/subtopics.json",
+    "timestamp": "2025-02-21 11:36:58"
+  }
+}

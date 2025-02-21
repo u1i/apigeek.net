@@ -1,0 +1,31 @@
+{
+  "name": "Cognitive Processes",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Perception",
+      "description": "The process by which the mind interprets and organizes sensory information from the environment. This subtopic is crucial for understanding how humans acquire knowledge through sensory inputs, aligning with the Epistemology domain's focus on knowledge acquisition. It also intersects with Cognitive Science, as it involves the study of how the mind processes and interprets sensory data."
+    },
+    {
+      "name": "Attention",
+      "description": "The ability to selectively concentrate on one aspect of the environment while ignoring others. This subtopic is essential for understanding how humans filter and prioritize information, which is a fundamental aspect of cognitive processing. It relates to both Epistemology and Cognitive Science, as it influences what information is considered relevant for knowledge acquisition and how it is processed."
+    },
+    {
+      "name": "Memory",
+      "description": "The mental faculty of retaining information over time. This subtopic is vital for understanding how knowledge is stored and retrieved, which is a core aspect of Epistemology. It also intersects with Cognitive Science, as it involves the study of how the brain encodes, stores, and retrieves information."
+    },
+    {
+      "name": "Language",
+      "description": "The system of communication using words, signs, and symbols. This subtopic is critical for understanding how humans convey and receive information, which is essential for knowledge validation and dissemination. It relates to both Epistemology and Cognitive Science, as it influences how knowledge is communicated and processed."
+    },
+    {
+      "name": "Problem-Solving",
+      "description": "The process of identifying and resolving problems through logical reasoning and critical thinking. This subtopic is essential for understanding how humans apply knowledge in practical contexts, aligning with the Practical Wisdom domain. It also intersects with Cognitive Science, as it involves the study of how the mind generates solutions to complex problems."
+    }
+  ],
+  "metadata": {
+    "full_path": "Philosophy of Science/Foundations of Scientific Inquiry/Cognitive Processes",
+    "fs_path": "philosophy_of_science/foundations_of_scientific_inquiry/cognitive_processes/subtopics.json",
+    "timestamp": "2025-02-21 09:50:22"
+  }
+}

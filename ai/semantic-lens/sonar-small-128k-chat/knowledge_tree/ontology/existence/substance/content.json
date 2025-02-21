@@ -1,0 +1,57 @@
+{
+  "name": "Substance",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Substance is a fundamental concept in ontology, which is the study of existence and reality. It fits into our overall framework by providing a foundational understanding of what constitutes being and existence, thereby influencing how we organize and understand knowledge across various domains."
+    },
+    "key_concepts": [
+      {
+        "name": "Essence",
+        "explanation": "The intrinsic nature or essential characteristics of a substance that define its identity and distinguish it from other substances."
+      },
+      {
+        "name": "Accidents",
+        "explanation": "Properties or attributes that a substance may possess but are not essential to its identity, such as color or shape."
+      },
+      {
+        "name": "Substantial Form",
+        "explanation": "The form or structure that gives a substance its specific nature and organization, often discussed in the context of Aristotelian philosophy."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Hylomorphism",
+        "description": "The principle that substances consist of both matter (hyle) and form (morphe), which together constitute the essence of a thing."
+      },
+      {
+        "name": "Identity Conditions",
+        "description": "The criteria that determine whether two substances are identical or distinct, often involving considerations of essence and accidents."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Existence",
+        "connection": "Substance is central to understanding existence because it provides a framework for categorizing and distinguishing different types of beings."
+      },
+      {
+        "aspect": "Attribute",
+        "connection": "Substance is related to attribute through the concept of accidents, which are properties that a substance may possess but are not essential to its identity."
+      },
+      {
+        "aspect": "Relation",
+        "connection": "Substance is connected to relation through the understanding of how substances interact with each other and their environment, influencing their properties and behavior."
+      }
+    ],
+    "implications": [
+      {
+        "description": "Understanding substance has significant implications for knowledge organization because it provides a clear structure for categorizing and analyzing complex phenomena. It influences how we approach epistemology by grounding our understanding of knowledge in the fundamental nature of reality."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Ontology/Existence/Substance",
+    "fs_path": "ontology/existence/substance/content.json",
+    "timestamp": "2025-02-21 10:02:31"
+  }
+}

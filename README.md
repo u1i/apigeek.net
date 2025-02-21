@@ -205,11 +205,13 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 * Bach Sonatas and Chorales, 2024 on [Spotify](https://open.spotify.com/album/0gnRSuQ2qL5JuXlo0YAL2C) and [Apple Music](https://music.apple.com/us/artist/uli-hitzel/1739466607).
 
-## Research
+## AI Research
 
-### OpenAI & GPT-3
+### LLM & Semantics
 
-#### Conversations with AI
+* [Semantic Lens – LLM-driven knowledge extraction with interactive visualization](ai/semantic-lens)
+
+### Conversations with AI
 
 * [Huxley - a friendly and helpful AI you can speak with on Telegram](openai/huxley.md)
 * [Marvin – a robot with quite some attitude (Telegram)](./openai/marvin.md)
@@ -222,7 +224,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Dave and Sam talking about Humans](./openai/davesam1.md)
 * [Interviewing GPT-4](./openai/gpt-4-interview.md)
 
-#### Generated texts and articles
+### Generated texts and articles
 
 * [A Shakespeare Sonnet](openai/sonnet.md)
 * [The Seabird – poem in the style of Henry David Thoreau](openai/hdt.md)
@@ -239,7 +241,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Predicting LinkedIn Articles](openai/articles.md)
 * [Song Lyrics: Rolling Stones – Singapore](./openai/stones-singapore.md)
 
-#### Audio/Video Generation
+### Audio/Video Generation
 
 * [Video Avatar (script written by a human)](https://www.youtube.com/watch?v=AV-5Icu9MUU)
 * [Avatar based on existing voice track](https://www.youtube.com/watch?v=2S3vn0___JA) --> [Original Video](https://www.youtube.com/watch?v=bS1Q9N9CyRI)
@@ -247,11 +249,11 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Deep Fake – Uli's Voice](openai/voicegen.md)
 * [A jazzy tune for saxophone](openai/jazz.md)
 
-#### Audio/Video Transcription
+### Audio/Video Transcription
 
 * [Transcribing and summarizing a TedX talk](./openai/tedx-talk.md)
 
-#### Creating Video Avatars for Voice-Only Explainer Videos
+### Creating Video Avatars for Voice-Only Explainer Videos
 
 * [Chinese](https://www.youtube.com/watch?v=1Ip-_wzLAT0) --> [Original Video](https://www.youtube.com/watch?v=QB0_5PE--Dc)
 * [Vietnamese](https://www.youtube.com/watch?v=XF56B28KVqQ) --> [Original Video](https://www.youtube.com/watch?v=thaYee4rOrg)
@@ -261,13 +263,13 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Hindi](https://www.youtube.com/watch?v=Gojt5a20rKE) --> [Original Video](https://www.youtube.com/watch?v=RaQKTgGyyyo)
 * [English](https://www.youtube.com/watch?v=l3mRx8vBYPQ) --> [Original Video](https://www.youtube.com/watch?v=scEDHsr3APg&t=8s)
 
-#### AI generated source code
+### AI generated source code
 
 * [Eliza Chatbot – AI generated](openai/eliza.md)
 * [AI creating Python Code (Video)](https://youtu.be/8mm3COjX36M)
 * [Hacker Rank: AI generated Python code](openai/hackerrank-python.md)
 
-#### AI generated artwork and photos
+### AI generated artwork and photos
 
 * [Pictures Of The Floating World – An Art Collaboration Between Human And AI](./art/)
 * [OpenAI DALL-E – selected images with prompts](https://apigeek.net/dalle/showcase/)

@@ -1,0 +1,61 @@
+{
+  "name": "Substantial Change",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Substantial Change is a concept within the domain of Ontology, which studies existence and reality. It is part of the broader framework that explores the nature of being, including concepts like substance and attribute. This topic exemplifies how Level 2 domains (Specific Domains) map abstract principles to concrete fields, in this case, substantial change being a fundamental aspect of understanding reality."
+    },
+    "key_concepts": [
+      {
+        "name": "Substance",
+        "explanation": "In Ontology, substance refers to the underlying reality or being that possesses attributes. Substantial change involves alterations in these substances, which are essential for understanding how reality evolves."
+      },
+      {
+        "name": "Attribute",
+        "explanation": "Attributes are properties or characteristics that belong to substances. Substantial change can involve changes in these attributes, such as transformations or modifications that affect the nature of being."
+      },
+      {
+        "name": "Relation",
+        "explanation": "Relations describe how substances and attributes interact with each other. Substantial change often involves changes in these relations, such as causality or dependency, which are crucial for understanding the dynamics of reality."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Permanence and Impermanence",
+        "description": "Substantial change highlights the interplay between permanence (the enduring nature of substances) and impermanence (the dynamic alterations in substances and their attributes). This principle underscores the dynamic nature of reality."
+      },
+      {
+        "name": "Causality",
+        "description": "Causality is a key principle in understanding substantial change. It explains how one event or action leads to another, influencing the transformation of substances and their attributes."
+      },
+      {
+        "name": "Holism",
+        "description": "Holism emphasizes that substantial change is not isolated but part of a larger system. It considers how changes in one aspect affect the entire system, illustrating the interconnectedness of reality."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Epistemology",
+        "connection": "Understanding substantial change requires epistemological inquiry into how we acquire and validate knowledge about reality. It involves questions about the nature of observation, measurement, and interpretation."
+      },
+      {
+        "aspect": "Cognitive Science",
+        "connection": "Cognitive science helps us understand how humans perceive and process information related to substantial change. It explores cognitive biases, memory, and problem-solving abilities in the context of understanding dynamic reality."
+      },
+      {
+        "aspect": "Philosophy of Science",
+        "connection": "The philosophy of science examines the methods and implications of scientific inquiry into substantial change. It provides insights into how scientific knowledge is generated and validated, particularly in fields like physics or chemistry where changes in substances are studied."
+      }
+    ],
+    "implications": [
+      {
+        "description": "Substantial change has broader implications for knowledge organization by highlighting the dynamic nature of reality. It encourages holistic approaches to understanding complex systems and emphasizes the importance of considering causality and permanence in all domains of study."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Ontology/Substance/Substantial Change",
+    "fs_path": "ontology/substance/substantial_change/content.json",
+    "timestamp": "2025-02-21 10:03:56"
+  }
+}

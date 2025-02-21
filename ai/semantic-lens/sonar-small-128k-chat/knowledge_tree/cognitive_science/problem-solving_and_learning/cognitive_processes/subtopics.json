@@ -1,0 +1,31 @@
+{
+  "name": "Cognitive Processes",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Perception",
+      "description": "The process by which the mind interprets sensory information from the environment. This subtopic is crucial in Cognitive Science as it bridges the gap between the external world and internal mental representations, aligning with the foundational questions of Epistemology about how we acquire knowledge."
+    },
+    {
+      "name": "Attention",
+      "description": "The ability to selectively concentrate on one aspect of the environment while ignoring others. Attention is a fundamental cognitive process that influences how we process information, reflecting the interdisciplinary nature of Cognitive Science and its integration with Ontology to understand the structure of reality."
+    },
+    {
+      "name": "Memory",
+      "description": "The mental faculty of retaining and recalling past experiences. Memory is essential in Cognitive Science for understanding how knowledge is stored and retrieved, which is closely related to the practical applications in Practical Wisdom, such as decision-making and problem-solving."
+    },
+    {
+      "name": "Language",
+      "description": "The system of communication using words, signs, and symbols. Language processing is a critical aspect of Cognitive Science, as it involves complex cognitive operations that reflect the dynamic interplay between cognitive processes and the external world, aligning with the holistic approach of Interdisciplinary Synthesis."
+    },
+    {
+      "name": "Problem-Solving",
+      "description": "The cognitive process of identifying and resolving problems. Problem-solving is a key component of Cognitive Science that intersects with Philosophy of Science by examining the methods and implications of scientific inquiry, ultimately contributing to the practical wisdom needed in real-world contexts."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science/Problem-Solving and Learning/Cognitive Processes",
+    "fs_path": "cognitive_science/problem-solving_and_learning/cognitive_processes/subtopics.json",
+    "timestamp": "2025-02-21 09:44:25"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Critical Thinking",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Analytical Reasoning",
+      "description": "Analytical reasoning involves breaking down complex information into its constituent parts to understand the relationships and patterns. This skill is essential for critical thinking as it allows individuals to evaluate evidence and arguments systematically. It relates to Epistemology by addressing how we validate knowledge through logical analysis and to Cognitive Science by understanding how the mind processes information."
+    },
+    {
+      "name": "Argumentation",
+      "description": "Argumentation is the process of constructing and evaluating arguments. It involves identifying premises, drawing conclusions, and assessing the validity of inferences. This subtopic connects to Philosophy of Science by examining the logical structure of scientific inquiry and to Practical Wisdom by enabling effective decision-making and problem-solving."
+    },
+    {
+      "name": "Evidence-Based Decision Making",
+      "description": "Evidence-based decision making involves using empirical data and logical reasoning to make informed choices. This subtopic integrates with Ontology by considering the nature of reality and how it informs our understanding of evidence, and with Interdisciplinary Synthesis by recognizing that critical thinking often requires integrating knowledge from multiple domains."
+    },
+    {
+      "name": "Fallacy Identification",
+      "description": "Fallacy identification is crucial for critical thinking as it helps individuals recognize flawed reasoning patterns. This skill relates to Epistemology by ensuring that knowledge is not derived from false premises and to Cognitive Science by understanding how biases and heuristics can influence thought processes."
+    },
+    {
+      "name": "Reflective Evaluation",
+      "description": "Reflective evaluation involves regularly assessing one's own thought processes and conclusions. This subtopic connects to Practical Wisdom by fostering continuous improvement in decision-making skills and to Interdisciplinary Synthesis by promoting a holistic approach to understanding complex problems."
+    }
+  ],
+  "metadata": {
+    "full_path": "Epistemology/Knowledge Validation/Critical Thinking",
+    "fs_path": "epistemology/knowledge_validation/critical_thinking/subtopics.json",
+    "timestamp": "2025-02-21 09:45:55"
+  }
+}

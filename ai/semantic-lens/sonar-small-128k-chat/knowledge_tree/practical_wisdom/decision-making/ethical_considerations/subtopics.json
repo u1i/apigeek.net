@@ -1,0 +1,27 @@
+{
+  "name": "Ethical Considerations",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Moral Principles",
+      "description": "Moral principles are foundational to ethical considerations. They encompass universal values such as justice, fairness, and respect for human dignity. These principles guide decision-making processes and are rooted in philosophical inquiries about the nature of right and wrong (Ontology). Understanding moral principles helps in validating ethical actions and is essential for practical wisdom in real-world contexts."
+    },
+    {
+      "name": "Consequentialism vs. Deontology",
+      "description": "This subtopic explores the ethical theories of consequentialism and deontology. Consequentialism focuses on the outcomes of actions, while deontology emphasizes the inherent rightness or wrongness of actions regardless of their consequences. This distinction is crucial for cognitive science as it influences how humans process and generate knowledge about ethical dilemmas (Cognitive Science). It also intersects with philosophy of science by examining the scientific method's implications on ethical decision-making."
+    },
+    {
+      "name": "Cultural and Social Norms",
+      "description": "Cultural and social norms play a significant role in shaping ethical considerations. These norms vary across different societies and are influenced by historical contexts, cultural values, and social structures. Understanding these norms is essential for practical wisdom as it helps in navigating diverse ethical landscapes (Practical Wisdom). This subtopic integrates insights from epistemology by recognizing that knowledge about ethical norms is context-dependent and subject to revision based on new information."
+    },
+    {
+      "name": "Ethical Decision-Making Models",
+      "description": "Ethical decision-making models provide frameworks for evaluating complex ethical situations. These models often incorporate principles from moral philosophy, cognitive biases from cognitive science, and practical experience from real-world applications. By integrating these elements, ethical decision-making models facilitate holistic approaches to ethical problems (Interdisciplinary Synthesis). They also reflect the foundational epistemological questions about how we acquire and validate knowledge in ethical contexts."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Decision-Making/Ethical Considerations",
+    "fs_path": "practical_wisdom/decision-making/ethical_considerations/subtopics.json",
+    "timestamp": "2025-02-21 09:52:03"
+  }
+}

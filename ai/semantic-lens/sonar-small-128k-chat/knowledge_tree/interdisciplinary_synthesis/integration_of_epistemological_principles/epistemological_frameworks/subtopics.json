@@ -1,0 +1,31 @@
+{
+  "name": "Epistemological Frameworks",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Justification and Validation",
+      "description": "This subtopic explores the methods and criteria used to justify and validate knowledge claims. It delves into the nature of evidence, argumentation, and reasoning, which are essential for understanding how knowledge is acquired and verified. This relates to Level 1 by breaking down the epistemological component into its primary aspects, such as justification and validation, and to Level 0 by establishing the core principles of knowledge acquisition and verification."
+    },
+    {
+      "name": "Knowledge Sources and Acquisition",
+      "description": "This subtopic examines the various sources of knowledge, including sensory experience, reason, and social interaction. It investigates how these sources contribute to the formation of knowledge and how they interact within the cognitive process. This subtopic aligns with Level 1 by focusing on the manifestation of epistemological principles in real-world contexts and with Level 0 by grounding these principles in fundamental questions about knowledge acquisition."
+    },
+    {
+      "name": "Limits of Knowledge",
+      "description": "This subtopic addresses the boundaries and limitations of human knowledge. It explores concepts such as skepticism, fallibility, and the role of uncertainty in understanding. This subtopic connects to Level 1 by detailing specific aspects of epistemological inquiry and to Level 0 by providing a foundational framework for understanding the nature and limits of knowledge."
+    },
+    {
+      "name": "Epistemological Theories",
+      "description": "This subtopic examines various theoretical frameworks that explain how knowledge is acquired and justified. It includes theories such as empiricism, rationalism, and constructivism, each offering distinct perspectives on the nature of knowledge. This subtopic aligns with Level 1 by breaking down epistemological frameworks into their primary theoretical components and with Level 0 by establishing a comprehensive worldview of knowledge."
+    },
+    {
+      "name": "Contextual Dependence",
+      "description": "This subtopic investigates how knowledge is context-dependent and how different contexts influence our understanding of what constitutes valid knowledge. It considers factors such as cultural background, historical period, and social norms that shape our epistemological perspectives. This subtopic connects to Level 1 by highlighting specific aspects of contextual dependence within epistemology and to Level 0 by emphasizing the holistic nature of knowledge."
+    }
+  ],
+  "metadata": {
+    "full_path": "Interdisciplinary Synthesis/Integration of Epistemological Principles/Epistemological Frameworks",
+    "fs_path": "interdisciplinary_synthesis/integration_of_epistemological_principles/epistemological_frameworks/subtopics.json",
+    "timestamp": "2025-02-21 09:47:09"
+  }
+}

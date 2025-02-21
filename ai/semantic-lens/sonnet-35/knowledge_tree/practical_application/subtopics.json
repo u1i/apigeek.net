@@ -1,0 +1,31 @@
+{
+  "name": "Practical Application",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Technical Implementation",
+      "description": "The direct application of knowledge through specific tools, technologies and methodologies, representing how theoretical understanding is transformed into concrete solutions and functional systems"
+    },
+    {
+      "name": "Skill Development",
+      "description": "The embodied knowledge expressed through learned capabilities and practiced expertise, showing how abstract understanding becomes internalized into repeatable actions and refined abilities"
+    },
+    {
+      "name": "Problem Solving",
+      "description": "The strategic application of knowledge to address challenges and achieve objectives, demonstrating how understanding is deployed to transform situations and create desired outcomes"
+    },
+    {
+      "name": "Creative Expression",
+      "description": "The manifestation of knowledge through innovative and artistic endeavors, revealing how understanding enables new forms of making and doing that expand human capabilities"
+    },
+    {
+      "name": "Experiential Learning",
+      "description": "The cyclical process of applying knowledge, observing results, and refining approach, showing how practical application feeds back into empirical understanding and conceptual frameworks"
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Application",
+    "fs_path": "practical_application/subtopics.json",
+    "timestamp": "2025-02-21 11:33:03"
+  }
+}

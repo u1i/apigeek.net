@@ -1,0 +1,27 @@
+{
+  "name": "Historical Contexts of Scientific Ethics",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Evolution of Ethical Principles",
+      "description": "This subtopic explores how ethical principles in science have evolved over time, from ancient Greek philosophers to modern-day debates. It examines how different historical periods have shaped our understanding of scientific ethics, influencing the development of codes of conduct and professional standards."
+    },
+    {
+      "name": "Case Studies in Scientific Misconduct",
+      "description": "This subtopic delves into notable historical cases of scientific misconduct, such as the Tuskegee Syphilis Study or the Challenger Space Shuttle disaster. It analyzes these cases within the context of their time, highlighting the ethical dilemmas faced by scientists and the broader societal implications."
+    },
+    {
+      "name": "Influence of Cultural and Social Factors",
+      "description": "This subtopic investigates how cultural and social factors have influenced the development of scientific ethics throughout history. It examines how different societies have approached issues like experimentation on humans, animal testing, and the role of science in policy-making."
+    },
+    {
+      "name": "Historical Precedents for Modern Ethical Guidelines",
+      "description": "This subtopic explores how historical events and precedents have shaped modern ethical guidelines in science. It looks at how past mistakes have led to the creation of new regulations and standards, ensuring that scientific research is conducted responsibly."
+    }
+  ],
+  "metadata": {
+    "full_path": "Philosophy of Science/Implications and Ethics/Historical Contexts of Scientific Ethics",
+    "fs_path": "philosophy_of_science/implications_and_ethics/historical_contexts_of_scientific_ethics/subtopics.json",
+    "timestamp": "2025-02-21 09:50:52"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Ethical Reasoning",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Moral Principles",
+      "description": "The study of fundamental moral principles that guide ethical decision-making. This subtopic relates to Epistemology by examining how we acquire and validate moral knowledge, and to Ontology by understanding the nature of moral reality. It also integrates with Cognitive Science by analyzing how moral principles are processed and applied in real-world contexts."
+    },
+    {
+      "name": "Ethical Theories",
+      "description": "An examination of various ethical theories such as consequentialism, deontology, and virtue ethics. This subtopic connects to Philosophy of Science by evaluating the scientific basis for ethical theories and their implications. It also aligns with Practical Wisdom by applying these theories to real-world problems."
+    },
+    {
+      "name": "Case Studies and Applications",
+      "description": "The analysis of specific ethical dilemmas and their practical applications. This subtopic integrates with Interdisciplinary Synthesis by combining insights from multiple domains to address complex ethical issues. It also reflects Practical Wisdom by focusing on the application of ethical principles in real-world contexts."
+    },
+    {
+      "name": "Decision-Making Models",
+      "description": "The development and evaluation of models for making ethical decisions. This subtopic intersects with Cognitive Science by understanding how humans process information during decision-making processes. It also aligns with Practical Wisdom by providing tools for effective ethical decision-making."
+    },
+    {
+      "name": "Cultural and Historical Contexts",
+      "description": "An exploration of how ethical reasoning is influenced by cultural and historical contexts. This subtopic connects to Ontology by examining the diverse ways in which existence and reality are perceived across different cultures. It also integrates with Interdisciplinary Synthesis by considering the broader implications of ethical reasoning within various societal frameworks."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Ethical Reasoning",
+    "fs_path": "practical_wisdom/ethical_reasoning/subtopics.json",
+    "timestamp": "2025-02-21 09:39:27"
+  }
+}

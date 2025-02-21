@@ -1,0 +1,31 @@
+{
+  "name": "Epistemological Bases",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Sources of Knowledge",
+      "description": "This subtopic explores the various sources from which knowledge can be derived, including sensory experience, reason, intuition, and social learning. It examines how these sources contribute to our understanding of the world and how they are validated within the framework of epistemology. This is crucial for understanding how knowledge is acquired and how it relates to the fundamental questions of epistemology (Level 0)."
+    },
+    {
+      "name": "Validation Methods",
+      "description": "This subtopic delves into the methods used to validate knowledge claims. It includes discussions on empirical evidence, logical reasoning, and other criteria for determining the truth or reliability of knowledge. It is essential for understanding how knowledge is validated and how this process fits into the broader context of cognitive science (Level 1) and philosophy of science (Level 1)."
+    },
+    {
+      "name": "Limits of Knowledge",
+      "description": "This subtopic examines the boundaries and limitations of human knowledge. It considers issues like skepticism, uncertainty, and the problem of induction, which are fundamental to understanding the nature and scope of knowledge. This subtopic is deeply rooted in ontology (Level 0) as it questions what can be known about reality."
+    },
+    {
+      "name": "Knowledge Types",
+      "description": "This subtopic categorizes different types of knowledge, such as a priori and a posteriori knowledge, propositional and non-propositional knowledge, and tacit and explicit knowledge. It helps in understanding how various forms of knowledge relate to each other and how they are structured within the framework of epistemology (Level 0)."
+    },
+    {
+      "name": "Contextual Factors",
+      "description": "This subtopic investigates how contextual factors influence our understanding and acquisition of knowledge. It includes considerations such as cultural background, historical period, and social context, which are essential for understanding how practical wisdom (Level 1) integrates theoretical understanding with real-world applications."
+    }
+  ],
+  "metadata": {
+    "full_path": "Philosophy of Science/Foundations of Scientific Inquiry/Epistemological Bases",
+    "fs_path": "philosophy_of_science/foundations_of_scientific_inquiry/epistemological_bases/subtopics.json",
+    "timestamp": "2025-02-21 09:50:27"
+  }
+}

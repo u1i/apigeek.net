@@ -1,0 +1,31 @@
+{
+  "name": "Moral Principles",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Ethical Theories",
+      "description": "Ethical theories provide foundational frameworks for understanding moral principles. These include deontological, consequentialist, and virtue ethics, which help in evaluating the nature and justification of moral rules. This subtopic relates to Epistemology by examining how we justify and validate moral principles, and to Ontology by considering the existence and reality of moral obligations."
+    },
+    {
+      "name": "Moral Virtues",
+      "description": "Moral virtues are character traits that enable individuals to act in accordance with moral principles. This subtopic integrates with Cognitive Science by understanding how virtues are developed through learning and habituation, and with Practical Wisdom by applying these virtues in real-world contexts to make ethical decisions."
+    },
+    {
+      "name": "Duty and Obligation",
+      "description": "Duty and obligation are central concepts in moral principles, focusing on the responsibilities individuals have towards others. This subtopic intersects with Philosophy of Science by examining how scientific knowledge informs our understanding of moral duties, and with Interdisciplinary Synthesis by considering how different domains contribute to a comprehensive understanding of moral obligations."
+    },
+    {
+      "name": "Consequentialism vs. Deontology",
+      "description": "The debate between consequentialism and deontology is fundamental to understanding moral principles. Consequentialism evaluates actions based on their outcomes, while deontology focuses on the inherent rightness or wrongness of actions. This subtopic relates to Epistemology by questioning how we determine the best course of action, and to Ontology by considering what constitutes a morally good outcome."
+    },
+    {
+      "name": "Cultural and Historical Contexts",
+      "description": "Moral principles are often shaped by cultural and historical contexts. This subtopic integrates with Cognitive Science by understanding how cultural norms influence moral development, and with Practical Wisdom by recognizing that ethical decisions must be made within specific cultural and historical frameworks."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Ethical Reasoning/Moral Principles",
+    "fs_path": "practical_wisdom/ethical_reasoning/moral_principles/subtopics.json",
+    "timestamp": "2025-02-21 09:52:42"
+  }
+}

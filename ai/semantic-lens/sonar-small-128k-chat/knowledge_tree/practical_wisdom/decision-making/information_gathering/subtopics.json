@@ -1,0 +1,27 @@
+{
+  "name": "Information Gathering",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Data Collection",
+      "description": "The process of gathering raw data from various sources, which is essential for decision-making. This involves understanding the methods and tools used in data collection, such as surveys, interviews, and observational studies. It relates to Epistemology by addressing how we acquire knowledge and to Cognitive Science by examining how humans process and generate information."
+    },
+    {
+      "name": "Information Sources",
+      "description": "The identification and evaluation of reliable sources of information. This includes understanding the credibility of sources, recognizing biases, and assessing the relevance of information. It ties into Ontology by exploring the nature of being and reality in terms of information existence and to Philosophy of Science by examining the foundations of scientific inquiry."
+    },
+    {
+      "name": "Information Processing",
+      "description": "The methods and techniques used to organize, analyze, and interpret collected data. This involves understanding algorithms, statistical analysis, and data visualization. It connects to Cognitive Science by studying how humans process information and to Practical Wisdom by applying theoretical understanding to real-world contexts."
+    },
+    {
+      "name": "Information Storage and Retrieval",
+      "description": "The management and retrieval of gathered information, including databases, libraries, and digital storage systems. This subtopic relates to Epistemology by addressing how we validate and understand knowledge and to Interdisciplinary Synthesis by highlighting the interconnectedness of all knowledge systems."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Decision-Making/Information Gathering",
+    "fs_path": "practical_wisdom/decision-making/information_gathering/subtopics.json",
+    "timestamp": "2025-02-21 09:52:08"
+  }
+}

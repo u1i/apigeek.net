@@ -1,0 +1,31 @@
+{
+  "name": "Decision-Making Models",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Rational Choice Theory",
+      "description": "Rational Choice Theory is a subtopic within Decision-Making Models that focuses on making decisions based on logical reasoning and maximizing utility. It relates to Epistemology by examining how knowledge about preferences and outcomes influences decision-making processes. It also ties into Cognitive Science by understanding how humans process information to make rational choices."
+    },
+    {
+      "name": "Heuristics and Biases",
+      "description": "Heuristics and Biases explores how mental shortcuts and cognitive biases affect decision-making. This subtopic connects to Cognitive Science by studying how the mind shortcuts through complex information processing. It also intersects with Philosophy of Science by examining the limitations of human rationality in scientific inquiry."
+    },
+    {
+      "name": "Ethical Decision-Making",
+      "description": "Ethical Decision-Making involves integrating moral principles into the decision-making process. This subtopic aligns with Practical Wisdom by emphasizing the importance of ethical reasoning in real-world applications. It also relates to Ontology by considering the nature of ethical values and their impact on reality."
+    },
+    {
+      "name": "Group Decision-Making",
+      "description": "Group Decision-Making examines how collective processes influence individual and group decisions. This subtopic ties into Cognitive Science by understanding social cognition and group dynamics. It also intersects with Interdisciplinary Synthesis by highlighting the need for holistic approaches in managing complex group decision-making scenarios."
+    },
+    {
+      "name": "Dynamic Decision-Making",
+      "description": "Dynamic Decision-Making focuses on adapting decisions in response to changing circumstances. This subtopic connects to Philosophy of Science by understanding how scientific knowledge evolves over time and how it impacts dynamic decision-making processes. It also relates to Practical Wisdom by emphasizing adaptability in real-world contexts."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Ethical Reasoning/Decision-Making Models",
+    "fs_path": "practical_wisdom/ethical_reasoning/decision-making_models/subtopics.json",
+    "timestamp": "2025-02-21 09:52:32"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Problem-Solving Across Disciplinary Boundaries",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Problem-Solving Across Disciplinary Boundaries is a specific domain that exemplifies the practical application of knowledge in real-world contexts, as outlined in the Practical Wisdom category. It integrates theoretical understanding from various disciplines to address complex problems, aligning with the Interdisciplinary Synthesis process."
+    },
+    "key_concepts": [
+      {
+        "name": "Interdisciplinary Collaboration",
+        "explanation": "The practice of working together across different fields to leverage diverse perspectives and expertise."
+      },
+      {
+        "name": "Contextual Understanding",
+        "explanation": "Recognizing the unique context and constraints of each problem to tailor solutions effectively."
+      },
+      {
+        "name": "Holistic Approach",
+        "explanation": "Considering the interconnectedness of all knowledge domains to develop comprehensive solutions."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Transdisciplinary Integration",
+        "description": "Combining insights from multiple disciplines to create novel solutions that transcend traditional boundaries."
+      },
+      {
+        "name": "Adaptive Problem-Solving",
+        "description": "Using flexible methodologies to adjust to changing conditions and new information during the problem-solving process."
+      },
+      {
+        "name": "Ethical Considerations",
+        "description": "Incorporating ethical principles to ensure that solutions are not only effective but also morally sound."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Interdisciplinary Synthesis",
+        "connection": "Problem-Solving Across Disciplinary Boundaries relies heavily on integrating knowledge from various domains, exemplifying the holistic approach encouraged by Interdisciplinary Synthesis."
+      },
+      {
+        "aspect": "Practical Wisdom",
+        "connection": "This domain applies theoretical knowledge in real-world contexts, aligning with the practical application of wisdom as defined in Practical Wisdom."
+      },
+      {
+        "aspect": "Cognitive Science",
+        "connection": "Understanding human cognition and intelligence is crucial for effective problem-solving across disciplinary boundaries, as Cognitive Science provides insights into how humans process and generate knowledge."
+      }
+    ],
+    "implications": [
+      {
+        "description": "Problem-Solving Across Disciplinary Boundaries highlights the importance of integrating knowledge from multiple domains to address complex problems. This approach encourages a more comprehensive understanding of reality and fosters innovation by leveraging diverse perspectives."
+      },
+      {
+        "description": "By emphasizing contextual understanding and adaptive problem-solving, this domain promotes flexible and effective solutions that can be applied in various real-world contexts."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Interdisciplinary Synthesis/Practical Wisdom in Interdisciplinary Applications/Problem-Solving Across Disciplinary Boundaries",
+    "fs_path": "interdisciplinary_synthesis/practical_wisdom_in_interdisciplinary_applications/problem-solving_across_disciplinary_boundaries/content.json",
+    "timestamp": "2025-02-21 10:01:42"
+  }
+}

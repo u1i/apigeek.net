@@ -1,0 +1,27 @@
+{
+  "name": "Substance Identity",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Essentialism vs. Nominalism",
+      "description": "This subtopic explores the debate between essentialism, which posits that substances have inherent properties that define their identity, and nominalism, which argues that substance identity is merely a matter of labeling. This discussion is rooted in ontology and epistemology, as it delves into the nature of being and how we understand it."
+    },
+    {
+      "name": "Criteria for Identity",
+      "description": "This subtopic examines the criteria used to determine whether two substances are identical. It involves discussions on material constitution, persistence through change, and other factors that contribute to our understanding of substance identity. This is deeply connected to ontology as it pertains to the fundamental nature of existence."
+    },
+    {
+      "name": "Temporal and Spatial Continuity",
+      "description": "This subtopic investigates how substances maintain their identity over time and space. It considers issues like personal identity, where an individual's identity is preserved despite changes in their physical form or location. This is an application of ontological principles to real-world scenarios, integrating practical wisdom with theoretical understanding."
+    },
+    {
+      "name": "Interdisciplinary Implications",
+      "description": "This subtopic explores how substance identity intersects with other domains of knowledge. For instance, in cognitive science, understanding how we perceive and categorize substances informs our grasp of substance identity. In philosophy of science, the methods used to study substances can influence our criteria for determining their identity."
+    }
+  ],
+  "metadata": {
+    "full_path": "Ontology/Substance/Substance Identity",
+    "fs_path": "ontology/substance/substance_identity/subtopics.json",
+    "timestamp": "2025-02-21 09:50:12"
+  }
+}

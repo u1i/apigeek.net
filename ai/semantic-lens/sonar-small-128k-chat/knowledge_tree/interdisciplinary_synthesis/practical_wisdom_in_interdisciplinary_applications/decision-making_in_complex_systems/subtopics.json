@@ -1,0 +1,27 @@
+{
+  "name": "Decision-Making in Complex Systems",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Cognitive Biases and Heuristics",
+      "description": "This subtopic explores how cognitive biases and heuristics influence decision-making in complex systems. It draws from Cognitive Science to understand how mental shortcuts and biases can lead to suboptimal decisions, and from Epistemology to examine the limits of human rationality. Practical Wisdom is applied by recognizing these biases and developing strategies to mitigate their impact."
+    },
+    {
+      "name": "System Dynamics and Feedback Loops",
+      "description": "This subtopic delves into the dynamics of complex systems, including feedback loops and nonlinear interactions. It integrates insights from Philosophy of Science to understand the nature of scientific inquiry in complex systems and from Ontology to analyze the existence and reality of these dynamic structures. Practical Wisdom is demonstrated by recognizing the emergent properties of these systems and making decisions that account for long-term consequences."
+    },
+    {
+      "name": "Ethical Considerations and Stakeholder Analysis",
+      "description": "This subtopic focuses on the ethical dimensions of decision-making in complex systems. It draws from Practical Wisdom to integrate theoretical understanding with practical experience, considering multiple stakeholders and their interests. It also engages with Epistemology to question the sources and limits of knowledge in ethical decision-making, ensuring that decisions are informed by a comprehensive understanding of the system's dynamics."
+    },
+    {
+      "name": "Interdisciplinary Collaboration and Communication",
+      "description": "This subtopic emphasizes the importance of interdisciplinary collaboration and effective communication in navigating complex systems. It leverages Interdisciplinary Synthesis by integrating knowledge from various domains\u2014such as Cognitive Science, Philosophy of Science, and Ontology\u2014to foster a holistic understanding. Practical Wisdom is applied by facilitating cross-disciplinary dialogue and ensuring that all stakeholders contribute their expertise towards informed decision-making."
+    }
+  ],
+  "metadata": {
+    "full_path": "Interdisciplinary Synthesis/Practical Wisdom in Interdisciplinary Applications/Decision-Making in Complex Systems",
+    "fs_path": "interdisciplinary_synthesis/practical_wisdom_in_interdisciplinary_applications/decision-making_in_complex_systems/subtopics.json",
+    "timestamp": "2025-02-21 09:48:19"
+  }
+}

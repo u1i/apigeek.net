@@ -1,0 +1,31 @@
+{
+  "name": "Spatial Configuration",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Topological Relations",
+      "description": "The study of how objects are connected and arranged in space, including concepts like adjacency, proximity, and containment. This subtopic relates to ontology by examining the fundamental relationships between entities in existence, which is essential for understanding spatial configurations. It also ties into cognitive science by considering how humans perceive and understand these relationships."
+    },
+    {
+      "name": "Geometric Properties",
+      "description": "The examination of the intrinsic properties of shapes and spaces, such as dimensions, angles, and distances. This subtopic is crucial for ontology as it defines the structural aspects of reality. It also intersects with philosophy of science by providing a mathematical framework for describing spatial configurations, which is fundamental to many scientific disciplines."
+    },
+    {
+      "name": "Spatial Hierarchy",
+      "description": "The organization of spaces into hierarchical structures, including concepts like scale, scope, and nesting. This subtopic integrates with practical wisdom by considering how spatial configurations impact decision-making and problem-solving in real-world contexts. It also relates to interdisciplinary synthesis by recognizing that spatial hierarchies are often used across various domains to understand complex systems."
+    },
+    {
+      "name": "Temporal Dynamics",
+      "description": "The study of how spatial configurations change over time, including concepts like movement, transformation, and evolution. This subtopic ties into epistemology by questioning how we perceive and understand dynamic spatial relationships. It also intersects with cognitive science by examining how humans process temporal changes in spatial configurations."
+    },
+    {
+      "name": "Cultural Significance",
+      "description": "The examination of how spatial configurations are perceived and interpreted within different cultural contexts. This subtopic integrates with practical wisdom by recognizing that spatial meanings can vary significantly across cultures, influencing decision-making and problem-solving. It also relates to interdisciplinary synthesis by highlighting the importance of cultural perspectives in understanding spatial configurations comprehensively."
+    }
+  ],
+  "metadata": {
+    "full_path": "Ontology/Existence/Spatial Configuration",
+    "fs_path": "ontology/existence/spatial_configuration/subtopics.json",
+    "timestamp": "2025-02-21 09:49:06"
+  }
+}

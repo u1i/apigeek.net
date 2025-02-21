@@ -1,0 +1,27 @@
+{
+  "name": "Substantial Change",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Essentialism vs. Nominalism",
+      "description": "This subtopic explores the debate between essentialism, which posits that objects have an inherent nature or essence, and nominalism, which argues that objects are merely labeled by their properties. It relates to ontology by examining how substantial change affects our understanding of being and reality. It also ties into epistemology by questioning how we validate and understand these changes."
+    },
+    {
+      "name": "Material vs. Formal Change",
+      "description": "This subtopic distinguishes between material change, which involves a change in the physical properties of an object, and formal change, which involves a change in the form or structure of an object. It is crucial for ontology as it helps define what constitutes substantial change in terms of existence and reality. It also intersects with cognitive science by considering how humans perceive and categorize these changes."
+    },
+    {
+      "name": "Causal Analysis",
+      "description": "This subtopic delves into the causal mechanisms behind substantial change. It examines the relationships between causes and effects, which is essential for understanding the dynamics of change within ontology. It also relates to philosophy of science by applying scientific methods to analyze these causal relationships."
+    },
+    {
+      "name": "Ethical Implications",
+      "description": "This subtopic explores the ethical dimensions of substantial change. It considers how changes affect individuals, communities, and the environment, integrating practical wisdom by applying ethical reasoning to real-world contexts. It also ties into interdisciplinary synthesis by highlighting the interconnectedness of substantial change with other domains like environmental science and social justice."
+    }
+  ],
+  "metadata": {
+    "full_path": "Ontology/Substance/Substantial Change",
+    "fs_path": "ontology/substance/substantial_change/subtopics.json",
+    "timestamp": "2025-02-21 09:50:17"
+  }
+}

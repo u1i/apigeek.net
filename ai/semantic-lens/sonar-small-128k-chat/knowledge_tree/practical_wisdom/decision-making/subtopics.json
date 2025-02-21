@@ -1,0 +1,31 @@
+{
+  "name": "Decision-Making",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Ethical Considerations",
+      "description": "Ethical considerations in decision-making involve evaluating the moral implications of choices. This subtopic integrates practical wisdom with ethical reasoning, ensuring that decisions align with personal and societal values. It relates to the higher levels by drawing from ontology (existence and reality) to understand the impact of decisions on individuals and society, and from epistemology (nature, sources, and limits of knowledge) to validate ethical principles."
+    },
+    {
+      "name": "Risk Assessment",
+      "description": "Risk assessment is a critical component of decision-making, involving the evaluation of potential outcomes and their likelihood. This subtopic leverages cognitive science (interdisciplinary study of the mind and intelligence) to understand how humans perceive and process risk information. It also intersects with philosophy of science (foundations, methods, and implications of scientific inquiry) to apply probabilistic models and statistical analysis."
+    },
+    {
+      "name": "Information Gathering",
+      "description": "Information gathering is essential for informed decision-making. This subtopic involves collecting relevant data from various sources and integrating it into a coherent framework. It aligns with cognitive science by examining how humans gather and process information, and with practical wisdom by ensuring that this information is applied effectively in real-world contexts."
+    },
+    {
+      "name": "Interdisciplinary Synthesis",
+      "description": "Interdisciplinary synthesis in decision-making involves integrating knowledge from multiple domains to form a comprehensive understanding. This subtopic highlights the interconnectedness of all knowledge, encouraging holistic approaches to complex problems. It draws from ontology to understand the multifaceted nature of reality and from epistemology to validate the integration process."
+    },
+    {
+      "name": "Contextual Understanding",
+      "description": "Contextual understanding is crucial for making decisions that are relevant and effective. This subtopic involves considering the broader context in which decisions are made, including cultural, social, and environmental factors. It relates to ontology by recognizing the dynamic nature of existence and reality, and to practical wisdom by ensuring that decisions are grounded in real-world experience."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Decision-Making",
+    "fs_path": "practical_wisdom/decision-making/subtopics.json",
+    "timestamp": "2025-02-21 09:39:22"
+  }
+}

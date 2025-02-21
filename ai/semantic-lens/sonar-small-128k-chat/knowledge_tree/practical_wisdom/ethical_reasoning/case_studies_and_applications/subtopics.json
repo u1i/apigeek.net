@@ -1,0 +1,31 @@
+{
+  "name": "Case Studies and Applications",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Ethical Decision-Making in Real-World Scenarios",
+      "description": "This subtopic involves applying ethical principles to real-world case studies. It integrates practical wisdom with ethical reasoning, demonstrating how theoretical knowledge is applied in concrete situations. This aligns with the practical wisdom domain by focusing on the application of knowledge in real-world contexts, while also reflecting the ethical reasoning aspect of Level 1's major components."
+    },
+    {
+      "name": "Problem-Solving Strategies in Complex Situations",
+      "description": "This subtopic explores various problem-solving strategies used in complex scenarios. It leverages cognitive science principles to understand how humans process and generate knowledge, particularly in situations requiring critical thinking and decision-making. This subtopic also reflects the interdisciplinary synthesis by integrating knowledge from cognitive science and practical wisdom to address real-world problems."
+    },
+    {
+      "name": "Historical and Cultural Contexts of Ethical Dilemmas",
+      "description": "This subtopic examines how historical and cultural contexts influence ethical dilemmas. It draws upon ontology by considering the nature of existence and reality, including how societal norms and values shape ethical considerations. This subtopic also aligns with the philosophy of science by recognizing that scientific inquiry can inform our understanding of cultural contexts, thereby enriching our practical wisdom."
+    },
+    {
+      "name": "Case Study Analysis and Evaluation Methods",
+      "description": "This subtopic focuses on methods for analyzing and evaluating case studies. It reflects the epistemological concerns about how we acquire and validate knowledge, particularly in the context of practical wisdom. By examining different methods for case study analysis, this subtopic underscores the importance of rigorous methodology in applying theoretical knowledge to real-world applications."
+    },
+    {
+      "name": "Best Practices in Ethical Decision-Making",
+      "description": "This subtopic identifies best practices in ethical decision-making through case studies. It integrates insights from philosophy of science by recognizing that scientific inquiry can provide evidence-based approaches to ethical decision-making. This subtopic also aligns with practical wisdom by emphasizing the importance of integrating theoretical understanding with practical experience to achieve ethical outcomes."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Ethical Reasoning/Case Studies and Applications",
+    "fs_path": "practical_wisdom/ethical_reasoning/case_studies_and_applications/subtopics.json",
+    "timestamp": "2025-02-21 09:52:22"
+  }
+}

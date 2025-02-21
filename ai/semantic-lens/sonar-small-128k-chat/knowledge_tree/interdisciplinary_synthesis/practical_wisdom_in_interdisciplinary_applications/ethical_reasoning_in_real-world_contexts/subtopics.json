@@ -1,0 +1,27 @@
+{
+  "name": "Ethical Reasoning in Real-World Contexts",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Principles of Ethical Decision-Making",
+      "description": "This subtopic explores the foundational principles that guide ethical reasoning, such as moral theories (e.g., consequentialism, deontology), virtues ethics, and principles like the Golden Rule. It relates to Epistemology by examining how these principles are derived and validated, and to Ontology by understanding the nature of moral facts and their place in reality."
+    },
+    {
+      "name": "Contextual Analysis",
+      "description": "This subtopic involves analyzing the specific real-world contexts in which ethical decisions are made. It considers factors like cultural norms, social justice, and environmental impact. It integrates with Cognitive Science by understanding how perception and attention influence ethical judgments, and with Philosophy of Science by recognizing the role of empirical data in informing ethical decisions."
+    },
+    {
+      "name": "Skill Development for Ethical Reasoning",
+      "description": "This subtopic focuses on developing practical skills necessary for ethical reasoning, such as critical thinking, empathy, and effective communication. It aligns with Practical Wisdom by emphasizing the application of knowledge in real-world scenarios and integrating theoretical understanding with practical experience."
+    },
+    {
+      "name": "Case Studies and Applications",
+      "description": "This subtopic involves examining real-world case studies to illustrate the application of ethical principles. It highlights the interconnectedness of all knowledge domains by showing how ethical reasoning intersects with other fields like law, business, healthcare, and education. It exemplifies Interdisciplinary Synthesis by integrating insights from multiple domains to form a comprehensive understanding."
+    }
+  ],
+  "metadata": {
+    "full_path": "Interdisciplinary Synthesis/Practical Wisdom in Interdisciplinary Applications/Ethical Reasoning in Real-World Contexts",
+    "fs_path": "interdisciplinary_synthesis/practical_wisdom_in_interdisciplinary_applications/ethical_reasoning_in_real-world_contexts/subtopics.json",
+    "timestamp": "2025-02-21 09:48:23"
+  }
+}

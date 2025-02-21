@@ -1,0 +1,27 @@
+{
+  "name": "Attention and Selectivity",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Selective Attention",
+      "description": "Selective attention refers to the ability to focus on specific stimuli while ignoring others. This concept is deeply rooted in cognitive science, particularly in the study of perception and attention. It highlights how the mind filters information to prioritize relevant data, aligning with the practical wisdom of decision-making and problem-solving. In the context of ontology, selective attention involves understanding the attributes and relations that define what is worthy of attention."
+    },
+    {
+      "name": "Divided Attention",
+      "description": "Divided attention involves the simultaneous processing of multiple stimuli. This phenomenon is crucial in cognitive science for understanding how the mind manages multiple tasks and prioritizes them. It also intersects with philosophy of science by examining the methods used in multitasking experiments, providing insights into the nature of scientific inquiry. From an epistemological perspective, divided attention raises questions about the limits of human cognitive capacity and how we validate our understanding under such conditions."
+    },
+    {
+      "name": "Attentional Control",
+      "description": "Attentional control refers to the mechanisms that regulate attentional processes. This subtopic is central to cognitive science as it explores how attention is controlled and modulated by various factors such as motivation, context, and prior knowledge. It also relates to practical wisdom by understanding how individuals can improve their ability to focus and make better decisions. Ontologically, attentional control involves examining the relations between cognitive processes and external stimuli."
+    },
+    {
+      "name": "Attentional Bias",
+      "description": "Attentional bias refers to the tendency for attention to be drawn towards certain stimuli over others due to prior experiences or expectations. This concept is significant in cognitive science for understanding how biases influence perception and decision-making. It intersects with philosophy of science by examining how biases affect experimental design and data interpretation. Epistemologically, attentional bias raises questions about the reliability of knowledge acquisition when influenced by preconceived notions."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science/Perception/Attention and Selectivity",
+    "fs_path": "cognitive_science/perception/attention_and_selectivity/subtopics.json",
+    "timestamp": "2025-02-21 09:44:00"
+  }
+}

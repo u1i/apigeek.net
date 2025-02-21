@@ -1,0 +1,27 @@
+{
+  "name": "Meta-Knowledge",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Epistemological Foundations",
+      "description": "The fundamental theories and principles about the nature of knowledge itself, examining how we can know what we know and the limits of human understanding. This connects to the core framework by establishing the philosophical basis for all other knowledge domains."
+    },
+    {
+      "name": "Knowledge Acquisition Systems",
+      "description": "The methods, processes, and mechanisms through which knowledge is gained, validated, and integrated into existing understanding. This bridges empirical observation with conceptual frameworks by studying how we learn and develop knowledge structures."
+    },
+    {
+      "name": "Knowledge Organization Theory",
+      "description": "Frameworks and principles for structuring, categorizing, and relating different types of knowledge. This meta-level analysis examines how we create meaningful relationships between different domains of understanding."
+    },
+    {
+      "name": "Knowledge Validation Methods",
+      "description": "Systems for testing, verifying, and establishing the reliability of knowledge claims across different domains. This connects empirical understanding with practical application by examining how we determine what constitutes valid knowledge."
+    }
+  ],
+  "metadata": {
+    "full_path": "Meta-Knowledge",
+    "fs_path": "meta-knowledge/subtopics.json",
+    "timestamp": "2025-02-21 11:33:20"
+  }
+}

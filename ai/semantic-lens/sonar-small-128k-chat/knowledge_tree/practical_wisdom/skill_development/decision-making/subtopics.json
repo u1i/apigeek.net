@@ -1,0 +1,31 @@
+{
+  "name": "Decision-Making",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Ethical Considerations",
+      "description": "Ethical considerations in decision-making involve evaluating the moral implications of choices. This subtopic aligns with the Practical Wisdom domain by integrating theoretical understanding with practical experience, ensuring that decisions are not only effective but also ethical. It relates to Epistemology by questioning the sources and limits of moral knowledge and to Ontology by examining the nature of ethical reality."
+    },
+    {
+      "name": "Risk Assessment",
+      "description": "Risk assessment is a critical component of decision-making, involving the evaluation of potential outcomes and their probabilities. This subtopic falls under Cognitive Science as it involves complex mental processes like perception, attention, and memory. It also relates to Philosophy of Science by applying scientific methods to quantify risks and predict outcomes."
+    },
+    {
+      "name": "Information Gathering",
+      "description": "Information gathering is essential for informed decision-making. This subtopic intersects with Cognitive Science as it involves perception, attention, and memory in processing data. It also aligns with Epistemology by examining how knowledge is acquired and validated through various sources."
+    },
+    {
+      "name": "Interpersonal Dynamics",
+      "description": "Interpersonal dynamics in decision-making involve understanding how individuals interact and influence each other's choices. This subtopic integrates with Practical Wisdom by focusing on real-world applications of knowledge in group settings. It also relates to Ontology by exploring the nature of social relationships and their impact on decision processes."
+    },
+    {
+      "name": "Contextual Analysis",
+      "description": "Contextual analysis involves considering the broader environment in which decisions are made. This subtopic aligns with Interdisciplinary Synthesis by integrating knowledge from multiple domains such as sociology, psychology, and economics to form a comprehensive understanding of decision contexts."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Skill Development/Decision-Making",
+    "fs_path": "practical_wisdom/skill_development/decision-making/subtopics.json",
+    "timestamp": "2025-02-21 09:53:32"
+  }
+}

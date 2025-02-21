@@ -1,0 +1,31 @@
+{
+  "name": "Ethical Reasoning",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Moral Theories",
+      "description": "Encompasses various frameworks like utilitarianism, deontology, and virtue ethics, providing structured approaches to determine right and wrong actions. These theories offer rational analyses of ethical dilemmas, guiding decision-making based on principles and consequences, and are tested against empirical observations of human behavior and societal outcomes."
+    },
+    {
+      "name": "Applied Ethics",
+      "description": "Focuses on applying ethical principles to specific domains such as medicine (bioethics), business (business ethics), and the environment (environmental ethics). It bridges abstract ethical reasoning with concrete situations, requiring consideration of historical context and potential creative solutions to complex moral problems."
+    },
+    {
+      "name": "Meta-ethics",
+      "description": "Explores the fundamental nature of ethical judgments, investigating questions about the meaning of moral terms, the objectivity of moral values, and the justification of ethical beliefs. It provides a deeper rational analysis of the foundations of ethical reasoning itself, questioning the basis of our moral observations and intuitions."
+    },
+    {
+      "name": "Moral Psychology",
+      "description": "Examines the psychological processes underlying moral judgment and behavior, drawing on empirical observation and rational analysis to understand how individuals develop moral values, make ethical decisions, and respond to moral dilemmas. It connects ethical reasoning to the realities of human cognition and emotion, informing our understanding of ethical development within a historical and cultural context."
+    },
+    {
+      "name": "Social Justice",
+      "description": "Addresses ethical issues related to fairness, equality, and the distribution of resources within society. It involves ethical reasoning about the structures and systems that perpetuate inequality, requiring historical context to understand the roots of injustice and creative expression to envision more equitable futures. It also demands empirical observation to assess the impact of policies and interventions aimed at promoting social justice."
+    }
+  ],
+  "metadata": {
+    "full_path": "Ethical Reasoning",
+    "fs_path": "ethical_reasoning/subtopics.json",
+    "timestamp": "2025-02-21 11:27:34"
+  }
+}

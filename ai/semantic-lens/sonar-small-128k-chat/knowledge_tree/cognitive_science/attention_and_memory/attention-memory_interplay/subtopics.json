@@ -1,0 +1,31 @@
+{
+  "name": "Attention-Memory Interplay",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Attentional Control",
+      "description": "The mechanisms by which attention is selectively directed towards relevant stimuli, influencing what information is processed and stored in memory. This subtopic relates to Cognitive Science (Level 2) as it explores how the mind processes information, aligning with the study of perception and problem-solving. It also ties into Epistemology (Level 0) as it addresses how we acquire and validate knowledge through selective attention."
+    },
+    {
+      "name": "Memory Encoding",
+      "description": "The processes involved in converting sensory information into a form that can be stored in memory, often influenced by attentional focus. This subtopic is integral to Cognitive Science (Level 2) as it examines how humans generate and store knowledge. It also intersects with Ontology (Level 0) by considering the nature of being and existence through the lens of information storage."
+    },
+    {
+      "name": "Retrieval Dynamics",
+      "description": "The mechanisms governing the recall of stored information, often influenced by past attentional states. This subtopic is crucial to Cognitive Science (Level 2) as it delves into how humans process and retrieve knowledge. It also resonates with Philosophy of Science (Level 0) by examining the foundations of scientific inquiry through the lens of cognitive processes."
+    },
+    {
+      "name": "Attentional Load",
+      "description": "The impact of divided or shared attention on memory performance, highlighting trade-offs between processing multiple stimuli simultaneously versus focusing on a single task. This subtopic is significant within Cognitive Science (Level 2) as it investigates how the mind handles multiple tasks, aligning with the study of problem-solving and learning. It also touches upon Practical Wisdom (Level 0) by considering real-world implications for decision-making under varying attentional conditions."
+    },
+    {
+      "name": "Neural Correlates",
+      "description": "The neural mechanisms underlying attention-memory interplay, including brain regions and networks involved in these processes. This subtopic is essential to Cognitive Science (Level 2) as it seeks to understand the biological basis of cognitive functions. It also intersects with Interdisciplinary Synthesis (Level 0) by integrating knowledge from neuroscience, psychology, and philosophy to form a comprehensive understanding."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science/Attention and Memory/Attention-Memory Interplay",
+    "fs_path": "cognitive_science/attention_and_memory/attention-memory_interplay/subtopics.json",
+    "timestamp": "2025-02-21 09:42:50"
+  }
+}

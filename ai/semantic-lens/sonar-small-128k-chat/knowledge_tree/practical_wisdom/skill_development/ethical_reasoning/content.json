@@ -1,0 +1,61 @@
+{
+  "name": "Ethical Reasoning",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Ethical Reasoning is a specific domain within the broader framework of Practical Wisdom. It focuses on the application of knowledge in real-world contexts, particularly in decision-making and problem-solving, while integrating theoretical understanding with practical experience. This domain is crucial for understanding how humans apply knowledge ethically in various situations."
+    },
+    "key_concepts": [
+      {
+        "name": "Moral Principles",
+        "description": "Core ethical guidelines that serve as the foundation for ethical decision-making. These principles help individuals determine right from wrong and guide their actions."
+      },
+      {
+        "name": "Consequentialism",
+        "description": "An ethical theory that suggests the morality of an action should be determined by its consequences. This concept is essential in evaluating the outcomes of ethical decisions."
+      },
+      {
+        "name": "Deontology",
+        "description": "An ethical theory that emphasizes the importance of duties and rules rather than consequences. This concept highlights the importance of adhering to moral obligations regardless of outcomes."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Utilitarianism",
+        "description": "A principle that aims to maximize overall happiness or well-being. It is a key principle in consequentialist ethics, guiding decisions towards actions that benefit the greatest number of people."
+      },
+      {
+        "name": "Respect for Autonomy",
+        "description": "A principle that emphasizes the importance of respecting individuals' rights and freedoms. This principle is fundamental in deontological ethics, ensuring that individuals are treated with dignity and respect."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Epistemology",
+        "connection": "Ethical Reasoning relies on epistemological questions about knowledge acquisition and validation. Understanding how we know what is right or wrong is crucial for making informed ethical decisions."
+      },
+      {
+        "aspect": "Ontology",
+        "connection": "Ethical Reasoning involves ontological questions about the nature of reality and being. For instance, understanding the concept of personhood can influence how we treat individuals ethically."
+      },
+      {
+        "aspect": "Cognitive Science",
+        "connection": "Ethical Reasoning is influenced by cognitive science's understanding of human perception, attention, memory, language, problem-solving, and learning. These cognitive processes shape our ability to reason ethically."
+      },
+      {
+        "aspect": "Philosophy of Science",
+        "connection": "Ethical Reasoning intersects with philosophy of science in evaluating the ethical implications of scientific discoveries and methods. This intersection ensures that scientific advancements are aligned with ethical standards."
+      }
+    ],
+    "implications": [
+      {
+        "description": "Ethical Reasoning has significant implications for knowledge organization by highlighting the importance of integrating theoretical understanding with practical experience. It underscores the need for holistic approaches to complex problems, emphasizing that ethical considerations should be woven into all aspects of knowledge application."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Practical Wisdom/Skill Development/Ethical Reasoning",
+    "fs_path": "practical_wisdom/skill_development/ethical_reasoning/content.json",
+    "timestamp": "2025-02-21 10:08:02"
+  }
+}

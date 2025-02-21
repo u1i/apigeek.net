@@ -1,0 +1,61 @@
+{
+  "name": "Ethical Reasoning",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Ethical Reasoning is a fundamental aspect of Practical Wisdom, which integrates theoretical understanding with practical experience. It is deeply rooted in Epistemology, as it involves the validation and application of knowledge in real-world contexts. Ethical Reasoning also intersects with Ontology by examining the nature of being and existence in ethical dilemmas. Additionally, it leverages insights from Cognitive Science to understand how humans process and generate ethical decisions."
+    },
+    "key_concepts": [
+      {
+        "name": "Moral Principles",
+        "explanation": "Core ethical guidelines that serve as the foundation for ethical decision-making, such as justice, fairness, and respect for autonomy."
+      },
+      {
+        "name": "Consequentialism vs. Deontology",
+        "explanation": "Two major ethical theories: consequentialism focuses on outcomes, while deontology emphasizes adherence to rules and duties."
+      },
+      {
+        "name": "Virtue Ethics",
+        "explanation": "An approach that emphasizes the development of character traits and virtues rather than adherence to specific rules or outcomes."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Principle of Non-Maleficence",
+        "description": "The principle of doing no harm, which is a fundamental ethical principle in many healthcare and professional ethics frameworks."
+      },
+      {
+        "name": "Principle of Autonomy",
+        "description": "The principle of respecting individuals' rights to make their own decisions, which is crucial in medical ethics and personal freedoms."
+      },
+      {
+        "name": "Principle of Beneficence",
+        "description": "The principle of doing good and promoting the well-being of others, which is essential in many professional ethics contexts."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Interdisciplinary Synthesis",
+        "connection": "Ethical Reasoning integrates insights from multiple domains, including Epistemology, Ontology, Cognitive Science, and Philosophy of Science. It synthesizes theoretical knowledge with practical experience to provide a comprehensive understanding of ethical decision-making."
+      },
+      {
+        "aspect": "Practical Wisdom",
+        "connection": "Ethical Reasoning is a key component of Practical Wisdom, as it focuses on applying knowledge in real-world contexts to make informed ethical decisions."
+      },
+      {
+        "aspect": "Philosophy of Science",
+        "connection": "Ethical Reasoning intersects with Philosophy of Science by examining the scientific method's implications on ethical inquiry and decision-making processes."
+      }
+    ],
+    "implications": [
+      {
+        "description": "Ethical Reasoning has broader implications for knowledge organization by highlighting the importance of integrating theoretical understanding with practical experience. It underscores the need for holistic approaches to complex problems, emphasizing the interconnectedness of all knowledge domains."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Practical Wisdom/Ethical Reasoning",
+    "fs_path": "practical_wisdom/ethical_reasoning/content.json",
+    "timestamp": "2025-02-21 09:42:22"
+  }
+}

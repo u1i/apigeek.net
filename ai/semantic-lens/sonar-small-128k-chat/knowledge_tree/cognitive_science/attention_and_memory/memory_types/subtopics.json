@@ -1,0 +1,27 @@
+{
+  "name": "Memory Types",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Episodic Memory",
+      "description": "Episodic memory involves the recollection of specific events or experiences. It is closely tied to cognitive science as it pertains to how the brain processes and stores information about past events. This type of memory is essential for understanding the nature of personal experiences and how they shape our understanding of reality (ontology)."
+    },
+    {
+      "name": "Semantic Memory",
+      "description": "Semantic memory encompasses general knowledge about the world, including facts and concepts. It is integral to philosophy of science as it relates to how scientific knowledge is stored and retrieved. This type of memory highlights the practical application of knowledge (practical wisdom) by providing a framework for decision-making and problem-solving."
+    },
+    {
+      "name": "Procedural Memory",
+      "description": "Procedural memory involves the retention of skills and habits. It is crucial for cognitive science as it explains how humans learn and perform tasks. This type of memory also intersects with practical wisdom by enabling individuals to apply their knowledge in real-world contexts."
+    },
+    {
+      "name": "Working Memory",
+      "description": "Working memory is a temporary storage system that holds information for a short period. It is fundamental to cognitive science as it explains how humans process and manipulate information in real-time. This type of memory is essential for integrating knowledge from multiple domains (interdisciplinary synthesis) by allowing individuals to temporarily hold and manipulate information from various sources."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science/Attention and Memory/Memory Types",
+    "fs_path": "cognitive_science/attention_and_memory/memory_types/subtopics.json",
+    "timestamp": "2025-02-21 09:42:55"
+  }
+}

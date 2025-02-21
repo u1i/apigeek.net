@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relation - Knowledge Map</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --primary-hover: #1d4ed8;
+            --heading-color: #1e293b;
+            --text-color: #334155;
+            --link-color: #2563eb;
+            --link-hover: #1d4ed8;
+            --bg-subtle: #f8fafc;
+            --border-color: #e2e8f0;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            color: var(--text-color);
+            line-height: 1.6;
+            padding-top: 1.5rem;
+            background-color: var(--bg-subtle);
+        }
+        
+        .container {
+            max-width: 1000px;
+            background: white;
+            padding: 2rem;
+            border-radius: 1rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Merriweather', serif;
+            color: var(--heading-color);
+            font-weight: 700;
+            line-height: 1.3;
+        }
+        
+        h1 {
+            font-size: 2.25rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+        
+        h2 {
+            font-size: 1.75rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        h3 {
+            font-size: 1.25rem;
+            margin-top: 1.5rem;
+            color: var(--heading-color);
+        }
+        
+        p {
+            margin-bottom: 1rem;
+        }
+        
+        a {
+            color: var(--link-color);
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        
+        a:hover {
+            color: var(--link-hover);
+            text-decoration: underline;
+        }
+        
+        .breadcrumb {
+            background-color: var(--bg-subtle);
+            padding: 0.75rem 1rem;
+            border-radius: 0.5rem;
+            margin-bottom: 1.5rem;
+            font-size: 0.875rem;
+        }
+        
+        .breadcrumb-item + .breadcrumb-item::before {
+            content: "→";
+            color: var(--text-color);
+        }
+        
+        .card {
+            border: 1px solid var(--border-color);
+            border-radius: 0.75rem;
+            transition: all 0.2s;
+            background: white;
+        }
+        
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-color: var(--primary-color);
+        }
+        
+        .card-body {
+            padding: 1.25rem;
+        }
+        
+        .card-title {
+            font-size: 1.1rem;
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .card-text {
+            font-size: 0.875rem;
+            color: var(--text-color);
+            margin-bottom: 0;
+        }
+        
+        .content {
+            background: white;
+            padding: 1rem 0;
+            margin-bottom: 2rem;
+        }
+        
+        .two-column-layout {
+            display: grid;
+            grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+            gap: 2rem;
+            align-items: start;
+        }
+
+        .main-content {
+            min-width: 0;
+        }
+
+        .sidebar {
+            padding-top: 0;
+        }
+
+        .topics-grid {
+            display: grid;
+            gap: 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .two-column-layout {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                position: static;
+                margin-top: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/index.html">Home</a></li> <li class="breadcrumb-item"><a href="/ontology/index.html">Ontology</a></li> <li class="breadcrumb-item active" aria-current="page">Relation</li>
+            </ol>
+        </nav>
+        
+        <div class="two-column-layout">
+            <main class="main-content">
+                <h1 class="mb-4">Relation</h1>
+                <div class="content">
+                    <h2>Key Concepts</h2>
+<h3>Substance</h3>
+<p>The underlying entity or thing that exists independently, serving as the foundation for understanding relations.</p>
+<h3>Attribute</h3>
+<p>Properties or characteristics that describe substances, providing additional context to relations.</p>
+<h3>Relation</h3>
+<p>The connection or interaction between substances or attributes, forming the core of Ontology's study.</p>
+                </div>
+            </main>
+            <aside class="sidebar">
+                <h1 class='mb-4'>Topics</h1>
+<div class='topics-grid'>
+
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/ontology/relation/functional_relations/index.html">Functional Relations</a></h5>
+                        <p class='card-text'>Functional relations describe the roles or functions that entities play within a system or context. This includes concepts like causation, dependency, and interaction. Functional relations are pivotal in Cognitive Science as they help explain how the mind processes information and generates knowledge. They also have significant implications for Practical Wisdom by informing decision-making processes.</p>
+                    </div>
+                </div>
+                
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/ontology/relation/spatial_relations/index.html">Spatial Relations</a></h5>
+                        <p class='card-text'>Spatial relations pertain to the spatial arrangement and organization of entities. These relations are fundamental in Cognitive Science as they underlie perception and spatial reasoning. Spatial relations also have practical implications for navigation, architecture, and urban planning, making them relevant to Practical Wisdom.</p>
+                    </div>
+                </div>
+                
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/ontology/relation/substantive_relations/index.html">Substantive Relations</a></h5>
+                        <p class='card-text'>Substantive relations refer to the inherent connections between entities, such as causality, similarity, and identity. These relations are fundamental to understanding the structure of reality and are essential for constructing ontological frameworks. They are deeply rooted in the study of existence and reality (Ontology) and play a crucial role in validating knowledge claims (Epistemology).</p>
+                    </div>
+                </div>
+                
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/ontology/relation/temporal_relations/index.html">Temporal Relations</a></h5>
+                        <p class='card-text'>Temporal relations concern the ordering of events or states in time. Understanding temporal relations is essential for constructing coherent narratives and predicting future outcomes. This aspect of relations intersects with Philosophy of Science by influencing the methodology of scientific inquiry and the interpretation of data over time.</p>
+                    </div>
+                </div>
+                </div>
+            </aside>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

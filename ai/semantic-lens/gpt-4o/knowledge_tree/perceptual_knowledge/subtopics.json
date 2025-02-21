@@ -1,0 +1,31 @@
+{
+  "name": "Perceptual Knowledge",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Sensory Modalities",
+      "description": "This subtopic explores the five primary senses (sight, hearing, touch, taste, and smell) and their role in providing raw data about the external world. It forms the foundation of perceptual knowledge by serving as the initial point of contact between humans and their environment, aligning with the framework's emphasis on direct sensory experience as the basis of all understanding."
+    },
+    {
+      "name": "Perceptual Integration",
+      "description": "This subtopic examines how sensory inputs are combined and processed to create a coherent representation of reality. It highlights the brain's ability to synthesize fragmented sensory data into unified perceptions, bridging the gap between raw sensory input and the structured understanding emphasized in conceptual knowledge."
+    },
+    {
+      "name": "Attention and Focus",
+      "description": "This subtopic addresses the selective nature of perception, exploring how attention determines which sensory inputs are prioritized and processed. It underscores the active role of cognition in shaping perceptual knowledge, linking it to the broader framework's emphasis on the interplay between perception and higher-order understanding."
+    },
+    {
+      "name": "Perceptual Limitations",
+      "description": "This subtopic investigates the constraints and biases inherent in human sensory systems, such as optical illusions or sensory thresholds. It reflects the framework's recognition of the limitations of direct experience and the need for reflective knowledge to critically evaluate and refine perceptual inputs."
+    },
+    {
+      "name": "Environmental Context",
+      "description": "This subtopic explores how the external environment influences perception, including factors like lighting, distance, and cultural context. It emphasizes the relational aspect of perceptual knowledge, showing how understanding arises from the interaction between sensory inputs and their situational context."
+    }
+  ],
+  "metadata": {
+    "full_path": "Perceptual Knowledge",
+    "fs_path": "perceptual_knowledge/subtopics.json",
+    "timestamp": "2025-02-21 11:36:20"
+  }
+}

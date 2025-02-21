@@ -1,0 +1,27 @@
+{
+  "name": "Cultural Meaning",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Symbolic Systems",
+      "description": "The frameworks of representation through which cultures encode and transmit meaning, including language, art, ritual, and symbol systems that form the basis of shared understanding and interpretation"
+    },
+    {
+      "name": "Social Structures",
+      "description": "The organizational patterns and institutions through which cultural knowledge is preserved and transmitted, including traditions, customs, and hierarchies that shape how meaning is distributed and maintained"
+    },
+    {
+      "name": "Value Systems",
+      "description": "The core beliefs, ethics, and priorities that guide cultural interpretation and decision-making, providing the evaluative framework through which knowledge gains significance and purpose"
+    },
+    {
+      "name": "Narrative Traditions",
+      "description": "The stories, myths, and historical accounts through which cultures make sense of experience and transmit wisdom across generations, creating coherent frameworks of meaning and identity"
+    }
+  ],
+  "metadata": {
+    "full_path": "Cultural Meaning",
+    "fs_path": "cultural_meaning/subtopics.json",
+    "timestamp": "2025-02-21 11:33:11"
+  }
+}

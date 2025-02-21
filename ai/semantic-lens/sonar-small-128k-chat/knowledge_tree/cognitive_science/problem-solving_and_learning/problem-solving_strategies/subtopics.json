@@ -1,0 +1,31 @@
+{
+  "name": "Problem-Solving Strategies",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Heuristics",
+      "description": "Heuristics are mental shortcuts or rules of thumb that help in making decisions or solving problems more efficiently. This subtopic relates to Cognitive Science by examining how the mind processes information and generates solutions. It also ties into Epistemology by understanding the limits and biases of these mental shortcuts, which are essential for validating knowledge."
+    },
+    {
+      "name": "Algorithmic Approaches",
+      "description": "Algorithmic approaches involve systematic methods for solving problems, often relying on logical steps and rules. This subtopic aligns with Cognitive Science by studying how the brain processes and applies algorithms. It also intersects with Philosophy of Science by considering the scientific method's application in problem-solving, highlighting the importance of empirical evidence and reproducibility."
+    },
+    {
+      "name": "Creative Problem-Solving",
+      "description": "Creative problem-solving involves generating novel solutions through divergent thinking and imagination. This subtopic connects to Cognitive Science by exploring the neural mechanisms behind creative thinking. It also relates to Practical Wisdom by emphasizing the application of creative solutions in real-world contexts, integrating theoretical understanding with practical experience."
+    },
+    {
+      "name": "Decision-Making Models",
+      "description": "Decision-making models provide frameworks for evaluating options and making choices under uncertainty. This subtopic ties into Cognitive Science by examining how decision-making processes are influenced by cognitive biases and heuristics. It also intersects with Practical Wisdom by focusing on the ethical implications of decision-making models, ensuring that they align with moral principles."
+    },
+    {
+      "name": "Collaborative Problem-Solving",
+      "description": "Collaborative problem-solving involves working with others to find solutions, leveraging diverse perspectives and expertise. This subtopic relates to Cognitive Science by studying how social cognition influences group dynamics and collective intelligence. It also ties into Interdisciplinary Synthesis by highlighting the importance of integrating knowledge from multiple domains to achieve comprehensive solutions."
+    }
+  ],
+  "metadata": {
+    "full_path": "Cognitive Science/Problem-Solving and Learning/Problem-Solving Strategies",
+    "fs_path": "cognitive_science/problem-solving_and_learning/problem-solving_strategies/subtopics.json",
+    "timestamp": "2025-02-21 09:44:44"
+  }
+}

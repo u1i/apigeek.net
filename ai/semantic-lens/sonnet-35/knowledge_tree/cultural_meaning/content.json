@@ -1,0 +1,80 @@
+{
+  "name": "Cultural Meaning",
+  "type": "article",
+  "content": {
+    "framework_context": "Cultural Meaning represents a fundamental dimension of human knowledge that recognizes how shared understanding, values, and interpretations shape all other forms of knowledge. At Level 0, it acknowledges that knowledge cannot exist in isolation from human meaning-making systems and social contexts. It serves as one of the five core lenses through which all knowledge must be understood and transmitted.",
+    "key_concepts": [
+      {
+        "name": "Collective Consciousness",
+        "explanation": "The shared mental life of a society that shapes how knowledge is interpreted and valued"
+      },
+      {
+        "name": "Symbolic Systems",
+        "explanation": "The frameworks of meaning through which cultures encode and transmit knowledge"
+      },
+      {
+        "name": "Social Construction",
+        "explanation": "How shared understanding emerges through interaction and agreement between people"
+      },
+      {
+        "name": "Cultural Evolution",
+        "explanation": "The way knowledge systems adapt and change across time and societies"
+      },
+      {
+        "name": "Value Frameworks",
+        "explanation": "The underlying beliefs and priorities that guide knowledge development"
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Contextual Embedding",
+        "description": "All knowledge exists within and is shaped by cultural contexts"
+      },
+      {
+        "name": "Interpretive Plurality",
+        "description": "Knowledge takes on different meanings across cultural frameworks"
+      },
+      {
+        "name": "Transmission Dynamics",
+        "description": "Culture determines how knowledge is preserved and passed between generations"
+      },
+      {
+        "name": "Value Integration",
+        "description": "Cultural values guide what knowledge is pursued and how it is applied"
+      },
+      {
+        "name": "Meaning Generation",
+        "description": "Culture provides the frameworks through which raw information becomes meaningful knowledge"
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Empirical Understanding",
+        "connection": "Cultural frameworks shape how empirical observations are interpreted"
+      },
+      {
+        "aspect": "Conceptual Frameworks",
+        "connection": "Cultural contexts influence what theoretical models are developed"
+      },
+      {
+        "aspect": "Practical Application",
+        "connection": "Cultural values guide how knowledge is implemented"
+      },
+      {
+        "aspect": "Meta-Knowledge",
+        "connection": "Cultural perspectives affect how we think about knowledge itself"
+      }
+    ],
+    "implications": {
+      "knowledge_organization": "Requires recognition of cultural context in all classification systems",
+      "knowledge_validation": "Must account for cultural frameworks in establishing truth claims",
+      "knowledge_transmission": "Emphasizes role of cultural systems in learning and teaching",
+      "knowledge_development": "Highlights how cultural evolution shapes knowledge growth"
+    }
+  },
+  "metadata": {
+    "full_path": "Cultural Meaning",
+    "fs_path": "cultural_meaning/content.json",
+    "timestamp": "2025-02-21 11:34:13"
+  }
+}

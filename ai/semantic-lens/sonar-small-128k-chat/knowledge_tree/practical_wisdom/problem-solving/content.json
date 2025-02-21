@@ -1,0 +1,67 @@
+{
+  "name": "Problem-Solving",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Problem-solving is a fundamental aspect of Practical Wisdom, which integrates theoretical understanding with practical experience. It is deeply rooted in Cognitive Science, as it involves processes like perception, attention, memory, and learning. Additionally, it is influenced by Philosophy of Science, as it often involves the application of scientific methods to real-world problems. Problem-solving also intersects with Ontology, as it requires understanding the nature of being and the relationships between entities.",
+      "level_1_connection": {
+        "epistemology": "Problem-solving involves the validation and application of knowledge to address real-world challenges.",
+        "ontology": "It requires understanding the structure and content of knowledge, including concepts like substance and attribute.",
+        "cognitive_science": "It leverages insights into human processing and generation of knowledge.",
+        "philosophy_of_science": "It applies scientific methods to practical problems, influencing our understanding of scientific knowledge."
+      }
+    },
+    "key_concepts": [
+      {
+        "name": "Critical Thinking",
+        "explanation": "The ability to analyze information objectively and make informed decisions."
+      },
+      {
+        "name": "Creativity",
+        "explanation": "The capacity to generate novel solutions by combining existing knowledge in new ways."
+      },
+      {
+        "name": "Feedback Loop",
+        "explanation": "A continuous cycle of action, observation, and adjustment to refine problem-solving strategies."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Iterative Process",
+        "description": "Problem-solving often involves an iterative process where solutions are refined through continuous feedback and adjustment."
+      },
+      {
+        "name": "Contextual Understanding",
+        "description": "Effective problem-solving requires a deep understanding of the context in which the problem exists."
+      },
+      {
+        "name": "Collaboration",
+        "description": "Many problems require collaboration among individuals with diverse skills and perspectives."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Interdisciplinary Synthesis",
+        "connection": "Problem-solving integrates knowledge from multiple domains to form a comprehensive understanding of complex problems."
+      },
+      {
+        "aspect": "Practical Wisdom",
+        "connection": "It is a key component of Practical Wisdom, focusing on the application of knowledge in real-world contexts."
+      },
+      {
+        "aspect": "Cognitive Science",
+        "connection": "It leverages cognitive processes like perception, attention, memory, and learning to generate solutions."
+      }
+    ],
+    "implications": [
+      {
+        "description": "Problem-solving has significant implications for knowledge organization as it highlights the interconnectedness of all knowledge domains. It demonstrates how abstract principles (e.g., iterative process) can be applied in concrete fields (e.g., engineering) to achieve practical outcomes."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Practical Wisdom/Problem-Solving",
+    "fs_path": "practical_wisdom/problem-solving/content.json",
+    "timestamp": "2025-02-21 09:42:35"
+  }
+}

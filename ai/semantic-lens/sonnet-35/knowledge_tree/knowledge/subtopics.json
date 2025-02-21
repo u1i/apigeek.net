@@ -1,0 +1,31 @@
+{
+  "name": "Knowledge",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Empirical Understanding",
+      "description": "Direct experiential knowledge gained through observation and sensory interaction with reality, forming the foundation for how we know what is real and true. This domain bridges our subjective experience with objective reality."
+    },
+    {
+      "name": "Conceptual Frameworks",
+      "description": "Abstract systems of thought that organize and give meaning to empirical observations, including mathematics, logic, and theoretical models. This domain creates the structures we use to make sense of patterns and relationships."
+    },
+    {
+      "name": "Practical Application",
+      "description": "Knowledge expressed through action and implementation, including skills, techniques and methods. This domain represents how understanding manifests in concrete ways that transform the world."
+    },
+    {
+      "name": "Cultural Meaning",
+      "description": "Shared systems of value, belief and interpretation that shape how knowledge is understood and transmitted between people. This domain contextualizes all other knowledge within human experience and purpose."
+    },
+    {
+      "name": "Meta-Knowledge",
+      "description": "Understanding about the nature of knowledge itself, including epistemology and learning theory. This domain allows us to examine and improve how we acquire and validate knowledge."
+    }
+  ],
+  "metadata": {
+    "full_path": "Knowledge",
+    "fs_path": "knowledge/subtopics.json",
+    "timestamp": "2025-02-21 11:32:36"
+  }
+}

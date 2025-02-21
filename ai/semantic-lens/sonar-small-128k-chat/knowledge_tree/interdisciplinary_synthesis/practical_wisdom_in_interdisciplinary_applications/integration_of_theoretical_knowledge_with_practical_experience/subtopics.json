@@ -1,0 +1,27 @@
+{
+  "name": "Integration of Theoretical Knowledge with Practical Experience",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Theoretical Foundations",
+      "description": "This subtopic involves the application of foundational epistemological principles to understand how theoretical knowledge is generated and validated. It draws from Level 1's Major Components, specifically Epistemology, to ensure that theoretical knowledge is grounded in sound methods and criteria for validation."
+    },
+    {
+      "name": "Practical Contexts",
+      "description": "This subtopic focuses on the real-world scenarios where practical wisdom is applied. It integrates insights from Cognitive Science (Level 1) to understand how humans process and generate knowledge in practical settings, and from Philosophy of Science (Level 1) to consider the implications of scientific inquiry in everyday life."
+    },
+    {
+      "name": "Ethical Considerations",
+      "description": "This subtopic emphasizes the ethical dimensions of integrating theoretical knowledge with practical experience. It draws from Practical Wisdom (Level 1) to highlight the importance of ethical reasoning in decision-making and problem-solving, ensuring that actions are morally justifiable and responsible."
+    },
+    {
+      "name": "Interdisciplinary Synthesis",
+      "description": "This subtopic involves the integration of knowledge from multiple domains to form a comprehensive understanding. It aligns with Interdisciplinary Synthesis (Level 0) by highlighting how different fields of study contribute to a holistic approach to complex problems, fostering a deeper understanding of how theoretical knowledge can be effectively applied in practical contexts."
+    }
+  ],
+  "metadata": {
+    "full_path": "Interdisciplinary Synthesis/Practical Wisdom in Interdisciplinary Applications/Integration of Theoretical Knowledge with Practical Experience",
+    "fs_path": "interdisciplinary_synthesis/practical_wisdom_in_interdisciplinary_applications/integration_of_theoretical_knowledge_with_practical_experience/subtopics.json",
+    "timestamp": "2025-02-21 09:48:28"
+  }
+}

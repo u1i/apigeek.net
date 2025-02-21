@@ -1,0 +1,27 @@
+{
+  "name": "Substance",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Essential Properties",
+      "description": "Essential properties are those attributes that define a substance and cannot be removed without changing its fundamental nature. This concept is rooted in ontology, as it pertains to the intrinsic characteristics of being. It is essential for understanding substance within the broader context of existence and reality."
+    },
+    {
+      "name": "Accidental Properties",
+      "description": "Accidental properties are attributes that can change without altering the fundamental nature of a substance. This distinction is crucial in ontology, as it helps differentiate between what is essential and what is contingent. It also relates to epistemology by influencing how we categorize and understand substances."
+    },
+    {
+      "name": "Substantial Change",
+      "description": "Substantial change refers to transformations that alter the fundamental nature of a substance, such as chemical reactions or phase transitions. This concept is deeply rooted in ontology and is critical for understanding how substances can change while remaining the same in essence. It also intersects with cognitive science by informing our understanding of how substances are perceived and processed."
+    },
+    {
+      "name": "Substance Identity",
+      "description": "Substance identity deals with the question of whether a substance remains the same through changes in its properties or composition. This issue is central to ontology and has implications for epistemology, as it affects how we define and classify substances. It also has practical wisdom implications, as it influences our decisions about what constitutes a substance in various contexts."
+    }
+  ],
+  "metadata": {
+    "full_path": "Ontology/Existence/Substance",
+    "fs_path": "ontology/existence/substance/subtopics.json",
+    "timestamp": "2025-02-21 09:49:10"
+  }
+}

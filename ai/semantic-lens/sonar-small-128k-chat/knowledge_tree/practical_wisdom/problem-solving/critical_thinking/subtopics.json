@@ -1,0 +1,31 @@
+{
+  "name": "Critical Thinking",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Analytical Reasoning",
+      "description": "The ability to break down complex information into its constituent parts, examining each element for its relevance and accuracy. This skill is essential for understanding how knowledge is structured and how it relates to the fundamental questions of epistemology."
+    },
+    {
+      "name": "Logical Inference",
+      "description": "The process of drawing conclusions based on evidence and sound reasoning. Logical inference is crucial for validating knowledge claims and understanding the methods of scientific inquiry, as discussed in the philosophy of science."
+    },
+    {
+      "name": "Contextual Understanding",
+      "description": "The ability to consider the broader context in which information is presented, integrating knowledge from multiple domains to form a comprehensive understanding. This skill is vital for interdisciplinary synthesis and practical wisdom."
+    },
+    {
+      "name": "Evaluative Judgment",
+      "description": "The capacity to assess the quality and reliability of information, weighing evidence against biases and assumptions. Evaluative judgment is fundamental to cognitive science's study of how humans process and generate knowledge."
+    },
+    {
+      "name": "Creative Problem-Solving",
+      "description": "The ability to think outside conventional boundaries, generating novel solutions to complex problems. Creative problem-solving integrates theoretical understanding with practical experience, aligning with the principles of practical wisdom."
+    }
+  ],
+  "metadata": {
+    "full_path": "Practical Wisdom/Problem-Solving/Critical Thinking",
+    "fs_path": "practical_wisdom/problem-solving/critical_thinking/subtopics.json",
+    "timestamp": "2025-02-21 09:53:17"
+  }
+}

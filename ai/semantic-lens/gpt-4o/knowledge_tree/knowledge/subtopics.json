@@ -1,0 +1,31 @@
+{
+  "name": "Knowledge",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Perceptual Knowledge",
+      "description": "This domain encompasses knowledge derived from direct sensory experience and observation. It forms the foundation of human understanding, as all abstract and theoretical knowledge ultimately traces back to perceptual inputs. It is the bridge between the external world and internal cognition."
+    },
+    {
+      "name": "Conceptual Knowledge",
+      "description": "This domain involves the organization and interpretation of perceptual knowledge into abstract concepts, categories, and frameworks. It is where patterns are recognized, meanings are assigned, and the raw data of perception is transformed into structured understanding."
+    },
+    {
+      "name": "Relational Knowledge",
+      "description": "This domain focuses on the connections and interactions between concepts, systems, and entities. It reflects the interdependence of all knowledge, emphasizing that understanding arises not only from isolated facts but from their relationships and contexts."
+    },
+    {
+      "name": "Practical Knowledge",
+      "description": "This domain pertains to the application of knowledge in real-world contexts, including skills, techniques, and problem-solving. It represents the translation of abstract understanding into actionable outcomes, bridging theory and practice."
+    },
+    {
+      "name": "Reflective Knowledge",
+      "description": "This domain involves the meta-cognitive processes of analyzing, questioning, and refining knowledge. It is the self-aware aspect of human understanding, enabling the evaluation of beliefs, the integration of new insights, and the pursuit of deeper truths."
+    }
+  ],
+  "metadata": {
+    "full_path": "Knowledge",
+    "fs_path": "knowledge/subtopics.json",
+    "timestamp": "2025-02-21 11:36:13"
+  }
+}

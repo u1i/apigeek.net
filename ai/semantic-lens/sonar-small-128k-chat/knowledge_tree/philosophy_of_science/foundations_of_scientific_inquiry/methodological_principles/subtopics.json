@@ -1,0 +1,31 @@
+{
+  "name": "Methodological Principles",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Empirical Evidence",
+      "description": "The reliance on empirical evidence is a cornerstone of scientific inquiry. This principle ensures that knowledge is grounded in observable data and measurable phenomena, aligning with the foundational framework of Epistemology. It also integrates with Cognitive Science by recognizing how human perception and observation contribute to the generation of knowledge."
+    },
+    {
+      "name": "Logical Reasoning",
+      "description": "Logical reasoning is essential for validating and interpreting empirical evidence. This subtopic falls under the domain of Philosophy of Science, as it examines the logical structures and methods used in scientific inquiry. It also intersects with Ontology by considering the nature of reality and how logical frameworks reflect our understanding of existence."
+    },
+    {
+      "name": "Experimental Design",
+      "description": "Experimental design is a critical methodological principle that ensures rigorous testing and control. This subtopic is deeply rooted in Practical Wisdom, as it involves applying theoretical understanding to real-world contexts through the design of experiments. It also aligns with Interdisciplinary Synthesis by integrating knowledge from multiple domains, such as statistics and biology, to form a comprehensive understanding."
+    },
+    {
+      "name": "Peer Review",
+      "description": "Peer review is a process that validates scientific findings through community scrutiny. This subtopic exemplifies the importance of validation in Epistemology and highlights the role of community in shaping knowledge. It also reflects the practical application of knowledge in real-world contexts, as seen in Practical Wisdom."
+    },
+    {
+      "name": "Replication and Verification",
+      "description": "Replication and verification ensure the reliability and reproducibility of scientific findings. This subtopic underscores the need for ongoing validation and refinement, aligning with the foundational principles of Epistemology. It also demonstrates how knowledge is refined through iterative processes, reflecting the dynamic nature of scientific inquiry."
+    }
+  ],
+  "metadata": {
+    "full_path": "Philosophy of Science/Foundations of Scientific Inquiry/Methodological Principles",
+    "fs_path": "philosophy_of_science/foundations_of_scientific_inquiry/methodological_principles/subtopics.json",
+    "timestamp": "2025-02-21 09:50:37"
+  }
+}

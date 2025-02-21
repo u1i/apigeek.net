@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Methods And Paradigms - Knowledge Map</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --primary-hover: #1d4ed8;
+            --heading-color: #1e293b;
+            --text-color: #334155;
+            --link-color: #2563eb;
+            --link-hover: #1d4ed8;
+            --bg-subtle: #f8fafc;
+            --border-color: #e2e8f0;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            color: var(--text-color);
+            line-height: 1.6;
+            padding-top: 1.5rem;
+            background-color: var(--bg-subtle);
+        }
+        
+        .container {
+            max-width: 1000px;
+            background: white;
+            padding: 2rem;
+            border-radius: 1rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Merriweather', serif;
+            color: var(--heading-color);
+            font-weight: 700;
+            line-height: 1.3;
+        }
+        
+        h1 {
+            font-size: 2.25rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+        
+        h2 {
+            font-size: 1.75rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        h3 {
+            font-size: 1.25rem;
+            margin-top: 1.5rem;
+            color: var(--heading-color);
+        }
+        
+        p {
+            margin-bottom: 1rem;
+        }
+        
+        a {
+            color: var(--link-color);
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        
+        a:hover {
+            color: var(--link-hover);
+            text-decoration: underline;
+        }
+        
+        .breadcrumb {
+            background-color: var(--bg-subtle);
+            padding: 0.75rem 1rem;
+            border-radius: 0.5rem;
+            margin-bottom: 1.5rem;
+            font-size: 0.875rem;
+        }
+        
+        .breadcrumb-item + .breadcrumb-item::before {
+            content: "→";
+            color: var(--text-color);
+        }
+        
+        .card {
+            border: 1px solid var(--border-color);
+            border-radius: 0.75rem;
+            transition: all 0.2s;
+            background: white;
+        }
+        
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-color: var(--primary-color);
+        }
+        
+        .card-body {
+            padding: 1.25rem;
+        }
+        
+        .card-title {
+            font-size: 1.1rem;
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .card-text {
+            font-size: 0.875rem;
+            color: var(--text-color);
+            margin-bottom: 0;
+        }
+        
+        .content {
+            background: white;
+            padding: 1rem 0;
+            margin-bottom: 2rem;
+        }
+        
+        .two-column-layout {
+            display: grid;
+            grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+            gap: 2rem;
+            align-items: start;
+        }
+
+        .main-content {
+            min-width: 0;
+        }
+
+        .sidebar {
+            padding-top: 0;
+        }
+
+        .topics-grid {
+            display: grid;
+            gap: 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .two-column-layout {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                position: static;
+                margin-top: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/index.html">Home</a></li> <li class="breadcrumb-item"><a href="/philosophy_of_science/index.html">Philosophy Of Science</a></li> <li class="breadcrumb-item active" aria-current="page">Methods And Paradigms</li>
+            </ol>
+        </nav>
+        
+        <div class="two-column-layout">
+            <main class="main-content">
+                <h1 class="mb-4">Methods And Paradigms</h1>
+                <div class="content">
+                    <h2>Key Concepts</h2>
+<h3>Empiricism</h3>
+<p>The idea that knowledge comes from sensory experience and observation.</p>
+<h3>Rationalism</h3>
+<p>The belief that knowledge can be acquired through reason and innate ideas.</p>
+<h3>Inductive Reasoning</h3>
+<p>A method of reasoning that involves making generalizations based on specific observations.</p>
+<h3>Deductive Reasoning</h3>
+<p>A method of reasoning that involves drawing specific conclusions from general premises.</p>
+                </div>
+            </main>
+            <aside class="sidebar">
+                <h1 class='mb-4'>Topics</h1>
+<div class='topics-grid'>
+
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/philosophy_of_science/methods_and_paradigms/ethical_considerations_in_scientific_research/index.html">Ethical Considerations in Scientific Research</a></h5>
+                        <p class='card-text'>This subtopic addresses the ethical implications of scientific research, including issues related to data integrity, informed consent, and the responsible use of scientific findings. It integrates with Practical Wisdom by focusing on the ethical reasoning required in applying scientific knowledge. It also intersects with Epistemology by considering the moral limits of knowledge acquisition.</p>
+                    </div>
+                </div>
+                
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/philosophy_of_science/methods_and_paradigms/historical_development_of_scientific_methods/index.html">Historical Development of Scientific Methods</a></h5>
+                        <p class='card-text'>This subtopic explores the historical evolution of scientific methods and paradigms, tracing how they have developed over time. It reflects the Ontology domain's study of existence and reality by examining how our understanding of the world has changed through scientific inquiry. It also engages with Philosophy of Science by analyzing the historical context that shaped current scientific practices.</p>
+                    </div>
+                </div>
+                
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/philosophy_of_science/methods_and_paradigms/interdisciplinary_approaches/index.html">Interdisciplinary Approaches</a></h5>
+                        <p class='card-text'>This subtopic highlights the integration of knowledge from multiple domains to address complex scientific problems. It demonstrates Interdisciplinary Synthesis by showing how combining insights from various fields can lead to more comprehensive understanding and innovative solutions. This approach aligns with Practical Wisdom by emphasizing the application of theoretical knowledge in real-world contexts.</p>
+                    </div>
+                </div>
+                
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/philosophy_of_science/methods_and_paradigms/paradigms_in_scientific_inquiry/index.html">Paradigms in Scientific Inquiry</a></h5>
+                        <p class='card-text'>This subtopic examines the dominant scientific paradigms that shape the way scientists approach their work. It considers how these paradigms influence the development of theories and the acceptance of new ideas, reflecting the Ontology domain's study of existence and reality. It also engages with Philosophy of Science by analyzing the foundational assumptions and implications of different paradigms.</p>
+                    </div>
+                </div>
+                
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/philosophy_of_science/methods_and_paradigms/scientific_inquiry_methods/index.html">Scientific Inquiry Methods</a></h5>
+                        <p class='card-text'>This subtopic explores the various methods used in scientific inquiry, such as experimentation, observation, and data analysis. It delves into how these methods are employed to validate hypotheses and generate new knowledge, aligning with the Epistemology domain's focus on knowledge acquisition and validation. It also intersects with Cognitive Science by examining how human perception and attention influence these methods.</p>
+                    </div>
+                </div>
+                </div>
+            </aside>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

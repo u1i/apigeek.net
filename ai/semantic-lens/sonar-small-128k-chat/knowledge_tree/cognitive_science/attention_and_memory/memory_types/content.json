@@ -1,0 +1,68 @@
+{
+  "name": "Memory Types",
+  "type": "article",
+  "content": {
+    "framework_context": {
+      "description": "Memory Types is a specific domain within Cognitive Science, which is an interdisciplinary study of the mind and intelligence. This topic exemplifies Level 2 in our knowledge structure by mapping abstract principles of cognitive processes to concrete fields of study."
+    },
+    "key_concepts": [
+      {
+        "name": "Short-Term Memory",
+        "explanation": "A temporary storage system that holds information for a short period, typically seconds to minutes, before it is either stored in long-term memory or discarded."
+      },
+      {
+        "name": "Long-Term Memory",
+        "explanation": "A permanent storage system that retains information over an extended period, often years or even a lifetime."
+      },
+      {
+        "name": "Episodic Memory",
+        "explanation": "A type of long-term memory that involves recollections of specific events or experiences."
+      },
+      {
+        "name": "Semantic Memory",
+        "explanation": "A type of long-term memory that involves general knowledge and facts about the world."
+      }
+    ],
+    "major_principles": [
+      {
+        "name": "Encoding",
+        "description": "The process by which information is initially stored in memory, involving attention and perception."
+      },
+      {
+        "name": "Consolidation",
+        "description": "The process by which information is transferred from short-term to long-term memory, often requiring repetition and practice."
+      },
+      {
+        "name": "Retrieval",
+        "description": "The process by which stored information is accessed and recalled from memory."
+      }
+    ],
+    "relationships": [
+      {
+        "aspect": "Attention",
+        "connection": "Attention is crucial for encoding information into memory. The ability to focus attention on relevant stimuli enhances the likelihood of information being stored in memory."
+      },
+      {
+        "aspect": "Learning",
+        "connection": "Memory types are essential for learning processes. Different types of memory (e.g., short-term vs. long-term) play distinct roles in the acquisition and retention of knowledge."
+      },
+      {
+        "aspect": "Cognitive Development",
+        "connection": "Understanding memory types helps explain cognitive development across the lifespan. For instance, improvements in working memory are associated with better problem-solving abilities."
+      }
+    ],
+    "implications": [
+      {
+        "broader_impact": "Understanding memory types has significant implications for education and cognitive training programs. Tailoring educational strategies to enhance specific types of memory can improve learning outcomes."
+      },
+      {
+        "broader_impact": "Knowledge about memory types informs the development of assistive technologies for individuals with memory impairments, such as those with Alzheimer's disease or other cognitive disorders."
+      }
+    ]
+  },
+  "metadata": {
+    "full_path": "Cognitive Science/Attention and Memory/Memory Types",
+    "fs_path": "cognitive_science/attention_and_memory/memory_types/content.json",
+    "timestamp": "2025-02-21 09:54:12"
+  }
+}

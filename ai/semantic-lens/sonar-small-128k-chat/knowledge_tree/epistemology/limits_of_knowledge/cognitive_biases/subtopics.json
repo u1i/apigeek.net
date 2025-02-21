@@ -1,0 +1,31 @@
+{
+  "name": "Cognitive Biases",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Confirmation Bias",
+      "description": "The tendency to seek out information that confirms one's pre-existing beliefs while ignoring or downplaying contradictory evidence. This bias is closely related to Epistemology's study of knowledge acquisition and validation, as it affects how we gather and interpret information. It also intersects with Cognitive Science's understanding of perception and attention, highlighting how biases influence our mental processes."
+    },
+    {
+      "name": "Anchoring Bias",
+      "description": "The reliance on the first piece of information encountered when making decisions, even if it is irrelevant or unreliable. This bias is a manifestation of the limits of knowledge discussed in Epistemology, as it demonstrates how initial impressions can skew subsequent judgments. It also relates to Philosophy of Science's examination of scientific methods, showing how biases can affect empirical research."
+    },
+    {
+      "name": "Availability Heuristic",
+      "description": "The tendency to overestimate the importance or likelihood of information based on its availability in memory. This heuristic is a cognitive bias that impacts our understanding of reality, aligning with Ontology's study of existence and reality. It also reflects on Practical Wisdom by influencing decision-making processes and problem-solving strategies."
+    },
+    {
+      "name": "Hindsight Bias",
+      "description": "The belief that past events were predictable after they have occurred. This bias is a reflection of how our understanding of knowledge evolves over time, fitting within Epistemology's framework for understanding knowledge limits. It also intersects with Cognitive Science by highlighting how memory and learning influence our perception of past events."
+    },
+    {
+      "name": "Framing Effect",
+      "description": "The influence of the way information is presented on people's decisions and judgments. This effect is closely tied to Epistemology's study of knowledge acquisition and validation, as it demonstrates how presentation can affect interpretation. It also relates to Philosophy of Science by showing how framing can impact scientific findings and their interpretation."
+    }
+  ],
+  "metadata": {
+    "full_path": "Epistemology/Limits of Knowledge/Cognitive Biases",
+    "fs_path": "epistemology/limits_of_knowledge/cognitive_biases/subtopics.json",
+    "timestamp": "2025-02-21 09:46:19"
+  }
+}

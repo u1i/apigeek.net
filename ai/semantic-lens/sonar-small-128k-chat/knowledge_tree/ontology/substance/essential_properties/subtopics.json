@@ -1,0 +1,31 @@
+{
+  "name": "Essential Properties",
+  "type": "category",
+  "subtopics": [
+    {
+      "name": "Intrinsic vs. Extrinsic Properties",
+      "description": "This subtopic explores the distinction between properties that are inherent to an entity (intrinsic) and those that are derived from external factors (extrinsic). It relates to ontology by examining how these properties contribute to the nature of being and existence. This distinction is crucial for understanding the fundamental structure of knowledge, aligning with the foundational questions of epistemology."
+    },
+    {
+      "name": "Modal Properties",
+      "description": "Modal properties, such as possibility and necessity, are examined in this subtopic. It connects to ontology by delving into the nature of reality and how these modalities shape our understanding of existence. This also intersects with cognitive science by influencing how we perceive and reason about possibilities and necessities."
+    },
+    {
+      "name": "Causal Properties",
+      "description": "Causal properties, including causality and dependency, are analyzed here. This subtopic ties back to ontology by investigating how causal relationships define the structure of reality. It also relates to philosophy of science by understanding how causal properties underpin scientific inquiry and the generation of knowledge."
+    },
+    {
+      "name": "Temporal Properties",
+      "description": "Temporal properties, such as persistence and change, are examined in this subtopic. It connects to ontology by exploring how time influences our understanding of existence and being. This also intersects with cognitive science by understanding how temporal awareness shapes our perception and memory."
+    },
+    {
+      "name": "Essential vs. Accidental Properties",
+      "description": "This subtopic distinguishes between essential properties that define an entity's nature and accidental properties that are merely contingent. It relates to ontology by examining how these distinctions contribute to our understanding of reality. This also aligns with epistemology by influencing how we validate and understand knowledge about entities."
+    }
+  ],
+  "metadata": {
+    "full_path": "Ontology/Substance/Essential Properties",
+    "fs_path": "ontology/substance/essential_properties/subtopics.json",
+    "timestamp": "2025-02-21 09:50:08"
+  }
+}
