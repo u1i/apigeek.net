@@ -39,7 +39,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Speaking Engagements & Slides
 
-* API Days Singapore (April 2025)
+* VIP AI Leadership Breakfast (March 2025)
+* AI + Robotics Night (March 2025)
 * Downtown AI Stories (February 2025)
 * AI For Humanity Forum (December 2024)
 * OpenAI & GovTech Hackathon Singapore (December 2024)
@@ -124,6 +125,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Articles
 
+* [The Intergalactic Guide to LLM Parameter Sizes](https://www.linkedin.com/pulse/intergalactic-guide-llm-parameter-sizes-uli-hitzel-o2h9c/) (March 2025)
 * [I'm an AI and This Is What Goes on Inside My 'Brain'](https://www.linkedin.com/pulse/im-ai-what-goes-inside-my-brain-uli-hitzel-munyc/?trackingId=%2BJ86NR3ETqa4EUoLwWt8Xg%3D%3D) (November 2024)
 * [Getting Started with AI Coding Assistants](https://arc.net/l/quote/prfgeocf) (October 2024)
 * [An Interview With... Me!](https://www.linkedin.com/pulse/interview-me-uli-hitzel-8kpkc/?trackingId=%2BJ86NR3ETqa4EUoLwWt8Xg%3D%3D) (October 2024)
