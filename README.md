@@ -212,6 +212,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 ### LLM & Semantics
 
 * [Semantic Lens – LLM-driven knowledge extraction with interactive visualization](ai/semantic-lens)
+* [Gemma 3 Model Evaluation (March 2025)](https://github.com/u1i/gemma-3-1b-eval)
 
 ### Conversations with AI
 
