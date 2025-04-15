@@ -39,7 +39,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Speaking Engagements & Slides
 
-* Windsurf Launch Singapore (April 2025)
+* [Windsurf Launch Singapore](https://github.com/u1i/slides/blob/master/20250415%20Windsurf.pdf) (April 2025)
 * HEINEKEN GenAI Lab Launch (March 2025)
 * VIP AI Leadership Breakfast (March 2025)
 * AI + Robotics Night (March 2025)
