@@ -127,6 +127,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Articles
 
+* [The Consciousness in the Machine](https://www.linkedin.com/pulse/consciousness-machine-uli-hitzel-01zfc) (June 2025)
 * [The Intergalactic Guide to LLM Parameter Sizes](https://www.linkedin.com/pulse/intergalactic-guide-llm-parameter-sizes-uli-hitzel-o2h9c/) (March 2025)
 * [I'm an AI and This Is What Goes on Inside My 'Brain'](https://www.linkedin.com/pulse/im-ai-what-goes-inside-my-brain-uli-hitzel-munyc/?trackingId=%2BJ86NR3ETqa4EUoLwWt8Xg%3D%3D) (November 2024)
 * [Getting Started with AI Coding Assistants](https://arc.net/l/quote/prfgeocf) (October 2024)
