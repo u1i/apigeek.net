@@ -39,8 +39,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Speaking Engagements & Slides
 
-* If Thomas Edison Could Code: Corporate Innovation in a New Era (edb Singapore) (July 2026)
-* AI Stories @ Sims Avenue (June 2025)
+* If Thomas Edison Could Code: Corporate Innovation in a New Era (edb Singapore) (July 2025)
+* AI Stories @ Sims Avenue (May 2025)
 * [Windsurf Launch Singapore](https://github.com/u1i/slides/blob/master/20250415%20Windsurf.pdf) (April 2025)
 * HEINEKEN GenAI Lab Launch (March 2025)
 * VIP AI Leadership Breakfast (March 2025)
