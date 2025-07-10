@@ -287,6 +287,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 ## Learning Material, Exercises, Labs & Co
 
 * [DevOps Course – Fintech Labs, National University of Singapore](https://github.com/u1i/devops-course)
+* [MCP Server Reference Implementation](https://github.com/u1i/remote-fastmcp-server)
+* [LLM + RAG + Chroma Vector DB](https://github.com/u1i/chroma-rag)
 * [API Challenge - an interactice scavenger hunt around the world. Used at API Days 2019](./resources/apichallenge1.jpg)
 * [API Builder Learning Lab (Cloud)](https://github.com/u1i/axway-wcam-lab)
 * [API Builder Learning Lab (Local Install)](https://github.com/u1i/apibuilder/blob/master/apibuilder-openshift-central.md)
