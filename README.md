@@ -216,8 +216,9 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## AI Research
 
-### LLM & Semantics
+### LLM, Semantics & Bias
 
+* [Image generation bias and forced distribution](https://www.linkedin.com/feed/update/urn:li:activity:7351799223740231680/)
 * [Semantic Lens – LLM-driven knowledge extraction with interactive visualization](ai/semantic-lens)
 * [Gemma 3 Model Evaluation (March 2025)](https://github.com/u1i/gemma-3-1b-eval)
 
