@@ -219,6 +219,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ### LLM, Semantics & Bias
 
+* [Infographics visual image evaluation across models](https://www.linkedin.com/posts/uhitzel_how-do-multimodal-models-interpret-beautiful-activity-7352553567217467392-0i77?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACOaqMBTrNcEWRzAtY7IQaDbipSj3PNIjs)
 * [Image generation bias and forced distribution](https://www.linkedin.com/feed/update/urn:li:activity:7351799223740231680/)
 * [Semantic Lens – LLM-driven knowledge extraction with interactive visualization](ai/semantic-lens)
 * [Gemma 3 Model Evaluation (March 2025)](https://github.com/u1i/gemma-3-1b-eval)
