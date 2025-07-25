@@ -42,6 +42,9 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Speaking Engagements & Slides
 
+* NUS E&A Learning Symposium – Keynote (October 2025)
+* AI Stories at Boat Quay (September 2025)
+* The Future of Secure, Agentic AI-Driven Software Development – AWS / GitLab (August 2025)
 * If Thomas Edison Could Code: Corporate Innovation in a New Era (edb Singapore) (July 2025)
 * AI Stories @ Sims Avenue (May 2025)
 * [Windsurf Launch Singapore](https://github.com/u1i/slides/blob/master/20250415%20Windsurf.pdf) (April 2025)
