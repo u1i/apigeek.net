@@ -27,6 +27,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Open Source Projects
 
+* [glean](https://github.com/u1i/glean): A command-line tool for analyzing text using OpenRouter API with language models.
 * [glimpse](https://github.com/u1i/glimpse): A command-line tool for analyzing images using OpenRouter API with multimodal models.
 * [ORTB](https://github.com/u1i/ortb): A reusable Python framework for building Telegram chat-bots powered by OpenRouter
 * [SEA-LION on Ollama](https://github.com/u1i/sea-lion-ollama): making AI Singapore's LLM accessible to everyone
