@@ -26,7 +26,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 
 ## Open Source Projects
-
+* [Simple Memory MCP server](https://github.com/u1i/simple-memory-mcp-server):  showing how to build memory tools for LLMs
 * [glean](https://github.com/u1i/glean): A command-line tool for analyzing text using OpenRouter API with language models.
 * [glimpse](https://github.com/u1i/glimpse): A command-line tool for analyzing images using OpenRouter API with multimodal models.
 * [ORTB](https://github.com/u1i/ortb): A reusable Python framework for building Telegram chat-bots powered by OpenRouter
