@@ -207,8 +207,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Teaching at National University of Singapore
 
-* [Generative AI: Fundamentals to Advanced Techniques](https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techniques-programme) / [Brochure](./resources/NUS-GenAI-Brochure.pdf)
-* [Full-Stack Development with AI](https://nus.comp.emeritus.org/full-stack-development-with-ai) / [Brochure](./resources/NUS-FSAI-Brochure.pdf)
+* [Generative AI: Fundamentals to Advanced Techniques](https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techniques-programme)
+* [Full-Stack Development with AI](https://nus.comp.emeritus.org/full-stack-development-with-ai)
 * [FinTech SG Programme](https://ace.nus.edu.sg/pc/professional-certificate-in-fintech-senior-developer-level-3/)
 * [My DevOps Course at NUS](https://ace.nus.edu.sg/course/devops-build-deploy-and-monitor/)
 * [Programme info on ACE](https://ace.nus.edu.sg/nus-fintech-sg-programme/)
