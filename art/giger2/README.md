@@ -2,12 +2,12 @@
 
 | | |
 | --- | --- |
-| [![](polaroids/aircraft-2.png)](aircraft-2.jpg) | [![](polaroids/aircraft.png)](aircraft.jpg) |
-| [![](polaroids/airport.png)](airport.jpg) | [![](polaroids/alien-5-poster.png)](alien-5-poster.jpg) |
-| [![](polaroids/balloon.png)](balloon.jpg) | [![](polaroids/mando.png)](mando.jpg) |
-| [![](polaroids/no-name.png)](no-name.jpg) | [![](polaroids/queen-2.png)](queen-2.jpg) |
-| [![](polaroids/queen.png)](queen.jpg) | [![](polaroids/ship.png)](ship.jpg) |
-| [![](polaroids/space-ship.png)](space-ship.jpg) | [![](polaroids/taxi.png)](taxi.jpg) |
-| [![](polaroids/the-factory.png)](the-factory.jpg) | [![](polaroids/the-room.png)](the-room.jpg) |
-| [![](polaroids/washroom-2.png)](washroom-2.jpg) | [![](polaroids/washroom.png)](washroom.jpg) |
-| [![](polaroids/xenomorph-2.png)](xenomorph-2.jpg) | [![](polaroids/xenomorph.png)](xenomorph.jpg) |
+| [![](https://cdn.naida.ai/art/giger2/polaroids/aircraft-2.png)](https://cdn.naida.ai/art/giger2/aircraft-2.jpg) | [![](https://cdn.naida.ai/art/giger2/polaroids/aircraft.png)](https://cdn.naida.ai/art/giger2/aircraft.jpg) |
+| [![](https://cdn.naida.ai/art/giger2/polaroids/airport.png)](https://cdn.naida.ai/art/giger2/airport.jpg) | [![](https://cdn.naida.ai/art/giger2/polaroids/alien-5-poster.png)](https://cdn.naida.ai/art/giger2/alien-5-poster.jpg) |
+| [![](https://cdn.naida.ai/art/giger2/polaroids/balloon.png)](https://cdn.naida.ai/art/giger2/balloon.jpg) | [![](https://cdn.naida.ai/art/giger2/polaroids/mando.png)](https://cdn.naida.ai/art/giger2/mando.jpg) |
+| [![](https://cdn.naida.ai/art/giger2/polaroids/no-name.png)](https://cdn.naida.ai/art/giger2/no-name.jpg) | [![](https://cdn.naida.ai/art/giger2/polaroids/queen-2.png)](https://cdn.naida.ai/art/giger2/queen-2.jpg) |
+| [![](https://cdn.naida.ai/art/giger2/polaroids/queen.png)](https://cdn.naida.ai/art/giger2/queen.jpg) | [![](https://cdn.naida.ai/art/giger2/polaroids/ship.png)](https://cdn.naida.ai/art/giger2/ship.jpg) |
+| [![](https://cdn.naida.ai/art/giger2/polaroids/space-ship.png)](https://cdn.naida.ai/art/giger2/space-ship.jpg) | [![](https://cdn.naida.ai/art/giger2/polaroids/taxi.png)](https://cdn.naida.ai/art/giger2/taxi.jpg) |
+| [![](https://cdn.naida.ai/art/giger2/polaroids/the-factory.png)](https://cdn.naida.ai/art/giger2/the-factory.jpg) | [![](https://cdn.naida.ai/art/giger2/polaroids/the-room.png)](https://cdn.naida.ai/art/giger2/the-room.jpg) |
+| [![](https://cdn.naida.ai/art/giger2/polaroids/washroom-2.png)](https://cdn.naida.ai/art/giger2/washroom-2.jpg) | [![](https://cdn.naida.ai/art/giger2/polaroids/washroom.png)](https://cdn.naida.ai/art/giger2/washroom.jpg) |
+| [![](https://cdn.naida.ai/art/giger2/polaroids/xenomorph-2.png)](https://cdn.naida.ai/art/giger2/xenomorph-2.jpg) | [![](https://cdn.naida.ai/art/giger2/polaroids/xenomorph.png)](https://cdn.naida.ai/art/giger2/xenomorph.jpg) |

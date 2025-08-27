@@ -1,6 +1,6 @@
 # Pictures Of The Floating World
 
-![](./expo.jpg)
+![](https://cdn.naida.ai/art/expo.jpg)
 
 An art collaboration between human and AI.
 
@@ -12,7 +12,7 @@ Artwork inspired by the great artists and painters throughout human history
 
 * [View Gallery](https://apigeek.net/art/inspired)
 
-[![](./inspired.jpg)](https://apigeek.net/art/inspired)
+[![](https://cdn.naida.ai/art/inspired.jpg)](https://apigeek.net/art/inspired)
 
 ## Inspirations v2
 
@@ -20,7 +20,7 @@ Artwork inspired by the great artists and painters throughout human history
 
 * [View Gallery](https://apigeek.net/art/inspired2)
 
-[![](./inspired2.jpg)](https://apigeek.net/art/inspired2)
+[![](https://cdn.naida.ai/art/inspired2.jpg)](https://apigeek.net/art/inspired2)
 
 ## Product Design
 
@@ -28,7 +28,7 @@ Creating ideas for products that do not exist
 
 * [View Gallery](https://apigeek.net/art/products)
 
-[![](./products.jpg)](https://apigeek.net/art/products)
+[![](https://cdn.naida.ai/art/products.jpg)](https://apigeek.net/art/products)
 
 
 ## Ukiyo-e 浮世
@@ -37,7 +37,7 @@ Pieces in the style of 19th century Japanese art
 
 * [View Gallery](https://apigeek.net/art/ukiyoe)
 
-[![](./ukiyoe.jpg)](https://apigeek.net/art/ukiyoe)
+[![](https://cdn.naida.ai/art/ukiyoe.jpg)](https://apigeek.net/art/ukiyoe)
 
 ## The Disturbing Universe
 
@@ -45,7 +45,7 @@ A hommage to the great H.R. Giger and the beautifully strange artwork he created
 
 [* View Gallery](https://apigeek.net/art/giger2)
 
-[![](./giger2.jpg)](https://apigeek.net/art/giger2)
+[![](https://cdn.naida.ai/art/giger2.jpg)](https://apigeek.net/art/giger2)
 
 
 ## The New World
@@ -54,7 +54,7 @@ Fantastic pieces, steam punk style
 
 * [View Gallery](https://apigeek.net/art/thenewworld)
 
-[![](./thenewworld.jpg)](https://apigeek.net/art/thenewworld)
+[![](https://cdn.naida.ai/art/thenewworld.jpg)](https://apigeek.net/art/thenewworld)
 
 ## The Bigger Picture
 
@@ -62,7 +62,7 @@ What does the village square next to Van Gogh's night cafe look like? How about 
 
 * [View Gallery](https://apigeek.net/art/biggerpicture)
 
-[![](./biggerpicture4.jpg)](https://apigeek.net/art/biggerpicture)
+[![](https://cdn.naida.ai/art/biggerpicture4.jpg)](https://apigeek.net/art/biggerpicture)
 
 ## Cyber Soul
 
@@ -70,7 +70,7 @@ Scenes that could as well be concept art pieces for the Blade Runner movie and v
 
 * [View Gallery](https://apigeek.net/art/cybersoul2)
 
-[![](./cybersoul2.jpg)](https://apigeek.net/art/cybersoul2)
+[![](https://cdn.naida.ai/art/cybersoul2.jpg)](https://apigeek.net/art/cybersoul2)
 
 ## Dark Visions
 
@@ -78,7 +78,7 @@ Surreal creatures and imagination
 
 * [View Gallery](https://apigeek.net/art/darkvisions)
 
-[![](./darkvisions.jpg)](https://apigeek.net/art/darkvisions)
+[![](https://cdn.naida.ai/art/darkvisions.jpg)](https://apigeek.net/art/darkvisions)
 
 ### This looks awesome! How was this created?
 

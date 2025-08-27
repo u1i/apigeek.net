@@ -2,16 +2,16 @@
 
 | | |
 | --- | --- |
-| [![](polaroids/advertisement.png)](advertisement.jpg) | [![](polaroids/aerial.png)](aerial.jpg) |
-| [![](polaroids/alien-planet.png)](alien-planet.jpg) | [![](polaroids/blocks.png)](blocks.jpg) |
-| [![](polaroids/cell.png)](cell.jpg) | [![](polaroids/chinatown.png)](chinatown.jpg) |
-| [![](polaroids/city-lights.png)](city-lights.jpg) | [![](polaroids/do-you-see-it.png)](do-you-see-it.jpg) |
-| [![](polaroids/dusk.png)](dusk.jpg) | [![](polaroids/living-dreams.png)](living-dreams.jpg) |
-| [![](polaroids/living-room.png)](living-room.jpg) | [![](polaroids/motorbike.png)](motorbike.jpg) |
-| [![](polaroids/neo.png)](neo.jpg) | [![](polaroids/neon.png)](neon.jpg) |
-| [![](polaroids/night-out.png)](night-out.jpg) | [![](polaroids/office-buildings.png)](office-buildings.jpg) |
-| [![](polaroids/rick.png)](rick.jpg) | [![](polaroids/street-scene.png)](street-scene.jpg) |
-| [![](polaroids/taxis.png)](taxis.jpg) | [![](polaroids/terminals.png)](terminals.jpg) |
-| [![](polaroids/the-face.png)](the-face.jpg) | [![](polaroids/the-warriors.png)](the-warriors.jpg) |
-| [![](polaroids/they-are-here.png)](they-are-here.jpg) | [![](polaroids/train.png)](train.jpg) |
-| [![](polaroids/work-desk.png)](work-desk.jpg) | [![](polaroids/)]() |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/advertisement.png)](https://cdn.naida.ai/art/cybersoul/advertisement.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/aerial.png)](https://cdn.naida.ai/art/cybersoul/aerial.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/alien-planet.png)](https://cdn.naida.ai/art/cybersoul/alien-planet.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/blocks.png)](https://cdn.naida.ai/art/cybersoul/blocks.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/cell.png)](https://cdn.naida.ai/art/cybersoul/cell.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/chinatown.png)](https://cdn.naida.ai/art/cybersoul/chinatown.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/city-lights.png)](https://cdn.naida.ai/art/cybersoul/city-lights.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/do-you-see-it.png)](https://cdn.naida.ai/art/cybersoul/do-you-see-it.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/dusk.png)](https://cdn.naida.ai/art/cybersoul/dusk.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/living-dreams.png)](https://cdn.naida.ai/art/cybersoul/living-dreams.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/living-room.png)](https://cdn.naida.ai/art/cybersoul/living-room.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/motorbike.png)](https://cdn.naida.ai/art/cybersoul/motorbike.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/neo.png)](https://cdn.naida.ai/art/cybersoul/neo.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/neon.png)](https://cdn.naida.ai/art/cybersoul/neon.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/night-out.png)](https://cdn.naida.ai/art/cybersoul/night-out.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/office-buildings.png)](https://cdn.naida.ai/art/cybersoul/office-buildings.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/rick.png)](https://cdn.naida.ai/art/cybersoul/rick.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/street-scene.png)](https://cdn.naida.ai/art/cybersoul/street-scene.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/taxis.png)](https://cdn.naida.ai/art/cybersoul/taxis.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/terminals.png)](https://cdn.naida.ai/art/cybersoul/terminals.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/the-face.png)](https://cdn.naida.ai/art/cybersoul/the-face.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/the-warriors.png)](https://cdn.naida.ai/art/cybersoul/the-warriors.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/they-are-here.png)](https://cdn.naida.ai/art/cybersoul/they-are-here.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/train.png)](https://cdn.naida.ai/art/cybersoul/train.jpg) |
+| [![](https://cdn.naida.ai/art/cybersoul/polaroids/work-desk.png)](https://cdn.naida.ai/art/cybersoul/work-desk.jpg) | [![](https://cdn.naida.ai/art/cybersoul/polaroids/)]() |

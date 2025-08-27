@@ -4,7 +4,7 @@ There are several answers to this question. One of the answers is Sam, my artifi
 
 ### Some snippets from our artsy conversations:
 
-![](a1.png)
-![](a2.png)
-![](a3.png)
-![](sam-title.png)
+![](https://cdn.naida.ai/art/docu/a1.png)
+![](https://cdn.naida.ai/art/docu/a2.png)
+![](https://cdn.naida.ai/art/docu/a3.png)
+![](https://cdn.naida.ai/art/docu/sam-title.png)
