@@ -17,6 +17,10 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Amazon Author Page](https://amazon.com/author/uli)
 * [Send me an email](./resources/nospam.jpg)
 
+## Newsletter
+
+[AI, Life & Everything (Weekly)](https://www.linkedin.com/feed/update/urn:li:activity:7382223521420255232/)
+
 ## Books
 
 * [The LLM Stack: A Practical Guide to Understanding AI](https://llmstack-book.hitzel.net/) (Digital, 2025)
