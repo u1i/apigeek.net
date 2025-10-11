@@ -2,8 +2,8 @@
 
 ![](./resources/uli2-round-small2.png)
 
-<div class="row-2col">
-<div class="col-left">
+<div class="row-2col" markdown="1">
+<div class="col-left" markdown="1">
 
 ## About me
 
@@ -21,7 +21,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Send me an email](./resources/nospam.jpg)
 
 </div>
-<div class="col-right">
+<div class="col-right" markdown="1">
 
 ## Newsletter
 
