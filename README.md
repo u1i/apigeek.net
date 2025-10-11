@@ -41,6 +41,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 </div>
 </div>
 
+<div class="row-2col" markdown="1">
+<div class="col-left" markdown="1">
 
 ## Open Source Projects
 * [Simple Memory MCP server](https://github.com/u1i/simple-memory-mcp-server):  showing how to build memory tools for LLMs
@@ -58,6 +60,22 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [keiju](https://github.com/u1i/keiju) - Minimalist API Gateway in a ~25 MB Container.
 * [samsa](https://github.com/u1i/samsa) converts between OpenAPI v2 and v3 formats (YAML/JSON)
 * [majime](https://github.com/u1i/majime) – Dead Simple API Unit Testing
+
+</div>
+<div class="col-right" markdown="1">
+
+## Teaching at National University of Singapore
+
+* [Generative AI: Fundamentals to Advanced Techniques](https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techniques-programme)
+* [Full-Stack Development with AI](https://nus.comp.emeritus.org/full-stack-development-with-ai)
+* [FinTech SG Programme](https://ace.nus.edu.sg/pc/professional-certificate-in-fintech-senior-developer-level-3/)
+* [My DevOps Course at NUS](https://ace.nus.edu.sg/course/devops-build-deploy-and-monitor/)
+* [Programme info on ACE](https://ace.nus.edu.sg/nus-fintech-sg-programme/)
+* [Profile page at Advanced Computing for Executives (ACE), School of Computing](https://ace.nus.edu.sg/about-us/executive-education-fellow/)
+* [DevOps Course – Resources](https://github.com/u1i/devops-course)
+
+</div>
+</div>
 
 <div class="row-2col" markdown="1">
 <div class="col-left" markdown="1">
@@ -231,16 +249,6 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 </div>
 </div>
-
-## Teaching at National University of Singapore
-
-* [Generative AI: Fundamentals to Advanced Techniques](https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techniques-programme)
-* [Full-Stack Development with AI](https://nus.comp.emeritus.org/full-stack-development-with-ai)
-* [FinTech SG Programme](https://ace.nus.edu.sg/pc/professional-certificate-in-fintech-senior-developer-level-3/)
-* [My DevOps Course at NUS](https://ace.nus.edu.sg/course/devops-build-deploy-and-monitor/)
-* [Programme info on ACE](https://ace.nus.edu.sg/nus-fintech-sg-programme/)
-* [Profile page at Advanced Computing for Executives (ACE), School of Computing](https://ace.nus.edu.sg/about-us/executive-education-fellow/)
-* [DevOps Course – Resources](https://github.com/u1i/devops-course)
 
 ## AI Research
 
