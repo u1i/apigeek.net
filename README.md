@@ -59,6 +59,9 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [samsa](https://github.com/u1i/samsa) converts between OpenAPI v2 and v3 formats (YAML/JSON)
 * [majime](https://github.com/u1i/majime) – Dead Simple API Unit Testing
 
+<div class="row-2col" markdown="1">
+<div class="col-left" markdown="1">
+
 ## Speaking Engagements & Slides
 
 * NUS E&A Learning Symposium – Keynote (October 2025)
@@ -152,6 +155,9 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Architecting Clouds with IBM](https://github.com/u1i/slides/blob/master/20120801%20IBM%20Architecting%20Clouds.pdf) (August 2012)
 * [Provisioning Cloud Environments with HP OO](https://github.com/u1i/slides/blob/master/20081211%20HP%20Operations%20Orchestration.ppt) (December 2008)
 
+</div>
+<div class="col-right" markdown="1">
+
 ## Articles
 
 * [The Consciousness in the Machine](https://www.linkedin.com/pulse/consciousness-machine-uli-hitzel-01zfc) (June 2025)
@@ -222,6 +228,9 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [On APIs and Tools that don't have one](https://www.linkedin.com/pulse/apis-tools-dont-have-one-uli-hitzel/) (September 2017)
 * [Why go cloud? Microsoft Blog](https://github.com/u1i/articles/blob/master/20170327%20Microsoft%20SMB%20Blog.pdf) (March 2017)
 * [Did this AI bot feel hungry after looking at all my Instagram photos?](https://www.linkedin.com/pulse/did-ai-bot-feel-hungry-after-looking-all-my-instagram-uli-hitzel/) (March 2017)
+
+</div>
+</div>
 
 ## Teaching at National University of Singapore
 
