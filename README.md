@@ -34,6 +34,10 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [The Bot Who Loved Me](https://www.electricminds.net/book-the-bot-who-loved-me) (Paperback / Kindle, 2023)
 * [Neurons & Nonsense – How AI rewired my creative DNA](https://www.electricminds.net/book-neurons-nonsense) (Paperback / Kindle, 2024)
 
+## Music
+
+* Bach Sonatas and Chorales, 2024 on [Spotify](https://open.spotify.com/album/0gnRSuQ2qL5JuXlo0YAL2C) and [Apple Music](https://music.apple.com/us/artist/uli-hitzel/1739466607).
+
 </div>
 </div>
 
@@ -228,10 +232,6 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Programme info on ACE](https://ace.nus.edu.sg/nus-fintech-sg-programme/)
 * [Profile page at Advanced Computing for Executives (ACE), School of Computing](https://ace.nus.edu.sg/about-us/executive-education-fellow/)
 * [DevOps Course – Resources](https://github.com/u1i/devops-course)
-
-## Music
-
-* Bach Sonatas and Chorales, 2024 on [Spotify](https://open.spotify.com/album/0gnRSuQ2qL5JuXlo0YAL2C) and [Apple Music](https://music.apple.com/us/artist/uli-hitzel/1739466607).
 
 ## AI Research
 
