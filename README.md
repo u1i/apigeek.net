@@ -2,6 +2,9 @@
 
 ![](./resources/uli2-round-small2.png)
 
+<div class="row-2col">
+<div class="col-left">
+
 ## About me
 
 I'm a technology leader with experience at global companies including Dyson, IBM, Microsoft, Red Hat and Yahoo!. I focus on making artificial intelligence accessible and practical for everyone.
@@ -17,6 +20,9 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Amazon Author Page](https://amazon.com/author/uli)
 * [Send me an email](./resources/nospam.jpg)
 
+</div>
+<div class="col-right">
+
 ## Newsletter
 
 [AI, Life & Everything (Weekly)](https://www.linkedin.com/feed/update/urn:li:activity:7382223521420255232/)
@@ -27,6 +33,9 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Bedtime Stories from an AI](https://www.electricminds.net/book-bedtime-stories-from-an-ai) (Paperback / Kindle, 2023)
 * [The Bot Who Loved Me](https://www.electricminds.net/book-the-bot-who-loved-me) (Paperback / Kindle, 2023)
 * [Neurons & Nonsense – How AI rewired my creative DNA](https://www.electricminds.net/book-neurons-nonsense) (Paperback / Kindle, 2024)
+
+</div>
+</div>
 
 
 ## Open Source Projects

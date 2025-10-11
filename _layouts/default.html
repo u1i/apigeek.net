@@ -23,6 +23,33 @@
       tr, td, th {
    border:none;
 	}
+
+      /* Two column layout */
+      .row-2col {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 3rem;
+        margin: 2rem 0;
+      }
+
+      .col-left {
+        padding-right: 1rem;
+      }
+
+      .col-right {
+        padding-left: 1rem;
+      }
+
+      /* Responsive: stack on mobile */
+      @media (max-width: 768px) {
+        .row-2col {
+          grid-template-columns: 1fr;
+          gap: 1rem;
+        }
+        .col-left, .col-right {
+          padding: 0;
+        }
+      }
       </style>
 
 {% seo %}
