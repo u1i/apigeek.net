@@ -36,6 +36,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Music
 
+* [Humans are Everything](https://www.electricminds.net/humans-are-everything), 2025 on [Spotify](https://open.spotify.com/track/2M8KxeXkPLDcDXh7NWILL1), [Apple Music](https://music.apple.com/us/album/humans-are-everything-single/1854658224), [YouTube](https://www.youtube.com/watch?v=mCWy3Zsz0yQ)
 * Bach Sonatas and Chorales, 2024 on [Spotify](https://open.spotify.com/album/0gnRSuQ2qL5JuXlo0YAL2C) and [Apple Music](https://music.apple.com/us/artist/uli-hitzel/1739466607).
 
 </div>
