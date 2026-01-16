@@ -29,6 +29,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Books
 
+* [Did Your AI Just Sigh?](https://www.electricminds.net/book-did-your-ai-just-sigh) (Paperback, 2026)
 * [The LLM Stack: A Practical Guide to Understanding AI](https://llmstack-book.hitzel.net/) (Digital, 2025)
 * [Bedtime Stories from an AI](https://www.electricminds.net/book-bedtime-stories-from-an-ai) (Paperback / Kindle, 2023)
 * [The Bot Who Loved Me](https://www.electricminds.net/book-the-bot-who-loved-me) (Paperback / Kindle, 2023)
