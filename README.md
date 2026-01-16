@@ -31,9 +31,9 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 * [Did Your AI Just Sigh?](https://www.electricminds.net/book-did-your-ai-just-sigh) (Paperback, 2026)
 * [The LLM Stack: A Practical Guide to Understanding AI](https://llmstack-book.hitzel.net/) (Digital, 2025)
+* [Neurons & Nonsense – How AI rewired my creative DNA](https://www.electricminds.net/book-neurons-nonsense) (Paperback / Kindle, 2024)
 * [Bedtime Stories from an AI](https://www.electricminds.net/book-bedtime-stories-from-an-ai) (Paperback / Kindle, 2023)
 * [The Bot Who Loved Me](https://www.electricminds.net/book-the-bot-who-loved-me) (Paperback / Kindle, 2023)
-* [Neurons & Nonsense – How AI rewired my creative DNA](https://www.electricminds.net/book-neurons-nonsense) (Paperback / Kindle, 2024)
 
 ## Music
 
