@@ -84,6 +84,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Speaking Engagements & Slides
 
+* APAC Art x Tech Hackathon @ SMU (January 2026)
 * NUS E&A Learning Symposium – Keynote (October 2025)
 * AI Stories at Boat Quay (September 2025)
 * The Future of Secure, Agentic AI-Driven Software Development – AWS / GitLab (August 2025)
