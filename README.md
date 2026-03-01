@@ -47,6 +47,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 <div class="col-left" markdown="1">
 
 ## Open Source Projects
+* [Polly](https://github.com/u1i/polly): A dictation app for MacOS powered by Groq
+* [gcast](https://github.com/u1i/gcast): Google Cast Discovery & Control CLI on local Wifi
 * [Simple Memory MCP server](https://github.com/u1i/simple-memory-mcp-server):  showing how to build memory tools for LLMs
 * [glean](https://github.com/u1i/glean): A command-line tool for analyzing text using OpenRouter API with language models.
 * [glimpse](https://github.com/u1i/glimpse): A command-line tool for analyzing images using OpenRouter API with multimodal models.
