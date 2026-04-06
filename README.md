@@ -20,12 +20,12 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Amazon Author Page](https://amazon.com/author/uli)
 * [Send me an email](./resources/nospam.jpg)
 
-</div>
-<div class="col-right" markdown="1">
-
 ## Newsletter
 
 [AI, Life & Everything (Weekly)](https://www.linkedin.com/feed/update/urn:li:activity:7382223521420255232/)
+
+</div>
+<div class="col-right" markdown="1">
 
 ## Books
 
