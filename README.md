@@ -35,6 +35,10 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Bedtime Stories from an AI](https://www.electricminds.net/book-bedtime-stories-from-an-ai) (Paperback / Kindle, 2023)
 * [The Bot Who Loved Me](https://www.electricminds.net/book-the-bot-who-loved-me) (Paperback / Kindle, 2023)
 
+## On TV
+
+* Besties - AI Documentary [Part 1](https://www.youtube.com/watch?v=PUnocfnX7m4) + [Part 2](https://www.youtube.com/watch?v=3BJK5q9y2nQ) (Channel News Asia, 2026)
+
 ## Music
 
 * [Humans are Everything](https://www.electricminds.net/humans-are-everything), 2025 on [Spotify](https://open.spotify.com/track/2M8KxeXkPLDcDXh7NWILL1), [Apple Music](https://music.apple.com/us/album/humans-are-everything-single/1854658224), [YouTube](https://www.youtube.com/watch?v=mCWy3Zsz0yQ)
