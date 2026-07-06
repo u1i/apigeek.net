@@ -266,7 +266,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ### LLM, Semantics & Bias
 
-* [Fable evaluating Flux image models](https://labs.naida.ai/fable-flux-eval/index.html)
+* [Fable evaluating local Flux image models](https://labs.naida.ai/fable-flux-eval/index.html)
 * [Fable evaluating local Qwen3.5 models](https://labs.naida.ai/fable-local-qwen-eval.html)
 * [Infographics visual image evaluation across models](https://www.linkedin.com/posts/uhitzel_how-do-multimodal-models-interpret-beautiful-activity-7352553567217467392-0i77?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACOaqMBTrNcEWRzAtY7IQaDbipSj3PNIjs)
 * [Image generation bias and forced distribution](https://www.linkedin.com/feed/update/urn:li:activity:7351799223740231680/)
