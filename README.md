@@ -91,6 +91,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Speaking Engagements & Slides
 
+* AI Master Class for Commercial CPG Leaders @ EDB Singapore (July 2026)
+* AI Briefing for Business Leaders @ Universitas Pelita Harapan, Jakarta (May 2026)
 * APAC Art x Tech Hackathon @ SMU (January 2026)
 * NUS E&A Learning Symposium – Keynote (October 2025)
 * AI Stories at Boat Quay (September 2025)
@@ -264,6 +266,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ### LLM, Semantics & Bias
 
+* [Fable evaluating Flux image models](https://labs.naida.ai/fable-flux-eval/index.html)
+* [Fable evaluating local Qwen3.5 models](https://labs.naida.ai/fable-local-qwen-eval.html)
 * [Infographics visual image evaluation across models](https://www.linkedin.com/posts/uhitzel_how-do-multimodal-models-interpret-beautiful-activity-7352553567217467392-0i77?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACOaqMBTrNcEWRzAtY7IQaDbipSj3PNIjs)
 * [Image generation bias and forced distribution](https://www.linkedin.com/feed/update/urn:li:activity:7351799223740231680/)
 * [Semantic Lens – LLM-driven knowledge extraction with interactive visualization](ai/semantic-lens)
@@ -420,4 +424,4 @@ Get details and an analysis of a Spotify Playlist
 
 * [Mostly Harmless](https://singapore.mostlyharmless.com/)
 * [Redis User Group Singapore](https://github.com/u1i/slides/blob/master/20180418-RedisSG-Meetup1.pdf)
-* [The Martians](https://martians.sg/)
+* [The Martians](https://martians.sg/)	
