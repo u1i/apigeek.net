@@ -266,6 +266,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ### LLM, Semantics & Bias
 
+* [Qwen 3.5 4b Worldview Explorer](https://labs.naida.ai/qwen35_4b_worldview/index.html)
 * [Building a 10M LLM from scratch](https://www.linkedin.com/posts/uhitzel_i-built-a-10-million-parameter-llm-from-scratch-share-7427010334084968448-PyF7)
 * [Fable evaluating local Flux image models](https://labs.naida.ai/fable-flux-eval/index.html)
 * [Fable evaluating local Qwen3.5 models](https://labs.naida.ai/fable-local-qwen-eval.html)
