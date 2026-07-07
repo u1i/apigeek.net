@@ -266,6 +266,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ### LLM, Semantics & Bias
 
+* [Building a 10M LLM from scratch](https://www.linkedin.com/posts/uhitzel_i-built-a-10-million-parameter-llm-from-scratch-share-7427010334084968448-PyF7)
 * [Fable evaluating local Flux image models](https://labs.naida.ai/fable-flux-eval/index.html)
 * [Fable evaluating local Qwen3.5 models](https://labs.naida.ai/fable-local-qwen-eval.html)
 * [Infographics visual image evaluation across models](https://www.linkedin.com/posts/uhitzel_how-do-multimodal-models-interpret-beautiful-activity-7352553567217467392-0i77?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACOaqMBTrNcEWRzAtY7IQaDbipSj3PNIjs)
