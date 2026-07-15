@@ -91,8 +91,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Speaking Engagements & Slides
 
-* Productivity or Risk? Governing AI in the Workplace @ Singaporean-German Chamber of Commerce (August 2026)
-* Prompts & Beers @ Paulaner (July 2026)
+* [Productivity or Risk? Governing AI in the Workplace @ Singaporean-German Chamber of Commerce](https://www.eventbrite.sg/e/productivity-or-risk-governing-ai-in-the-workplace-tickets-1993643188444?aff=uli_linkedin) (August 2026)
+* [Prompts & Beers @ Paulaner](https://www.paulaner-brauhaus-singapore.com/pages/promotions/#prompts-beers) (July 2026)
 * AI Master Class for Commercial CPG Leaders @ EDB Singapore (July 2026)
 * AI Briefing for Business Leaders @ Universitas Pelita Harapan, Jakarta (May 2026)
 * Vibe Coding with Antigravity: From Idea to App in 2 Hours (February 2026)
