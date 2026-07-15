@@ -91,6 +91,8 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 
 ## Speaking Engagements & Slides
 
+* Productivity or Risk? Governing AI in the Workplace @ Singaporean-German Chamber of Commerce (August 2026)
+* Prompts & Beers @ Paulaner (July 2026)
 * AI Master Class for Commercial CPG Leaders @ EDB Singapore (July 2026)
 * AI Briefing for Business Leaders @ Universitas Pelita Harapan, Jakarta (May 2026)
 * APAC Art x Tech Hackathon @ SMU (January 2026)
