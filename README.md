@@ -96,6 +96,7 @@ I'm a technology leader with experience at global companies including Dyson, IBM
 * [Prompts & Beers @ Paulaner](https://www.paulaner-brauhaus-singapore.com/pages/promotions/#prompts-beers) (July 2026)
 * AI Master Class for Commercial CPG Leaders @ EDB Singapore (July 2026)
 * AI Briefing for Business Leaders @ Universitas Pelita Harapan, Jakarta (May 2026)
+* Bangkok AI Night (April 2026)
 * Vibe Coding with Antigravity: From Idea to App in 2 Hours (February 2026)
 * APAC Art x Tech Hackathon @ SMU (January 2026)
 * AI Stories @ Duxton (November 2025)
